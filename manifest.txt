@@ -1396,7 +1396,8 @@ Data/Local/Loading02.OZJ|files/Data/Local/Loading02.OZJ|ab9375aa3f73980fbd23dd8d
 Data/Local/Loading03.OZJ|files/Data/Local/Loading03.OZJ|8d340dbb72ba9987d65b1fd746d63e7800cab1374f27c040c8049d0c17a43883
 Data/Local/mix.bmd|files/Data/Local/mix.bmd|2b7cbdd986902f949456d6addc54ab5e92aa40889b38122be797d6edfe4adb2b
 Data/Local/monsterskill.bmd|files/Data/Local/monsterskill.bmd|d21cefa2fdfba772c45472bd09f8bb5256b279144bc903a5b9eab36025411e58
-Data/Local/Movereq.bmd|files/Data/Local/Movereq.bmd|ee8d831d12a985eb1e32efccfd878e61cdc0a403e5f6f239ceb4f362b7dcd5ac
+Data/Local/Movereq.bmd|files/Data/Local/Movereq.bmd|3640d335c9df13fcdf91ffa58139ec6d48eb34f077d11d0c428505c7298cbf1e
+Data/Local/MovereqTest.bmd|files/Data/Local/MovereqTest.bmd|3640d335c9df13fcdf91ffa58139ec6d48eb34f077d11d0c428505c7298cbf1e
 Data/Local/npcname(jpn).txt|files/Data/Local/npcname(jpn).txt|902746eb4b7fbe994930990d032b7c79b18d6fef63b5c811e3644a81c7162ea4
 Data/Local/quest.bmd|files/Data/Local/quest.bmd|aaeb33cdb32e9d2a41c39cbdd4467eadb117a88e5968280f89b53ca3edc27e9e
 Data/Local/shopcategoryitems.bmd|files/Data/Local/shopcategoryitems.bmd|a673f965ddf082a86b7a54c7323c5d2b44557e8995f3d3e83510700bf6fcd8e4
