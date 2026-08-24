@@ -1386,7 +1386,7 @@ Data/Local/everyone.ozj|files/Data/Local/everyone.ozj|d7a9bed76a57d77a30d91eee47
 Data/Local/Filter.bmd|files/Data/Local/Filter.bmd|fe2b9ed8a5b5e86f611bf6e642cf6212f221dbb271bc31f2463b4f64d38c26dc
 Data/Local/FilterName.bmd|files/Data/Local/FilterName.bmd|6028a636657a583adfae3ce15fadcc4195c2ef47819c1a326572dc1c3337032f
 Data/Local/item.bmd|files/Data/Local/item.bmd|2c1d2bad9fd089f55e0ab828a2c1972fdd59eca405c4c80c0150e91734e70b31
-Data/Local/itemaddoption.bmd|files/Data/Local/itemaddoption.bmd|f02ed4dcf40df035188b32f64be36ed2380bc1ced5d1dd1aee7fc1c1ab5612fa
+Data/Local/itemaddoption.bmd|files/Data/Local/itemaddoption.bmd|2582f4845c94054cd5027b68602b98fb80e99b405fdc28e0c8f75e8df8ae4c89
 Data/Local/itemsetoption.bmd|files/Data/Local/itemsetoption.bmd|d4172ff97fee5ed0f6258dbc7d7f93bf35c0113be5104f17305d3bd5ceb16532
 Data/Local/itemsettype.bmd|files/Data/Local/itemsettype.bmd|5514e6ff3f9b0eeaa80352f1d363f3afff06238bc96251f9a3346509ccc1d87f
 Data/Local/jewelofharmonyoption.bmd|files/Data/Local/jewelofharmonyoption.bmd|a2d60301582b8b60f7bddb91c9fd7385ed1c470199ca956dbc6dd3584dc15a8c
@@ -1404,7 +1404,7 @@ Data/Local/shopcategoryitems.bmd|files/Data/Local/shopcategoryitems.bmd|a673f965
 Data/Local/shopui.bmd|files/Data/Local/shopui.bmd|e74520325f41c24d88e79c6ff6a16a3741334546d6785f923c6cd805636701e4
 Data/Local/skill.bmd|files/Data/Local/skill.bmd|99da3ee2efaf860fd8c8ad27c5d6033ec93dd1b23ba3c169d36dd017aa5dadf1
 Data/Local/slide.bmd|files/Data/Local/slide.bmd|1d0ce40b3f9345745b574fac164d1bb4691d507e73c9b13ec674247098b327f9
-Data/Local/Text.bmd|files/Data/Local/Text.bmd|b6b6870ffc7c13b31a8965d2c0a8783e816ea91c9296c59654bf3cbdd629ebe5
+Data/Local/Text.bmd|files/Data/Local/Text.bmd|7e69388d8b6820078f5dd1ce88a3303bdd2b81c054da4e5c869ab0cfa75f4c27
 Data/Local/Webzenlogo.OZJ|files/Data/Local/Webzenlogo.OZJ|221f798a7f548f61c5e0af74731ce69ca1f67a6a9519e6f3b8f2d442ff7f3260
 Data/Local/webzenlogo02.OZJ|files/Data/Local/webzenlogo02.OZJ|5949b36c227b2be391f7ef8a1994a33b4dabac086444f60677024a9740d15718
 Data/Logo/0Account.OZT|files/Data/Logo/0Account.OZT|56f2c6eae79d037d2d5bf79e8a736097abcc4ac419e55b6988fce9e5b267ffd4
