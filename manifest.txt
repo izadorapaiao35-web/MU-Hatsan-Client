@@ -1391,7 +1391,6 @@ Data/Item/wwe.OZJ|files/Data/Item/wwe.OZJ|4a2a0d0955f02c96b2468d7ecb7bd40e235243
 Data/Item/wwe00.OZJ|files/Data/Item/wwe00.OZJ|397bf9022f0ee42b36b29df6f5ba7526f069afe90c74f937fb655e53b3489fa0
 Data/Item/yellow_jewel.OZJ|files/Data/Item/yellow_jewel.OZJ|a5c1fbe2798fbecc89661b61eb1b190cb124978bd74eb735e85d7dd1c3d72783
 Data/Item/youmuk01aeff.OZJ|files/Data/Item/youmuk01aeff.OZJ|ae560230ea4f268cbf3d87287825ce37629847feb2c7fcf4f58732abbbd2832c
-Data/Launcher/GpuPreference.backup|files/Data/Launcher/GpuPreference.backup|9288e241f7cca01d380453e5c3e87c2225ec8454b0ddc4836f0a6390bd9f5444
 Data/Local/credit.bmd|files/Data/Local/credit.bmd|51be23134ae2997c9fa901b6621e8d49402979be0eb6ac72b5fe08ad08342a16
 Data/Local/dialog.bmd|files/Data/Local/dialog.bmd|d909e50a4152743207e9469c5f713a46906dddc7f9c7e76a1d7dbef54e60150d
 Data/Local/everyone.ozj|files/Data/Local/everyone.ozj|d7a9bed76a57d77a30d91eee47f385997e25f6afda50a1f919ca41ef07b8e357
