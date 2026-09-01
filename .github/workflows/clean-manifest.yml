@@ -1,0 +1,44 @@
+name: Limpar Manifest MU Hatsan
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - manifest.txt
+
+permissions:
+  contents: write
+
+jobs:
+  limpar-manifest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+
+      - name: Remover arquivos locais do Launcher
+        shell: bash
+        run: |
+          echo "Limpando Data/Launcher do manifest..."
+
+          grep -v '^Data/Launcher/' manifest.txt > manifest_limpo.txt || true
+          mv manifest_limpo.txt manifest.txt
+
+          echo "Manifest limpo."
+
+      - name: Salvar manifest limpo
+        shell: bash
+        run: |
+          if git diff --quiet -- manifest.txt; then
+            echo "Nada para remover."
+            exit 0
+          fi
+
+          git config user.name "MU Hatsan Auto Update"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add manifest.txt
+          git commit -m "Limpar arquivos locais do Launcher do manifest"
+          git push
