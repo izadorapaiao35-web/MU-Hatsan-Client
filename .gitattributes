@@ -1,0 +1,5 @@
+/bootstrap/MUHATSAN_UPDATE.exe -text
+/bootstrap/updater.json -text
+/client/release.json -text
+/client/manifest.json -text
+/client/files/** -text
