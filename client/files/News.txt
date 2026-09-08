@@ -1,0 +1,6 @@
+﻿; MU HATSAN - EVENTOS & DICAS
+; TITULO|SUBTITULO|DESCRICAO|IMAGEM|LINK
+EVENTOS DO SERVIDOR|MATA-MATA • PEGA-PEGA • REI DO KILLER|Fique de olho nos eventos da equipe, participe das disputas e conquiste premiações.|news_3.jpg|https://muhatsan.online
+ARENA ESPECIAL|DESAFIO • EXP • DROPS|Uma área exclusiva para quem quer encarar monstros mais fortes e buscar recompensas especiais.|news_4.jpg|https://muhatsan.online
+BÔNUS & NOVIDADES|VANTAGENS PARA SUA JORNADA|Acompanhe bônus, promoções, novidades e tudo que pode ajudar na evolução do seu personagem.|news_2.jpg|https://muhatsan.online
+COMUNIDADE MU HATSAN|SITE OFICIAL • SUPORTE • AVISOS|Clique aqui para acessar o MU Hatsan, acompanhar informações oficiais e ficar por dentro do servidor.|news_1.jpg|https://muhatsan.online

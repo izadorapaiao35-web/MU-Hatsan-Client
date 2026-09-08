@@ -1,0 +1,66 @@
+{
+    "version":  "1.0.0",
+    "manifestUrl":  "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/manifest.json",
+    "manifestSha256":  "6cbe44aed51bf5410f5d30d5a04cfb491b2e73143e82bc08c8018face319e48f",
+    "manifestSize":  2859495,
+    "baseUrl":  "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
+    "fullCheckIntervalHours":  168,
+    "criticalFiles":  [
+                          {
+                              "path":  "Main.exe",
+                              "sha256":  "2f3c63f5c8b82922521875128007aa3940ff38a23c35b3c0258a0c27ca668489",
+                              "size":  1261056,
+                              "required":  true,
+                              "critical":  true
+                          },
+                          {
+                              "path":  "MUHATSAN_LAUNCHER.exe",
+                              "sha256":  "8facde796a00381de69192e1607a83c119ac8db3e9cb60e4c3cd99b615c66eaf",
+                              "size":  284672,
+                              "required":  true,
+                              "critical":  true
+                          },
+                          {
+                              "path":  "MUHATSAN_LAUNCHER.exe.config",
+                              "sha256":  "8b76a0491a83c734befcb80a8d7831d78e70b9c1c6ece197c4912b40908eb6e5",
+                              "size":  362,
+                              "required":  true,
+                              "critical":  true
+                          },
+                          {
+                              "path":  "MUHATSAN_LAUNCHER.ini",
+                              "sha256":  "04db050eb6cedb97caa78501d68f106c4c760257faf20244776ca979be8ec4c2",
+                              "size":  725,
+                              "required":  true,
+                              "critical":  true
+                          },
+                          {
+                              "path":  "Customs.dll",
+                              "sha256":  "a3bb0740e1c2ab23fe03548f76b53f288e75c0ad9e7c47e1c380f7da46d68d30",
+                              "size":  263168,
+                              "required":  true,
+                              "critical":  true
+                          },
+                          {
+                              "path":  "mumsg2.dll",
+                              "sha256":  "a12030781117681ef10cb67e3d409936d7620aba3751df8ac9ea0506f0da9704",
+                              "size":  49152,
+                              "required":  true,
+                              "critical":  true
+                          },
+                          {
+                              "path":  "dinput8.dll",
+                              "sha256":  "6ba3b8d88bcdf150a4ea857159d9734570fee2b6c1d6776457314cecc206e4fd",
+                              "size":  6656,
+                              "required":  true,
+                              "critical":  true
+                          },
+                          {
+                              "path":  "MFSvc2.dll",
+                              "sha256":  "ee1163a813039ac1b4da891f6aead9143d7a7612206a7ddfb227dc94155d0dc0",
+                              "size":  122940,
+                              "required":  true,
+                              "critical":  true
+                          }
+                      ]
+}
