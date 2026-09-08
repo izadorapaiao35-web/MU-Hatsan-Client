@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.0",
+    "version":  "1.0.1",
     "baseUrl":  "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
     "files":  [
                   {
@@ -137,8 +137,8 @@
                   },
                   {
                       "path":  "Data/Custom/HatsanDisplay.ini",
-                      "sha256":  "30acab982f1300e0a604d792190878c14031d63730d9ffada4cd55d43644daa4",
-                      "size":  66,
+                      "sha256":  "48604fc4e23429828480f1863a89b68742c8c3529c8bc41cf6265284d203a8ad",
+                      "size":  70,
                       "required":  true,
                       "critical":  false
                   },
@@ -60624,8 +60624,8 @@
                   },
                   {
                       "path":  "MUHATSAN_LAUNCHER.exe",
-                      "sha256":  "8facde796a00381de69192e1607a83c119ac8db3e9cb60e4c3cd99b615c66eaf",
-                      "size":  284672,
+                      "sha256":  "cc75c33347fa792434bd3e626688f6a815f202958367a2b2cd00395305d272e6",
+                      "size":  326144,
                       "required":  true,
                       "critical":  true
                   },
@@ -60701,6 +60701,7 @@
                   }
               ],
     "delete":  [
-
+                   "Data/object34/object01_Â¿Ã¸ÂºÂ».bmd",
+                   "Data/Sound/sÃ€Ã¼Â»Ã§Â¹Ã¦Â¾Ã®.wav"
                ]
 }
