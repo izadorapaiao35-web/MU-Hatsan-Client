@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "baseUrl":  "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
     "files":  [
                   {
@@ -39,64 +39,64 @@
                   },
                   {
                       "path":  "Assets/patente-combatente.png",
-                      "sha256":  "bf87b518b0641c394f9bc0e5d22e413cd538adf6a31a29febd4b112b0b9ed369",
-                      "size":  8581,
+                      "sha256":  "9ce639f2e62b083ce30bdb196dbca2d3cedf62d3c1e01a06334e2c0d4bab7266",
+                      "size":  6960,
                       "required":  true,
                       "critical":  false
                   },
                   {
                       "path":  "Assets/patente-elite.png",
-                      "sha256":  "e72b0c09d2a6d3786906b68341281f397c76d29013eabe84c20e1c6157717c6e",
-                      "size":  10133,
+                      "sha256":  "e639392b4b982ba74ec52202293d445f74159a63d536eef3c8ad153b34a48996",
+                      "size":  7665,
                       "required":  true,
                       "critical":  false
                   },
                   {
                       "path":  "Assets/patente-guardiao.png",
-                      "sha256":  "79d98206466b1cc7d958e260975d6c8d3b0717e1dd1e5c27ead0b54eee05c40a",
-                      "size":  10095,
+                      "sha256":  "df7ae28d9a350b7ff112dc4589b4489cbacb4ff416aed1ec0c52ad28f8951c71",
+                      "size":  7577,
                       "required":  true,
                       "critical":  false
                   },
                   {
                       "path":  "Assets/patente-imperador.png",
-                      "sha256":  "8d743c6035d6c0a0c97e52388ea4f6cccda51a8f1d7f4725465286d0494d0d59",
-                      "size":  10939,
+                      "sha256":  "60ff2b1dd5aa88fca22c1b5786ae24f1f0f46ba6de6dafe2ced6983fc3c7ee2f",
+                      "size":  8177,
                       "required":  true,
                       "critical":  false
                   },
                   {
                       "path":  "Assets/patente-iniciante.png",
-                      "sha256":  "dec67876a2665b00fb1012bc6a94b5c285e9cdc06969390d232340e5ec1d5482",
-                      "size":  6117,
+                      "sha256":  "cdede02c9d87f8976547713c1a3f67bad19e3b43dd5179b7a80535ecc9738d49",
+                      "size":  6936,
                       "required":  true,
                       "critical":  false
                   },
                   {
                       "path":  "Assets/patente-lenda.png",
-                      "sha256":  "72c1e8918ec551cdda954fcc1d69d831157ca03504f7ec876a17e23d94f6f0fa",
-                      "size":  11365,
+                      "sha256":  "bdf4a1e3ca4b9235d678dd880ab8096bea66859d7a53c03326c9b9e6823580b3",
+                      "size":  7674,
                       "required":  true,
                       "critical":  false
                   },
                   {
                       "path":  "Assets/patente-lorde.png",
-                      "sha256":  "ba0d56a14ffe186f545ea733a1fa9fa7db68e7e863b0ad2b87ec0cc28facb590",
-                      "size":  10630,
+                      "sha256":  "cf68ba223649815e00546d171f08067d05e9a1246eb139dfb5d8bb9260688e98",
+                      "size":  7310,
                       "required":  true,
                       "critical":  false
                   },
                   {
                       "path":  "Assets/patente-mestre.png",
-                      "sha256":  "97fb57140883817f62371c05ecf63e9d234e5b7226f55e2684b83c44240fa4f4",
-                      "size":  10354,
+                      "sha256":  "a7b40dfafa23ff1d30516d80721d469879f729941993dd0d3cb1b2d817351af7",
+                      "size":  6925,
                       "required":  true,
                       "critical":  false
                   },
                   {
                       "path":  "Assets/patente-veterano.png",
-                      "sha256":  "db54f155751c63ce96781d2d958f3a9ae65548b0c37f4303219a2322f2c15c6d",
-                      "size":  9386,
+                      "sha256":  "c2fd90c1627c80cc2aa74de758e03c35166975dd932bb79f938035bb209753cf",
+                      "size":  7174,
                       "required":  true,
                       "critical":  false
                   },

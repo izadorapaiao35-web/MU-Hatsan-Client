@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "manifestUrl":  "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/manifest.json",
-    "manifestSha256":  "3c476538b2ee2f5388dc871fb583c7330465a90a16e59d59b0d4ae25718b3975",
-    "manifestSize":  2859495,
+    "manifestSha256":  "71efcc65e4be802d42d2766d8556b91959802da77c813f9ebb3330da8d5f698d",
+    "manifestSize":  2859489,
     "baseUrl":  "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
     "fullCheckIntervalHours":  168,
     "criticalFiles":  [
