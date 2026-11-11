@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -60592,7 +60592,7 @@
       "sha256": "9c5998417084379c4fbe6ca52c7302aed972ced431010b1824549e82808fc2f8",
       "size": 57,
       "required": true,
-      "critical": false
+      "critical": true
     },
     {
       "path": "MainLab.ini",
