@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "a3bb0740e1c2ab23fe03548f76b53f288e75c0ad9e7c47e1c380f7da46d68d30",
-      "size": 263168,
+      "sha256": "43676762da177aa4f923b6553a3250f838e045aae777362b57c496ee94b6670f",
+      "size": 272896,
       "required": true,
       "critical": true
     },
@@ -47079,8 +47079,8 @@
     },
     {
       "path": "Data/Player/player.bmd",
-      "sha256": "dc9e02259ccfc6cf8c0e528b0e12ad48260a2d6e71e5e2580597379bb3bb3b0f",
-      "size": 2662002,
+      "sha256": "14d67e2af4db00d114cae9e708bf09ee601406ea6ecd33bc0ab6f9bb3e1b56d5",
+      "size": 2675205,
       "required": true,
       "critical": false
     },
@@ -55304,8 +55304,8 @@
     },
     {
       "path": "Data/World1/EncTerrain1.obj",
-      "sha256": "ba2b9f9623751fc097d8fadfbc62ffa00f27e7eb902ddc73437a2f371af7b287",
-      "size": 86104,
+      "sha256": "9044725578ea7ef3a1a26bf249f4eabb6dcaec62cb1869445feaa09ce79da755",
+      "size": 86134,
       "required": true,
       "critical": false
     },
@@ -60698,6 +60698,27 @@
       "size": 212992,
       "required": true,
       "critical": false
+    },
+    {
+      "path": "Data/Custom/Despertar/strike-effects.hat",
+      "required": true,
+      "critical": false,
+      "sha256": "2662501c3b98457f5279d2f8c9f3a01040fd67dca3930fb4238d2c1932368ed0",
+      "size": 4194312
+    },
+    {
+      "path": "Data/Custom/Despertar/strike-models.bin",
+      "required": true,
+      "critical": false,
+      "sha256": "013cd830ee6a17f44f32e20b4690d4ba47188d47a1f5ca334d1c88b984f3621a",
+      "size": 601236
+    },
+    {
+      "path": "Data/Custom/Despertar/strike-of-destruction.wav",
+      "required": true,
+      "critical": false,
+      "sha256": "b603336ee67ff44d0c11288b253095c964770138ef3acbc2970192217361460f",
+      "size": 176444
     }
   ],
   "delete": []
