@@ -1,5 +1,5 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -60745,15 +60745,15 @@
       "path": "Data/Item/Sword38.bmd",
       "required": true,
       "critical": false,
-      "sha256": "64af1958094d45103830bd023c79c5ade6944426c9e9870dc5a2d38b0ba5b356",
-      "size": 56796
+      "sha256": "5fecb3945b429d0abb87560b1f5a95497ab93bbf22eaf725d1dc7c80dcbf9d3c",
+      "size": 79303
     },
     {
       "path": "Data/Item/hatsan-crown-sword.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "cd373b51b86b0e6d2bbc2d94d82c8fd73dba239975d4353537bd960d939fe10d",
-      "size": 105871
+      "sha256": "215a1c57774239322f6da16d0ecc1343c789552e62f1fce8aba7e2298973b9eb",
+      "size": 54004
     },
     {
       "path": "Data/Item/hatsan-crown-glow.OZJ",
@@ -60775,6 +60775,27 @@
       "critical": false,
       "sha256": "cde1091b73be867148287998ccd86f6a513663eecb6c2890a1e859eee06a8449",
       "size": 4144
+    },
+    {
+      "path": "Data/Item/hatsan-crown-rune.OZT",
+      "required": true,
+      "critical": false,
+      "sha256": "ed4044e0c7fafa9d33f92ebd31a5b01a3a3887a89ac89aca841181fe70f59d6d",
+      "size": 16432
+    },
+    {
+      "path": "Data/Item/hatsan-crown-flare.OZT",
+      "required": true,
+      "critical": false,
+      "sha256": "0431d461d21e36790b730b4923588ac4641003ef078a6949bd4665b58d7eaef5",
+      "size": 65584
+    },
+    {
+      "path": "Data/Item/hatsan-crown-aura.OZT",
+      "required": true,
+      "critical": false,
+      "sha256": "db1d9866d406a069bec68ecacdb40a853f4acb8a0c2bd9cf6709e288f331c19c",
+      "size": 131120
     }
   ],
   "delete": []
