@@ -1,5 +1,5 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.19",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -60768,6 +60768,13 @@
       "critical": false,
       "sha256": "49eb6038de14c27e482dda2fa358490088210a830ed1dc82780581ca44ac8549",
       "size": 176444
+    },
+    {
+      "path": "Data/NPC/gggd01.OZT",
+      "required": true,
+      "critical": false,
+      "sha256": "cde1091b73be867148287998ccd86f6a513663eecb6c2890a1e859eee06a8449",
+      "size": 4144
     }
   ],
   "delete": []
