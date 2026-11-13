@@ -1,5 +1,5 @@
 {
-  "version": "1.0.23",
+  "version": "1.0.24",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "d23e8110013b2ea9a66dec44b8f56ac780a413f1b7215d2288ed56ffca6aa231",
-      "size": 329216,
+      "sha256": "a1beb0f78aae5c631ad4ca7dafe45d17a67d32becb513692d1377b8fe016d957",
+      "size": 352768,
       "required": true,
       "critical": true
     },
@@ -60745,7 +60745,7 @@
       "path": "Data/Item/Sword38.bmd",
       "required": true,
       "critical": false,
-      "sha256": "b6e54f869d78bde5cdbb1c660e7a977a455f25b63bcbbcaceaa01afb47c59c35",
+      "sha256": "8dd688856a5650e8d79d4dd54a45eb3f365b720e70c6e0e8242482b95ed11c63",
       "size": 120287
     },
     {
