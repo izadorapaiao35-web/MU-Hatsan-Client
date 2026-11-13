@@ -1,5 +1,5 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "1f13f7dbb755fd73b1d538398188f25081843ad683114e062d80f9cf6b0025dc",
-      "size": 309248,
+      "sha256": "457c7f4a0443cf82f59610f8974b11b9f48e988a7c6227d60219b62c0d200ae9",
+      "size": 320000,
       "required": true,
       "critical": true
     },
@@ -9860,7 +9860,7 @@
     },
     {
       "path": "Data/Local/item.bmd",
-      "sha256": "58a46f1c8268b2b9353b35537b7c8ee748254063d7712ee0137cc8a95689cf2e",
+      "sha256": "5e2dbbd046a1cc7131d05569f647a6dfc765d32243475487b9420ab5c14423b1",
       "size": 688132,
       "required": true,
       "critical": false
@@ -55304,8 +55304,8 @@
     },
     {
       "path": "Data/World1/EncTerrain1.obj",
-      "sha256": "9044725578ea7ef3a1a26bf249f4eabb6dcaec62cb1869445feaa09ce79da755",
-      "size": 86134,
+      "sha256": "97adc3fcc93d94e145283a7802b4e6c80b3eb3636591b5524376644f7ad60692",
+      "size": 86164,
       "required": true,
       "critical": false
     },
