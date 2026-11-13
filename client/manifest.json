@@ -1,5 +1,5 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "ebc4613458f67faa950b28ce509b43cd8406c8f3fb13887493da8cec2dee861b",
-      "size": 308224,
+      "sha256": "1f13f7dbb755fd73b1d538398188f25081843ad683114e062d80f9cf6b0025dc",
+      "size": 309248,
       "required": true,
       "critical": true
     },
@@ -60719,6 +60719,27 @@
       "critical": false,
       "sha256": "b603336ee67ff44d0c11288b253095c964770138ef3acbc2970192217361460f",
       "size": 176444
+    },
+    {
+      "path": "Data/Custom/Patentes/GM.rgba",
+      "required": true,
+      "critical": false,
+      "sha256": "d1a3c6240c9686f01a3a43ad60d41a8387de42d3ecbb7c98ad58ab2084bc5c6a",
+      "size": 65540
+    },
+    {
+      "path": "Data/Custom/Patentes/ADM.rgba",
+      "required": true,
+      "critical": false,
+      "sha256": "ecada2874c3a5bf3b47a78938dcd548e40ed0923ece16026c19c41114b75f8ab",
+      "size": 65540
+    },
+    {
+      "path": "Data/Custom/Patentes/ReiPvP.rgba",
+      "required": true,
+      "critical": false,
+      "sha256": "1da61127863bdc8fc7df7d2ef5b34b2190f1b46f3f5ebf2c3a3a7839c88e48ce",
+      "size": 65540
     }
   ],
   "delete": []
