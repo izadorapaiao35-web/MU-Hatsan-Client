@@ -1,5 +1,5 @@
 {
-  "version": "1.0.20",
+  "version": "1.0.21",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -60745,8 +60745,8 @@
       "path": "Data/Item/Sword38.bmd",
       "required": true,
       "critical": false,
-      "sha256": "5fecb3945b429d0abb87560b1f5a95497ab93bbf22eaf725d1dc7c80dcbf9d3c",
-      "size": 79303
+      "sha256": "a163c5dbbc5c9da128976a413875dd57c7711856cd068296fffb653581d8aada",
+      "size": 77499
     },
     {
       "path": "Data/Item/hatsan-crown-sword.OZJ",
@@ -60796,6 +60796,13 @@
       "critical": false,
       "sha256": "db1d9866d406a069bec68ecacdb40a853f4acb8a0c2bd9cf6709e288f331c19c",
       "size": 131120
+    },
+    {
+      "path": "Data/Item/hatsan-crown-sparks.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "df5927c224cb15de8b58ffa8e0c08a3ccad32b2311d647fbe9e2c865c6d69892",
+      "size": 725
     }
   ],
   "delete": []
