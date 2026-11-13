@@ -1,5 +1,5 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.23",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "cc6378563d2dbb885266e8d23ab4d2e844b13656b24ad7786bd01a51c0b00f97",
-      "size": 324096,
+      "sha256": "d23e8110013b2ea9a66dec44b8f56ac780a413f1b7215d2288ed56ffca6aa231",
+      "size": 329216,
       "required": true,
       "critical": true
     },
@@ -9860,28 +9860,28 @@
     },
     {
       "path": "Data/Local/item.bmd",
-      "sha256": "fa65c3bc1dacb913dd261ed194e6622657608874f940ffd607c7722bfbc4bbaa",
+      "sha256": "92033dfac0e091a2301ee8489d3f31572e482216e14203526e34ba62c294e7ae",
       "size": 688132,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Local/itemaddoption.bmd",
-      "sha256": "2582f4845c94054cd5027b68602b98fb80e99b405fdc28e0c8f75e8df8ae4c89",
+      "sha256": "4b779e18d4173e8d3d1bcfda4a28c6410b6326ebece0d874ad15340af76b79e0",
       "size": 131072,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Local/itemsetoption.bmd",
-      "sha256": "d4172ff97fee5ed0f6258dbc7d7f93bf35c0113be5104f17305d3bd5ceb16532",
+      "sha256": "08567deb5da64113de84dca23039e620f598cf61a762ace2966361576055c481",
       "size": 6916,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Local/itemsettype.bmd",
-      "sha256": "5514e6ff3f9b0eeaa80352f1d363f3afff06238bc96251f9a3346509ccc1d87f",
+      "sha256": "9bd8eb377585090240da21f30d6f9e45e9492154c3d505e8a7683a28e4bb0634",
       "size": 32772,
       "required": true,
       "critical": false
@@ -60745,15 +60745,15 @@
       "path": "Data/Item/Sword38.bmd",
       "required": true,
       "critical": false,
-      "sha256": "e5dabc040df180f391b2bc602645b2aa48eff62e42349e29b45bd996fbc4cb78",
-      "size": 77499
+      "sha256": "b6e54f869d78bde5cdbb1c660e7a977a455f25b63bcbbcaceaa01afb47c59c35",
+      "size": 120287
     },
     {
       "path": "Data/Item/hatsan-crown-sword.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "2eb6554bd39b286af133f23d9076c5c363f4468481b25cdc4fab3c554e43d726",
-      "size": 25336
+      "sha256": "bf365ff45a179aeeba79b7766812f8cb9e75ebaa0832a6cc880b17396908a326",
+      "size": 35979
     },
     {
       "path": "Data/Item/hatsan-crown-glow.OZJ",
