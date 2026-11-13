@@ -1,5 +1,5 @@
 {
-  "version": "1.0.21",
+  "version": "1.0.22",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "cb84cb50916c108c355ffecf668b457de2e3e1ae308cd9c13971fdcbd36930ca",
-      "size": 322048,
+      "sha256": "cc6378563d2dbb885266e8d23ab4d2e844b13656b24ad7786bd01a51c0b00f97",
+      "size": 324096,
       "required": true,
       "critical": true
     },
@@ -60745,15 +60745,15 @@
       "path": "Data/Item/Sword38.bmd",
       "required": true,
       "critical": false,
-      "sha256": "a163c5dbbc5c9da128976a413875dd57c7711856cd068296fffb653581d8aada",
+      "sha256": "e5dabc040df180f391b2bc602645b2aa48eff62e42349e29b45bd996fbc4cb78",
       "size": 77499
     },
     {
       "path": "Data/Item/hatsan-crown-sword.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "215a1c57774239322f6da16d0ecc1343c789552e62f1fce8aba7e2298973b9eb",
-      "size": 54004
+      "sha256": "2eb6554bd39b286af133f23d9076c5c363f4468481b25cdc4fab3c554e43d726",
+      "size": 25336
     },
     {
       "path": "Data/Item/hatsan-crown-glow.OZJ",
@@ -60801,8 +60801,8 @@
       "path": "Data/Item/hatsan-crown-sparks.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "df5927c224cb15de8b58ffa8e0c08a3ccad32b2311d647fbe9e2c865c6d69892",
-      "size": 725
+      "sha256": "19ad065658880474d0ef036337c31d6fb962d95e59f5bf1587e8f59344dcf374",
+      "size": 724
     }
   ],
   "delete": []
