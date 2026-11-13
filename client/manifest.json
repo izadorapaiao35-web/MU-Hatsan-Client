@@ -1,5 +1,5 @@
 {
-  "version": "1.0.16",
+  "version": "1.0.17",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "457c7f4a0443cf82f59610f8974b11b9f48e988a7c6227d60219b62c0d200ae9",
-      "size": 320000,
+      "sha256": "67eb500bb8924b09e0f797afa632bdecc553f66125e6c672bf8225398777fa52",
+      "size": 321024,
       "required": true,
       "critical": true
     },
