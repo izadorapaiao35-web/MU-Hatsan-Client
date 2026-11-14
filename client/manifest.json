@@ -1,5 +1,5 @@
 {
-  "version": "1.0.31",
+  "version": "1.0.32",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "d7497b495bc79c5c2a6dffb6d9887059ac62c6cb774b0d3b7e3799236178a34f",
-      "size": 377344,
+      "sha256": "0d091f93051ac0b67ebbf92d1d97abc59aabe92a34d2a65a9aba77f974ac05de",
+      "size": 379392,
       "required": true,
       "critical": true
     },
@@ -16314,8 +16314,8 @@
     },
     {
       "path": "Data/Object1/angel_stone_statue.OZJ",
-      "sha256": "cbda0da5c979df5ba1d5a0638346d95dd8d2485751616210d7aedb1c9cbd98c7",
-      "size": 19236,
+      "sha256": "5a87463fb5527c3286844c9084c1a1818a50e38ec56e4912d59b7eb957c393c9",
+      "size": 18757,
       "required": true,
       "critical": false
     },
@@ -16405,8 +16405,8 @@
     },
     {
       "path": "Data/Object1/bridge_01.OZJ",
-      "sha256": "3ad1e1b0591a90fb0c169c9d6b29d0ea4330f68d81d3636de757886033b0d9ca",
-      "size": 46355,
+      "sha256": "4f0d1cf2d8873e77541427923807b805ccfb1b9f4f10ee31a1aaf788133e239c",
+      "size": 56646,
       "required": true,
       "critical": false
     },
@@ -16447,22 +16447,22 @@
     },
     {
       "path": "Data/Object1/c_wall04.OZJ",
-      "sha256": "4074c5cc2308ec11444e9ce2f86e5430444511de36587f622d7609dd6dae089d",
-      "size": 27798,
+      "sha256": "d44fa98c0a67e739f2936d0a99f66f19fc4336e2e685c5c2cc1e871f3924c456",
+      "size": 28683,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object1/c_wall05.OZJ",
-      "sha256": "ac5eeda1601a7d70290d9aca2259a9b66fcaccafb2a20019a668885198af9f63",
-      "size": 32561,
+      "sha256": "8ee1648852253b18e8bf472f260e6a7b1c91bdb1d819f927bceb897938c489cf",
+      "size": 31974,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object1/c_wall06.OZJ",
-      "sha256": "6eb7a3ebeb0e2278d85c5f5d3ea28c1fb6a1b35db8582db3dd7c2b6aedcaadf9",
-      "size": 33045,
+      "sha256": "f88e4608bea43615a564c14438553574f781b9743a9c9b7adf6ce9afb93c0642",
+      "size": 33196,
       "required": true,
       "critical": false
     },
@@ -16552,36 +16552,36 @@
     },
     {
       "path": "Data/Object1/cr_stonewolf.ozj",
-      "sha256": "5b28320920c9751f5c547ac90add736ce9e581ed0372c9ba4f7adfa04f196aab",
-      "size": 92890,
+      "sha256": "67d9edb64acfd2153df76ea363ab86b8775517b013def515e3832701f94adcd5",
+      "size": 97073,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object1/cr_stonewolf_ba.ozj",
-      "sha256": "370444af3b35b0c6946634c545bb95f60c52d5254c17a29594ffaba178e386da",
-      "size": 111787,
+      "sha256": "81c2e8bdcd87258a0710cd5177af086d8aa3e9933c8b5e58c5947e2417c98308",
+      "size": 118472,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object1/cr_stonewolf_ba01.ozj",
-      "sha256": "5c55bc1a38db039968aba9aa4b3f3236e5e29131dc0be68199e584b5f35b0d9c",
-      "size": 36937,
+      "sha256": "9952b48061bbd4b9f9adcb9a8461894f51adfcf00213d19833afad250519ad3b",
+      "size": 28604,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object1/cr_stonewolf_ba02.ozj",
-      "sha256": "e31da57ea747b704bc9fc30d8cb3d9a082e9cda19503c300baef42de02f3dc92",
-      "size": 16870,
+      "sha256": "93b15bdde8cdf9848e4175fd7e1508cc0bfb4c97de650841dca8f57dfec94146",
+      "size": 7611,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object1/cr_stonewolf_bafx_r.ozj",
-      "sha256": "2b26578c1fd0ace396ab6e21cff7333ad9ee166e75196d92237e9982c5c8ce7b",
-      "size": 22981,
+      "sha256": "a38875d2f73157fac846c8c99be73a4898cd958579b56da7d556761a3440c5e2",
+      "size": 46273,
       "required": true,
       "critical": false
     },
@@ -17301,15 +17301,15 @@
     },
     {
       "path": "Data/Object1/stone_statue01.OZJ",
-      "sha256": "d2662e0fd1922e7b123c92504ac932e6855b40de379c4856b2531f4f177c20e7",
-      "size": 17914,
+      "sha256": "e24475774a72ee5a4c731bc6aeac9ab33df7aab615dbcfece5483c1d3e96046a",
+      "size": 18454,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object1/stone_statue02.OZJ",
-      "sha256": "bfa268df5e3789e2f30ec6f58de4cf48a2e7e5921f87579152ad7959e1f7a0cf",
-      "size": 19764,
+      "sha256": "ae3ae93aa6d1b2eb887b84ebfa55d30cbdd15fa759b0c2efc3406a043007b2ce",
+      "size": 18175,
       "required": true,
       "critical": false
     },
@@ -17504,8 +17504,8 @@
     },
     {
       "path": "Data/Object1/tile_house01.OZJ",
-      "sha256": "efdf9cf6b54ccf4b9d3d805cf0e7ecdc398aa1fb3c7e77d21778a55790fff683",
-      "size": 38132,
+      "sha256": "ef08694ff53044808f62d67f0f9f1f3985a546391c110d1219c5600e9ee14629",
+      "size": 41621,
       "required": true,
       "critical": false
     },
@@ -17616,15 +17616,15 @@
     },
     {
       "path": "Data/Object1/tombstone.OZJ",
-      "sha256": "de994b26230e3ef9cc9178c7207ee339c6aef33d594e01b7ca620ed494a7e566",
-      "size": 22181,
+      "sha256": "7b1ae08ea77814b67b606eea95bc3b9970b18bb4b306fb5de201a401583b89a8",
+      "size": 23376,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object1/tombstone_big.OZJ",
-      "sha256": "9a498dea5cdcf67f85e073c14c26eba6cb5a45c569d38cc2b8b07604349080a6",
-      "size": 25848,
+      "sha256": "f5d9b9f0811449d2238f4ac3be80708b5d7cc0376c14a1272364595c6550b869",
+      "size": 26531,
       "required": true,
       "critical": false
     },
@@ -19002,85 +19002,85 @@
     },
     {
       "path": "Data/Object2/deep_wall01.OZJ",
-      "sha256": "78379458cc441ce547c482f20656e13f6672fd565c39373865de7fb9ebb9504a",
-      "size": 36033,
+      "sha256": "3f11fd12cedf5f1bcb9cae2bb9d01aface9f805dec02cfbfed30396bba67ca54",
+      "size": 37823,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object2/deep_wall02.OZJ",
-      "sha256": "56690fc74a00d9b1b59a80f1a9c9ffc5222680aa20822cbdc79016d7b17c9457",
-      "size": 44594,
+      "sha256": "d0f11780b1b0d243ee6cb93d9f4f1bb494b00d6584ebe433d426ca15b615bb7f",
+      "size": 49749,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object2/deep_wall03.OZJ",
-      "sha256": "dee54424992a14b93c9732599c4190c164932c7f98708e9aa21ca03a21f63168",
-      "size": 24008,
+      "sha256": "7356b82c710feb5ce705eb6eea3b8279b057bf334ea06cb20ddbfe01a2de0db5",
+      "size": 23658,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object2/deep_wall04.OZJ",
-      "sha256": "83037896d1e2825447e840b4af780ed3608b12c5971c8369eccdfc0f4fb21505",
-      "size": 28784,
+      "sha256": "09eca5548049b2f82934b10977e1025746ea99a902c72a9468bcf11fb84b5f32",
+      "size": 29312,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object2/deep_wall05.OZJ",
-      "sha256": "97ace385566332600d20ad56a009e239db44d49f04dc24bfb5df0e1b00ad4da1",
-      "size": 31500,
+      "sha256": "df5881e9d165051ae35223ee795f227fdb9c3d002c745467b3d3523f3f2847f5",
+      "size": 31682,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object2/deep_wall06.OZJ",
-      "sha256": "8fcac31bf1d1bf5883d7782edbdca4f7466021927bc59ee41f82011d8f586917",
-      "size": 24573,
+      "sha256": "0d1436b17d5a3a002f513800819e342fcad0dffbc72cb72728856f586c92a3b4",
+      "size": 23999,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object2/deep_wall07.OZJ",
-      "sha256": "dc55fcfc282ca780dfed2f3f5c649acac0007765b1a43f4f3fc7ecd864f510ab",
-      "size": 31143,
+      "sha256": "bc334d7c0c82714516dda638a5b0c74ee8bde88eada60691fd8420a2253ef5f8",
+      "size": 31751,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object2/deep_wall08.OZJ",
-      "sha256": "c44154dda257201ed30f1a184e24d64e15ed6b11df5186ff963848d066ffff33",
-      "size": 18545,
+      "sha256": "c47d872af9bd47f1fe0059470235f38bdfa0fce06f8f634e50d8c13e711db818",
+      "size": 16734,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object2/deep_wall09.OZJ",
-      "sha256": "dea46b64e5a4e4bb2585a2dcc2c94fb9420f991450020afc5e649666ad3454cd",
-      "size": 28130,
+      "sha256": "a73deebff94ba67337577580914d06a56fd79603d3ec4235e6cfe96b34f673c9",
+      "size": 27603,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object2/deep_wall10.OZJ",
-      "sha256": "334ec908e834aeec367b9b9bc174fdfaef700299c3264eb623e0a77e4607ba08",
-      "size": 28774,
+      "sha256": "4bc19c22897f94e2eb73935d1e104c45f5613eebadcfceee36f37dc1b3f76be6",
+      "size": 29138,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object2/deep_wall11.OZJ",
-      "sha256": "58952361c29171d79ab71e37e2037ebc9789b1983cb47085f8b272183299c95e",
-      "size": 12806,
+      "sha256": "02ed8da4d37fff0e37a2343b3dc1fdaf397bb9bcac7c864a390bd4f3c4b14d25",
+      "size": 10107,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object2/deep_wall12.OZJ",
-      "sha256": "9d3540a7af29454af04eb1d10c657ef65ec9f3d670e2426d6ed51d0426a3b45f",
-      "size": 77662,
+      "sha256": "f342e9c95ffaf64cc9a0e1c618f13df0ef797c419bbfd98f871ad222ec81a636",
+      "size": 104341,
       "required": true,
       "critical": false
     },
@@ -19576,8 +19576,8 @@
     },
     {
       "path": "Data/Object2/TileRock01.OZJ",
-      "sha256": "f15e66b577b29c6e9ba33aeb886db9bd8a1c0717ae8aeab359ec550b5dbe2d15",
-      "size": 71955,
+      "sha256": "d3f65346319c7af7d58b6b509ae76cd1e7e01a8280c455438ec72d7a89d2aa64",
+      "size": 97347,
       "required": true,
       "critical": false
     },
@@ -19590,8 +19590,8 @@
     },
     {
       "path": "Data/Object2/wood01.OZJ",
-      "sha256": "e54a1ed261bc161b055d3127c97b300faa0a93cdbac72fec84d95c26322842fa",
-      "size": 64475,
+      "sha256": "536a70e4b6d9a5bc952e8e7ec2641da48c9bc3c4d9cdfb31600484427f43aeef",
+      "size": 72722,
       "required": true,
       "critical": false
     },
@@ -20780,8 +20780,8 @@
     },
     {
       "path": "Data/Object3/house_stone_out.OZJ",
-      "sha256": "00f8fb6750dd548637b0c9ffd38ee1abf9dbdcd597c6e60138adf82c901b6aa9",
-      "size": 32203,
+      "sha256": "89f4286e74e49c267cd8982e98cd4d32652fd6c9830aed9505677bf7d47c6da4",
+      "size": 33485,
       "required": true,
       "critical": false
     },
@@ -20822,8 +20822,8 @@
     },
     {
       "path": "Data/Object3/knifestone.OZJ",
-      "sha256": "45a6dd7f877d2d918162c92f21f90d9f8a29014589ab5e21660989ba0fdb252d",
-      "size": 19212,
+      "sha256": "c42e9da2d115b5100459ba65a7f1c5227db6b46680c964a8c875beb9337fe545",
+      "size": 11963,
       "required": true,
       "critical": false
     },
@@ -21872,8 +21872,8 @@
     },
     {
       "path": "Data/Object3/tile_wood04.OZJ",
-      "sha256": "af06808d3adc416aeba5c55c0489ab7e9a6bd7b00d27910b00deac993e9051d9",
-      "size": 23294,
+      "sha256": "dde3b004b127a9ee39a071032ff5ad9d33962a42f530be1cbab793624197291f",
+      "size": 22166,
       "required": true,
       "critical": false
     },
@@ -21963,22 +21963,22 @@
     },
     {
       "path": "Data/Object3/wall_door01.OZJ",
-      "sha256": "65d05caa34df9744dba1a1c0244052671b0d3052ccd6bd6748ad5fcabcdc300e",
-      "size": 21495,
+      "sha256": "42e0e346ce84528fa0a55000a044cb767ed1ca7bc49f8f186bc2b903282075d8",
+      "size": 20153,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object3/wall_door02.OZJ",
-      "sha256": "e8c7792feb2120cfd82318fce7d0fbc08702e3dbea703baa4d188c451209ddfa",
-      "size": 9910,
+      "sha256": "64f440973c88604bc9e4b55f6fbc27110b2b9dc6da8f2e3daf512e5d4d659c52",
+      "size": 6477,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object3/wall_door03.OZJ",
-      "sha256": "72091327f227d7930e763de7eacbb60b98419a838fb73ffef73030d250bd6135",
-      "size": 22617,
+      "sha256": "f83fa4a5b5e379d7fe4659f84887a25b00d374df12cf0bb9d0473d79b26ba0d6",
+      "size": 22572,
       "required": true,
       "critical": false
     },
@@ -29593,36 +29593,36 @@
     },
     {
       "path": "Data/Object4/wood001.OZJ",
-      "sha256": "76291209b50c99636b998ea81b71ed0402dcb8ef6f3c0dc853e2a3cc67bb627f",
-      "size": 34904,
+      "sha256": "76b0c5b37ddce9967fd333f82e0393a9296c8b6bbde4a7443b23d12748789e25",
+      "size": 42308,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object4/wood002.OZJ",
-      "sha256": "103f24fb36a20c35d9fc57863a1d1f3162c2fe136c1e97f38fe506f28ae09f27",
-      "size": 35775,
+      "sha256": "10e4d11b33968daa115961df0186719255807dfa9a8273082b91e8d299b85c29",
+      "size": 37858,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object4/wood01.OZJ",
-      "sha256": "3e7d34782ac3a3de165fe9ce6f567182732610bdddc6fd59832ade18cdb7780d",
-      "size": 17261,
+      "sha256": "c5d6e9d688a561a22b10b28af76775239c7a906e4c901f7488c1016922ed30a8",
+      "size": 15267,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object4/wood02.OZJ",
-      "sha256": "586dddcfdcbdb68a65d9c0fa6d5a2e56b7f658c1265dad76c948f6150d3da68f",
-      "size": 5940,
+      "sha256": "023804611041b0976dd47d8030b2077d891ab0100c7c43930c3eda9a0d84da84",
+      "size": 1873,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object4/wood03.OZJ",
-      "sha256": "7db9a936b97f7e6fd8ae7afe6f9381358a8afa7bc28fcdb9705559602aac71f6",
-      "size": 17544,
+      "sha256": "382f52556fe3e13f7fd0653716c353fe97050e196eff9dc64973b26ed236dfd0",
+      "size": 14810,
       "required": true,
       "critical": false
     },
@@ -41122,57 +41122,57 @@
     },
     {
       "path": "Data/Object8/wood00.OZJ",
-      "sha256": "66d340f38598846bb9149b8a1b192345f071941aff8d14f5e8bae55e732c9b0e",
-      "size": 7279,
+      "sha256": "17cae5e098edd8bbd3a2176e088b3d787a48f9e4d6a319560ce3c349d767f8cb",
+      "size": 2979,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object8/wood01.OZJ",
-      "sha256": "c4bb4f2cbc6d435e39ddfad555cb28ba84090762b902a89f247b711f4adb97ac",
-      "size": 12395,
+      "sha256": "9d6bcb9b119c6aaea34c3268e70e9a5a99449ebc2d33e98d8bbf934ca73b39e5",
+      "size": 9602,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object8/wood02.OZJ",
-      "sha256": "da4aebf315957f9aec2551752003ca364930b8a97f8bf9c3bfff6398af3d4461",
-      "size": 28172,
+      "sha256": "f7cbf2cd7f3e8ac63c731c8a5f1d6080a494d5137c4fd57b05976d71adbd0855",
+      "size": 26938,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object8/wood03.OZJ",
-      "sha256": "33329a3860cd6312d9e19b96356b7051d4a01e84e5fd6378661dc1f40d93ef38",
-      "size": 21493,
+      "sha256": "167534aea73e1c51a9f89202963d2aae0e55ccf10724ea95527a7aa51f556027",
+      "size": 23187,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object8/wood04.OZJ",
-      "sha256": "deb5e6d695cbd131aa29fd2c642ddc34ac23b75399472d642ebc2bda75503869",
-      "size": 36985,
+      "sha256": "e61a9603e708c4f2270f352e0ab70e44cb45c73b22add6dc1bc2dd26f7ec2fbb",
+      "size": 44677,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object8/wood05.OZJ",
-      "sha256": "1584e39e304d1abe86764a6549551d1fdf6fca696022106374a227737d7db45b",
-      "size": 91259,
+      "sha256": "ade948bf43fd6c92075735bfd0aa5c78b2704b7ba69437fed2af90e306b2b238",
+      "size": 114013,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object8/wood052.OZJ",
-      "sha256": "e4118713eb468c2d2cadc2b5aaf143d1759aee5a19200a79a044ed25a541fe66",
-      "size": 21924,
+      "sha256": "b49d7bc6714376ac7be26aff589beb7ff5faf732c819741bbe3c60696f4cab83",
+      "size": 16996,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Object8/wooda.OZJ",
-      "sha256": "b9310b5f74c906a36be16f2c0311a6582d03dd58f60cbd1aa1e2b0da3283b79f",
-      "size": 25354,
+      "sha256": "7e389d110bed494072d6aebd4b891e1e41bea706a752467b457dbdf701969380",
+      "size": 25036,
       "required": true,
       "critical": false
     },
