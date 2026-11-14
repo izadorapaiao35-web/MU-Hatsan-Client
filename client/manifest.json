@@ -1,5 +1,5 @@
 {
-  "version": "1.0.24",
+  "version": "1.0.25",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "a1beb0f78aae5c631ad4ca7dafe45d17a67d32becb513692d1377b8fe016d957",
-      "size": 352768,
+      "sha256": "14a508d0a1bba5e446020ce6382a67f16c568032c2a824e57b2a553bb1ff7376",
+      "size": 361472,
       "required": true,
       "critical": true
     },
@@ -55290,7 +55290,7 @@
     },
     {
       "path": "Data/World1/EncTerrain1.att",
-      "sha256": "ae3a77eb82074d24e0db0a41d14ad21e388192b5a39259138ca950e7d7dee684",
+      "sha256": "1ad71910659c609fab1066dc393f5f1d884c42167f6f5c8b2af43ba53b4998fc",
       "size": 65540,
       "required": true,
       "critical": false
@@ -55346,7 +55346,7 @@
     },
     {
       "path": "Data/World1/Terrain.att",
-      "sha256": "c8cc9518392fb968087ac8a51453c62ad2b91bdce05044af3f800472bf5886ad",
+      "sha256": "bada6bd59458764baa781c2ff8a3660dfcdf0b8f9aaec7333c8de0e105e27e37",
       "size": 65539,
       "required": true,
       "critical": false
@@ -55367,7 +55367,7 @@
     },
     {
       "path": "Data/World1/Terrain1.att",
-      "sha256": "6c7f4058c79d8353ce5e0cb48b5d11bda746fed6fab5f6d8e55365dde438bee7",
+      "sha256": "e867961ffcb45b1a208f2f6ebcfdf2b13f814a48a0c82a3eb5bd3ae10fae0b65",
       "size": 65539,
       "required": true,
       "critical": false
@@ -60803,6 +60803,90 @@
       "critical": false,
       "sha256": "19ad065658880474d0ef036337c31d6fb962d95e59f5bf1587e8f59344dcf374",
       "size": 724
+    },
+    {
+      "path": "Data/Custom/minimapa.bmp",
+      "required": true,
+      "critical": false,
+      "sha256": "db5b1120175e98ccf694d7ef5c9ad3bfc71f9b011f9584cca17a59a5ecd43d0a",
+      "size": 1572918
+    },
+    {
+      "path": "Data/Custom/Ultra/World1/TileGrass02.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "168d229284ead0f5a89da0a92fbb3397745b4f38941b0db8ce58b0538d0e5ad4",
+      "size": 32759
+    },
+    {
+      "path": "Data/Custom/Ultra/World1/TileGround01.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "25cf9a0391399c0e03ef7940e65d62d8816e339b2d719ec9b55ae60f934a59b4",
+      "size": 86203
+    },
+    {
+      "path": "Data/Custom/Ultra/World1/TileGround02.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "6a9098802550c649ac40271090a655cc807d7b2dc50d2ff581a80684cd5b967a",
+      "size": 27708
+    },
+    {
+      "path": "Data/Custom/Ultra/World1/TileRock01.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "b8cfbaf691005b625674722fca6116a8520cb174247259144a03c62d187d3f90",
+      "size": 84294
+    },
+    {
+      "path": "Data/Custom/Ultra/World1/TileRock02.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "1359f6dee422ff02f4e6adc2267aa05b6ad5754d6ae3d497353461b11e39d153",
+      "size": 38228
+    },
+    {
+      "path": "Data/Custom/Ultra/World1/TileWater01.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "49369d495a5317b8be267f4bcd04949670fce801dc4fd66f4e07b2318691c323",
+      "size": 94742
+    },
+    {
+      "path": "Data/Custom/Ultra/World1/TileWood01.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "e5fa7d7007fa92d9f85e9dfb2126bd718f0b7abfeea2a58a961a4c04ce837cc6",
+      "size": 35968
+    },
+    {
+      "path": "Data/Custom/Ultra/World7/TileRock05.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "44b428a9c5bd05a9d66a3a904be2b41d6b3684604449b5973898b4ad3af17ab1",
+      "size": 82731
+    },
+    {
+      "path": "Data/Custom/Ultra/World7/TileRock06.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "be2c49e16c11ebdf415a13e1df8b22c7fd0c25ae0c645fc58770ffb175d5e551",
+      "size": 68894
+    },
+    {
+      "path": "Data/Custom/Ultra/World7/TileRock07.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "c694e628175f3bd69fce866f0fded477881d0373a2a2b27be575ecabc4c62060",
+      "size": 85566
+    },
+    {
+      "path": "Data/Custom/Ultra/World9/TileGround01.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "e890a8344a0af1de3f72d5d1b94a789f746dc0ce3d5ba34850025736ffa8e8b0",
+      "size": 17184
     }
   ],
   "delete": []
