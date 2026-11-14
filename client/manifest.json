@@ -1,5 +1,5 @@
 {
-  "version": "1.0.34",
+  "version": "1.0.35",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -4253,29 +4253,29 @@
     },
     {
       "path": "Data/Item/Axes02.OZJ",
-      "sha256": "52d6d8c87c1ba07afd57471c7c7b0ba8ac7fe5a5d827ee8ded03f8b680e8deee",
-      "size": 6151,
+      "sha256": "1b5f1f74f60245788b58f0f4d69dfb09ebc6799dc0188f69bbfb93642b92d925",
+      "size": 2803,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/Axes03.OZJ",
-      "sha256": "7a3cbfb6661321c329731ab5b82e8b0317e64120cded942e224d6c1e01a5b281",
-      "size": 6241,
+      "sha256": "fac6fc4b0b677f3f0f0191b5d7b9c49a17044d327df00d01542f10947d728c4b",
+      "size": 2736,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/Axes04.OZJ",
-      "sha256": "7c3c362e45e3e6f346008a144a05c2b931e092333ff24f8ab7e18d5e15bd5f46",
-      "size": 11153,
+      "sha256": "0d98ed234c0b845918527dc7ebdff7b3fb02a910c33b5967414b9f625c1565fe",
+      "size": 9177,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/Axes05.OZJ",
-      "sha256": "adfc5e8a7f9ab884ff9e68383ea361b453bce45a90095487f247b1930f9d262a",
-      "size": 10919,
+      "sha256": "66ea55e0684eb5341a07751676b326a4766507d5198872da5e38d41b59b40281",
+      "size": 9146,
       "required": true,
       "critical": false
     },
@@ -4288,36 +4288,36 @@
     },
     {
       "path": "Data/Item/Axes06.ozt",
-      "sha256": "e812f9b00ed084e82ee57766d4a31eec6e8551c863d1d05bd7690b9dd4bc8a0c",
+      "sha256": "0be1bb7e8e635da6a5dd31dd4abbf059dd3bfe04662e22941e6d0956754d87df",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/Axes07.OZJ",
-      "sha256": "3856aa2a861530d9a62fae2451a8f6b7a970db67e09457063de346b7c1e73d90",
-      "size": 10768,
+      "sha256": "fc2d3156b107ccf1f52fc5c3bc5e90a35d2ae4f8da6aaeb36a1e30b44016ed34",
+      "size": 8910,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/Axes08.OZJ",
-      "sha256": "1c586c1836285f4008c1b1f84de86f5c5717bfca75931597b89a72eac6874dcc",
-      "size": 11081,
+      "sha256": "6eb8388622aec5f0a2fca92e1a39226e19d7bb874fbc9d8d257af52a9744ecf2",
+      "size": 9214,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/Axes09.OZJ",
-      "sha256": "cd6eb544e06e948dbb9147e0013a0e4a50afa9adcc518c8ea75ed073893e4b66",
-      "size": 12212,
+      "sha256": "184e64e9581f60e6f61002f6df1a2b0a631c2a1fb8b7d6f84dbe3e0e32a3abb7",
+      "size": 11160,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/Axes10.OZJ",
-      "sha256": "f5c693c883da94807a8889a95c05e246aa710b65a34349537a021cb29ce85a5d",
-      "size": 10750,
+      "sha256": "40a5cdc3cb0c6dd7bb6430675c711859d6e1c1293b7782e89d4f1b70eb6fcd31",
+      "size": 9553,
       "required": true,
       "critical": false
     },
@@ -4351,8 +4351,8 @@
     },
     {
       "path": "Data/Item/bksword.ozj",
-      "sha256": "c4c65b8f9419a7a0360603f059e77ba62d989dcf0a8f1e6ad4ddb142b9e43053",
-      "size": 8326,
+      "sha256": "d2321d0bd489a55c7acaa0be08eb1cad586b6a3db83bf8dfe9b23b1a420d0343",
+      "size": 9586,
       "required": true,
       "critical": false
     },
@@ -4554,8 +4554,8 @@
     },
     {
       "path": "Data/Item/bow01.OZJ",
-      "sha256": "5307a9c5f646ac8ba88a923462e8e4efc7270b212bac4b56d7fecf4e316d1ba2",
-      "size": 6128,
+      "sha256": "f93aec53064643fc517d5b2cb9d8af7e8d6f3f81ca739f052ff9dda1d34f098f",
+      "size": 2759,
       "required": true,
       "critical": false
     },
@@ -4568,8 +4568,8 @@
     },
     {
       "path": "Data/Item/bow02.OZJ",
-      "sha256": "9e82934ad7159afea0086f8093051d21d047cdc8e49d1dd50a2eacf92ddd2e9d",
-      "size": 9778,
+      "sha256": "3d1dd0d1d130d8d7ae60bea6dea638a5d2e7425c1d8a0c9519085fa8043ec684",
+      "size": 8272,
       "required": true,
       "critical": false
     },
@@ -4582,8 +4582,8 @@
     },
     {
       "path": "Data/Item/bow03.OZJ",
-      "sha256": "16bd5edf1894e42693f7acb444bfb82c4079726fa1d2aaee1060a047157b4db1",
-      "size": 11699,
+      "sha256": "f0dc5301e78a743d53ade0b6c178e0fa625a8fc16364b6ee3756a6344d02a7fb",
+      "size": 10847,
       "required": true,
       "critical": false
     },
@@ -4596,8 +4596,8 @@
     },
     {
       "path": "Data/Item/bow04.OZJ",
-      "sha256": "a009d945ef4989f8aea9b5790afe68ef5449d6cd68e8668dfca2630ceb596ca2",
-      "size": 12722,
+      "sha256": "ad41637f5e9410224f4bc1055d905142dd408e98863c271934b4095ff0f25fe6",
+      "size": 11912,
       "required": true,
       "critical": false
     },
@@ -4610,14 +4610,14 @@
     },
     {
       "path": "Data/Item/bow05.OZJ",
-      "sha256": "98780ee867ff4888422d23ee596e15f4fc6f67e84d92e1aec483a7cfe01ab87e",
-      "size": 13310,
+      "sha256": "fe21d7a0c9bc8d4cf30afbeab021ddbcfe1f5622513a20383c9d40f9a1e5c550",
+      "size": 12503,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/bow05.ozt",
-      "sha256": "7c2fade62790f6636aea7cfa6b42b921ff42b50b1db7eaaa3b9ce519217cf63e",
+      "sha256": "b5110711f1dd3482cb749904dacb366d6567833f90d97dcddc6e9e85b83fb2e7",
       "size": 4144,
       "required": true,
       "critical": false
@@ -4631,8 +4631,8 @@
     },
     {
       "path": "Data/Item/bow06.OZJ",
-      "sha256": "a72c92aaad0e3af786332f4adea2dce9d157e4e274c6417b9f8469264f55f914",
-      "size": 12228,
+      "sha256": "d3cb56efae2faae71378e8172dc5b56c760b2eab2a0603ab87fec7af0bf223e1",
+      "size": 11647,
       "required": true,
       "critical": false
     },
@@ -4645,8 +4645,8 @@
     },
     {
       "path": "Data/Item/bow07.ozj",
-      "sha256": "1fadf54cb4fcf05a087beb14c7949df02de4bd500fc25ef0ad1590845999c252",
-      "size": 26949,
+      "sha256": "1ecac3402befcc8993f7b091e49c8f3b2669079eedb0df66bfb9feb18f4e867c",
+      "size": 18380,
       "required": true,
       "critical": false
     },
@@ -4673,8 +4673,8 @@
     },
     {
       "path": "Data/Item/bow77.OZJ",
-      "sha256": "1117e0d620ae875c90f89478af0f025b2cb7deb03f0fd56f2ed90de740951a80",
-      "size": 18838,
+      "sha256": "0262e24190d1021ac8327fa3d6e399cd28ac74f2bcdf03e8d73be3c0a365d71a",
+      "size": 18690,
       "required": true,
       "critical": false
     },
@@ -4834,8 +4834,8 @@
     },
     {
       "path": "Data/Item/crossbow01.OZJ",
-      "sha256": "c780065790aa1189f92f625abe021f073487fcf048ba99b2c9039cf4ca8adde9",
-      "size": 5865,
+      "sha256": "d6e00cf5d4e62e186143c5915fef3570ea5b1dad74930aab10704aaa8501d48c",
+      "size": 2204,
       "required": true,
       "critical": false
     },
@@ -4848,8 +4848,8 @@
     },
     {
       "path": "Data/Item/crossbow02.OZJ",
-      "sha256": "7950394ada6f220ec4a50b9cdf217c6cc14843571c438e90be96a1bc36512877",
-      "size": 9211,
+      "sha256": "b5aa8cc9bf8378ff76bc06b576fe68645b9fa324a53441d9ad5d5d6edabaa295",
+      "size": 7805,
       "required": true,
       "critical": false
     },
@@ -4862,8 +4862,8 @@
     },
     {
       "path": "Data/Item/crossbow03.OZJ",
-      "sha256": "ebaf8c7eeaa7af2d268ff9f9e7a40ac3d6fa5ffbfa6c34b5d888bf3f31389098",
-      "size": 9877,
+      "sha256": "92b50b444b78c1412dec7948716ffa0a9222729ab911bceaebfd2772304ab380",
+      "size": 8548,
       "required": true,
       "critical": false
     },
@@ -4876,8 +4876,8 @@
     },
     {
       "path": "Data/Item/crossbow04.OZJ",
-      "sha256": "07aaac3fc9686906a2ee8b3f28bb0528e182713c63683b97bbe6bc26b46ff772",
-      "size": 11413,
+      "sha256": "455bfd93d26574c0cbbb575df5c00dd753aa50473152a70a09a0681d6eb97c3a",
+      "size": 9424,
       "required": true,
       "critical": false
     },
@@ -4890,8 +4890,8 @@
     },
     {
       "path": "Data/Item/crossbow05.OZJ",
-      "sha256": "3da9e7c48ad4b213d6259c7bb7359c011162a60d71432f6773dfcd7cac466511",
-      "size": 26412,
+      "sha256": "e7ed2378134a91f7c3d7d5bb106d7d280fd737ed78d967c3fbb61cc29575b0d8",
+      "size": 34557,
       "required": true,
       "critical": false
     },
@@ -4911,14 +4911,14 @@
     },
     {
       "path": "Data/Item/crossbow06_2.OZJ",
-      "sha256": "a2847b15ec1726185b0bda4b8bc726682e3241b6b6bd35a5735c094cfa17a92d",
-      "size": 7492,
+      "sha256": "153f08b1c73f6b7dfb74b8c04971b9d509bee247464d9854f32c35f1b641192a",
+      "size": 3462,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/crossbow06_2.OZT",
-      "sha256": "59403b7121640b0308408b4d48d3798bc7865dc9c4772e1a613e1960b188aabb",
+      "sha256": "3cf24900de0a1e6ef9921318116d40202c74ebdd80cee99e7e545924f09b27b9",
       "size": 8240,
       "required": true,
       "critical": false
@@ -5268,22 +5268,22 @@
     },
     {
       "path": "Data/Item/Dstic.OZJ",
-      "sha256": "ca737fa07702ba67c70c4eed70994c3d9acde6c87934101d773dd1624169194f",
-      "size": 16100,
+      "sha256": "321f6ef6bd2d4961fcd788ab8951c7ace3cd16fd01bcaf79f5bf4981098d1904",
+      "size": 20126,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/du_shield1.OZJ",
-      "sha256": "44f4fb87cb432c9f32ef73160664ea61b900e5b16b3cc3db62490ffce1f52334",
-      "size": 6861,
+      "sha256": "c8b19e12e836860530e4145fdf2f186dd1c4108cb338058ec0078d6b48dba9cc",
+      "size": 3681,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/du_shield2.OZJ",
-      "sha256": "2dd870db2b8b9ceccb4c5233a1a1ff41a7a8f985d0db83589e9e65066dc3e4bb",
-      "size": 6473,
+      "sha256": "7f6155a82bc7daa99c32c366cf34fb3b6ff211cffeca8038958974153ed5cb6b",
+      "size": 3294,
       "required": true,
       "critical": false
     },
@@ -5296,8 +5296,8 @@
     },
     {
       "path": "Data/Item/Ebow4.OZJ",
-      "sha256": "a256694c0fbb2c9936d21a8904ac415c1a53c5f46e83f18092e0efa53b59f71c",
-      "size": 13424,
+      "sha256": "3aee5fce54ad42832f517ab0e1bb9c54ebd9e45f8f0bce0614c531564205709f",
+      "size": 16505,
       "required": true,
       "critical": false
     },
@@ -5443,15 +5443,15 @@
     },
     {
       "path": "Data/Item/Estic.OZJ",
-      "sha256": "ecd2cd95f263ac36da051be2d0ac884162660f07d82f176a64efc944f05ee7e4",
-      "size": 4139,
+      "sha256": "785e07457f9b2d70168c8c34d20db819497112a4255766c6d5b13b5ed36e41f6",
+      "size": 3685,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/Estic2.OZJ",
-      "sha256": "b6da36010a8b8ddcd1cb519c9a6efc868eec6b180763d80e768ad84e52acfd50",
-      "size": 3106,
+      "sha256": "0fd0515ef2f27b6ec0dcc4f44d72038b080c88fa3bf3138d275c79a8b4d16e8a",
+      "size": 2268,
       "required": true,
       "critical": false
     },
@@ -5814,8 +5814,8 @@
     },
     {
       "path": "Data/Item/flail02.OZJ",
-      "sha256": "eb1b04d85f985939dd39837792c2dc8004d6fefe8058058ee5585f45803667a6",
-      "size": 6267,
+      "sha256": "000aa8a993b0ceac75e20b3c289836975a6d8fa5c7bbd97fa8e4fa0e7cff5326",
+      "size": 3096,
       "required": true,
       "critical": false
     },
@@ -6297,22 +6297,22 @@
     },
     {
       "path": "Data/Item/hound_shield1.ozt",
-      "sha256": "96cc375f61fee9f1f402ca72bc10c82e9361752440d39843b03bb349340ea726",
+      "sha256": "3b010cd22ebbc1377f490f97c2c35b2a425c13c3cf54f597bac60364bbe2283e",
       "size": 8240,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/hound_shield2.OZJ",
-      "sha256": "c0ecceddc48318142b40cab4a7e81611b59f9e30a98a9305c241ddd326087679",
-      "size": 12231,
+      "sha256": "8e7d3daa66d503c5fb0ee024f7a816377e21398caf34c03ab189a11b2fc57b2f",
+      "size": 11804,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/hound_sword1.OZJ",
-      "sha256": "ec299a59d80912102282775ca920e7cccaf45f37126c9088f0a3ea9e10c2f545",
-      "size": 9488,
+      "sha256": "a53b1098d2f9a724149ae15b6fe02442d9f0f12de1c5cf6bd6899621ddc998ca",
+      "size": 7262,
       "required": true,
       "critical": false
     },
@@ -6381,29 +6381,29 @@
     },
     {
       "path": "Data/Item/Javelins01.OZJ",
-      "sha256": "97ec449bafeee68becf07b55127e3565745202b0d47939be2c839e9955d133f0",
-      "size": 6465,
+      "sha256": "7b8a66c0eac13c7235decfefda99b94919ef25a68b0d19b258595e9da8d7b7ce",
+      "size": 3253,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/Javelins03.OZJ",
-      "sha256": "8799039800258d5b937f58f7cf3d2f46fdbbef3bd01807aa5e665b39fcc29026",
-      "size": 5921,
+      "sha256": "92d1d626d638f45b7f516e7e75913341c99a132de89a6bb919101882bf71cdc1",
+      "size": 2513,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/Javelins04.OZJ",
-      "sha256": "b8f7a218126071449226f1caa89f93ef2a661fbc01b25612a7ee5f416fad0114",
-      "size": 6207,
+      "sha256": "e8cc5e2cc6972497e71fe57e71abe429bc6d5b773b83ff094b2b7e3886af9b9f",
+      "size": 2812,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/Javelins05.OZJ",
-      "sha256": "f256d54d1cc207cc625df482915f396f96b253eefad7d47aeb6ac9f952d37d89",
-      "size": 11582,
+      "sha256": "458b47df4f59679788af0664fcdbb2b1ff1d0615ee9f1a71054c640de73961c1",
+      "size": 10726,
       "required": true,
       "critical": false
     },
@@ -6605,8 +6605,8 @@
     },
     {
       "path": "Data/Item/Ksword.OZJ",
-      "sha256": "4bb9904dcf115ea359526b7ee9113f6054da90a27aa558d0b2bb99ed7620563c",
-      "size": 14807,
+      "sha256": "35257aa1615c4724b2fe699693f6a2e52a0e0a0ea6149ec7bd6ccb536407cf16",
+      "size": 17736,
       "required": true,
       "critical": false
     },
@@ -6626,8 +6626,8 @@
     },
     {
       "path": "Data/Item/kundunStic.OZJ",
-      "sha256": "3f3610ca19ba638fe19a73ae3a48baaa1917d1f8b7225632ba19928a398a5737",
-      "size": 12907,
+      "sha256": "6d525048bb8eb5b9c4a5d75bc4a600a900ad0dcf4a08ba047e665db1436eda7a",
+      "size": 15623,
       "required": true,
       "critical": false
     },
@@ -6640,8 +6640,8 @@
     },
     {
       "path": "Data/Item/kundunStic2.OZJ",
-      "sha256": "894e0935dfecde436919491d907df7c1661f018417b937622336134db9a284c1",
-      "size": 12650,
+      "sha256": "57d7fec70fa6974fd9308f926716e2576d7f2193af125743867c45d67c5d7609",
+      "size": 5517,
       "required": true,
       "critical": false
     },
@@ -6703,8 +6703,8 @@
     },
     {
       "path": "Data/Item/mace.OZJ",
-      "sha256": "08918bfed7006a6bdca76e27b51c84b4d817d25655fe9b46a24e19e6eeb8a896",
-      "size": 7800,
+      "sha256": "7f9f88a749a373b72a6bdb8ee5a8337ea19bafd72abab99022c8fdd15ea35c0f",
+      "size": 8058,
       "required": true,
       "critical": false
     },
@@ -6724,8 +6724,8 @@
     },
     {
       "path": "Data/Item/mace02.OZJ",
-      "sha256": "2792d22de56de034f5c17660098abe1e9d8ebd468d6b127080509a542cf57bd7",
-      "size": 5699,
+      "sha256": "a1b26cb8258b0043e9664605ed42f90302ee74b50fa7882c054cc015b8dce6e7",
+      "size": 2258,
       "required": true,
       "critical": false
     },
@@ -6829,8 +6829,8 @@
     },
     {
       "path": "Data/Item/maceB.OZJ",
-      "sha256": "b1135cf24989b5a35e5b8f0d119871209f48ac3b0b7a0e9989710d0f1cec6fc1",
-      "size": 3996,
+      "sha256": "370d11a4ef86852dd18febd3912a1dd83e74d26bc14c4c37b229aef6db4aad55",
+      "size": 3202,
       "required": true,
       "critical": false
     },
@@ -6955,22 +6955,22 @@
     },
     {
       "path": "Data/Item/maul.OZJ",
-      "sha256": "a626a2679f6ce2b664c9443a39af6495e1f4368364ae74dcc2b805b8cfbb94b0",
-      "size": 21205,
+      "sha256": "7bbe495e06001f7eb6a7f25a11ac3705c364a804649cba8b445db85f9c1f7633",
+      "size": 12318,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/maul03.OZJ",
-      "sha256": "213780aea6bf4f40f5b89ccd998293f265247e0925a767b1e5c6942fb03ea4ce",
-      "size": 7003,
+      "sha256": "ef1ee63fdf55e54d8f64372fbbc4106f17018501bf77baff3da1b02a605a7f17",
+      "size": 4205,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/maulB.OZJ",
-      "sha256": "fe1f1f311d25c0cdc1973c8471b01da3f7feb988ca4921ae13a6ad820042b6b8",
-      "size": 17955,
+      "sha256": "e65385f86e817f3020674f4233f863e3e1960996aaf0131be01b0ed1ea91c4d1",
+      "size": 21604,
       "required": true,
       "critical": false
     },
@@ -7151,15 +7151,15 @@
     },
     {
       "path": "Data/Item/Msword.OZJ",
-      "sha256": "9fdb22acf98f2972a3efda37d4dbe35af723e3b999b32beaf7a1d363316822e3",
-      "size": 34495,
+      "sha256": "678d30af015896388e381ec420cfc65597e18387412ec8dea6412d5e64f72af1",
+      "size": 20579,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/msword01.OZJ",
-      "sha256": "6106a8284f66d7c697ff8e0e1dc624d90d594c4bc089190b10c2837b1a3e68d0",
-      "size": 31424,
+      "sha256": "17292ffcf9ac7df64ff858c4805a2106233fcc1d37c48e672e416e92e1b68b6b",
+      "size": 26940,
       "required": true,
       "critical": false
     },
@@ -7172,7 +7172,7 @@
     },
     {
       "path": "Data/Item/msword02.OZT",
-      "sha256": "22b8f2f80f995c3a5ee0769db8f30378fc9732c4b320955735396e61d32caa25",
+      "sha256": "c4d71da495efac764e98da0c5ee9d80bc5fafdac987e2eb5a420557eddc7ce67",
       "size": 16432,
       "required": true,
       "critical": false
@@ -7186,7 +7186,7 @@
     },
     {
       "path": "Data/Item/msword03.OZT",
-      "sha256": "4e0bd9303be37a09f053938001291bcb4b277e09a59b07d4cc726a632faf029e",
+      "sha256": "a6b6100231982a81bc1a9b6aae3e378991cc7df0667f985561da03227c1ab541",
       "size": 32816,
       "required": true,
       "critical": false
@@ -7830,29 +7830,29 @@
     },
     {
       "path": "Data/Item/Polearms02.OZJ",
-      "sha256": "1986439b47540f2335e09b436742b0957f47720fe0b1cc925907199153f0b4f2",
-      "size": 10098,
+      "sha256": "c8eb1ef0c1caf4ed13010d36565441a09a5d06cc137672aa242cc8c097f794c7",
+      "size": 7961,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/Polearms03.OZJ",
-      "sha256": "5c50946929b3b8285858939ca0d484a028d96fcbe5a4bd10a9417b53258d9b6d",
-      "size": 10442,
+      "sha256": "a2163631b1f05f94e9dab39887980388cbdf7bb27968caf63ffa94120653fe34",
+      "size": 8517,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/Polearms04.OZJ",
-      "sha256": "9af5b95cfceaaf38298af58b3dd991bdae2317542e2f41eeed46bd67603b84b2",
-      "size": 9897,
+      "sha256": "67760714d31a7c94191653b2f55b7726725cdc97c66c30d23b9c3d39768d4f00",
+      "size": 7510,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/Polearms05.OZJ",
-      "sha256": "f5d275c616a5dbb2d9a66062b2ed39d151e83d78aae3df6d328fe30062de52a2",
-      "size": 11633,
+      "sha256": "c36e01c686319b8393f94f99263dfe267667675f20c171731232f3b8c7db0321",
+      "size": 9984,
       "required": true,
       "critical": false
     },
@@ -8362,15 +8362,15 @@
     },
     {
       "path": "Data/Item/shield_a_01.OZJ",
-      "sha256": "1c5d0fe471e7395bd53060d2b82651c1d2c6f0405102bc8b71c6e24f32648664",
-      "size": 8882,
+      "sha256": "30730ebc1d1c9d494c9b661af13561e447a8a94273c2a7d4d030d4e54eca395a",
+      "size": 6498,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/shield_a_02.OZJ",
-      "sha256": "160c634c422f1d9e30f40c62435a9fe75914031c06cad65d128001ad30938ab3",
-      "size": 7818,
+      "sha256": "8466da0866de026bb2e23a6d7ba2dd48cb5d8672381cab923d82305d6689ff54",
+      "size": 4539,
       "required": true,
       "critical": false
     },
@@ -8390,8 +8390,8 @@
     },
     {
       "path": "Data/Item/shield02.OZJ",
-      "sha256": "07881d88d8f65b4c96faa0577bc44028ca6cc9569aa4b8b5b089f745c47e4a29",
-      "size": 13730,
+      "sha256": "17a74fc284fa90ed9721fd3391b87c8a50b158f1c3b357dddf016299549c7946",
+      "size": 13242,
       "required": true,
       "critical": false
     },
@@ -8404,8 +8404,8 @@
     },
     {
       "path": "Data/Item/shield03.OZJ",
-      "sha256": "4ef599e78a515a77031cc26c7960693df8fa0eb18ae1b01fc9bf84cb61d42ed8",
-      "size": 11484,
+      "sha256": "2c34f308c2db0f7296f59389ce1cd193b1a07a948a4e345c201edf684e4de7dc",
+      "size": 10700,
       "required": true,
       "critical": false
     },
@@ -8418,14 +8418,14 @@
     },
     {
       "path": "Data/Item/shield04.OZJ",
-      "sha256": "2517f2be54a7b9f4d975a5a918dfd0499a8e80c2e1a1dc423ee4788818be999e",
-      "size": 6967,
+      "sha256": "17c4144687c1ccf26f0fdcf628ca575a72f6abfdae7d94742d746417117ebda4",
+      "size": 4393,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/shield04.ozt",
-      "sha256": "7f7ce91b936f6e18d0ae0e62ec3fd02129caa82eee30be3efc3f34dbb8534ef0",
+      "sha256": "be726cbac1ad309b84bacceee7712765cac7f554664250ab0bab50d175850222",
       "size": 8240,
       "required": true,
       "critical": false
@@ -8439,8 +8439,8 @@
     },
     {
       "path": "Data/Item/shield05.OZJ",
-      "sha256": "21f1a254f990dce37c63a2b5e67fc8c06cc5ff13d5f701a9449b97b2aaf12600",
-      "size": 12216,
+      "sha256": "bf888a2c0091fbbcd3d55306f8bf8ab8787d652260aac83b981409da3a293a3e",
+      "size": 11248,
       "required": true,
       "critical": false
     },
@@ -8453,8 +8453,8 @@
     },
     {
       "path": "Data/Item/shield06.OZJ",
-      "sha256": "282a100f445a3e6950f1e6eafa1c722353960fda9d7b1d0cb77bd41419ffc789",
-      "size": 24757,
+      "sha256": "4d8e7c793019e223abdb413105288ea461f0913fbefa05a347c480bbd4ace871",
+      "size": 31820,
       "required": true,
       "critical": false
     },
@@ -8467,14 +8467,14 @@
     },
     {
       "path": "Data/Item/shield07.OZJ",
-      "sha256": "c69a85b6180b10eeba9a54fb8650a6c387c32dfaa3aa935527d79b7054a67600",
-      "size": 7725,
+      "sha256": "b64fb12388299c6f66f09db0b5b5ab4e9644d19cce4a351ad208f004dc444277",
+      "size": 5945,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/shield07.ozt",
-      "sha256": "4d3de6ec36c175ca7e2bdff9f0674d960b7045345e9ef41ef483ad05a1b0dfd2",
+      "sha256": "bce0974b5ac8d198ab789b16384c1565702ba652edf46a4e32cf3d8134214acc",
       "size": 8240,
       "required": true,
       "critical": false
@@ -8488,8 +8488,8 @@
     },
     {
       "path": "Data/Item/shield08.OZJ",
-      "sha256": "df45c812f3146a41e41f90ceff349fb3df30730ca82ff7cd4873358c2460982d",
-      "size": 19680,
+      "sha256": "4e94b05303208f22fb8469eefb5e8ac541f96a79c484f330bb3593e866489830",
+      "size": 22522,
       "required": true,
       "critical": false
     },
@@ -8509,8 +8509,8 @@
     },
     {
       "path": "Data/Item/shield09.OZJ",
-      "sha256": "349c809299b0a5215397b63897d36fec9fd813632c11c6363603d485b227e6c8",
-      "size": 9186,
+      "sha256": "cb327624aa570cf80c54a2cd19abd4c5b998201967857dc30de455834a646604",
+      "size": 7223,
       "required": true,
       "critical": false
     },
@@ -8530,8 +8530,8 @@
     },
     {
       "path": "Data/Item/shield10.OZJ",
-      "sha256": "d371265705312d42c7e3da39590e481898ec0ba8dc07cf6252f430b9355fac95",
-      "size": 8998,
+      "sha256": "c174e47df112164d2f11893e38e59f0ff4782bba7f6447d0027e625689b7c74a",
+      "size": 6652,
       "required": true,
       "critical": false
     },
@@ -8551,7 +8551,7 @@
     },
     {
       "path": "Data/Item/shield11.OZT",
-      "sha256": "02960ce43cfa28e1e22937825c1e853bd1f7d0898df7011cbcbcf53a2a4dc738",
+      "sha256": "8b01836772b82724805adc2970f172ab3960e0f404c7a424458c51d9913388ea",
       "size": 16432,
       "required": true,
       "critical": false
@@ -8929,15 +8929,15 @@
     },
     {
       "path": "Data/Item/sword015.OZJ",
-      "sha256": "744afa22179aa3dde75c6e01d59f0b05abb8241379be6cedc4535b2db3d92bf7",
-      "size": 13661,
+      "sha256": "efbb5bcf9ebab8f0af44b4000c00e9c5e1ffc090186e48f17144ab3f50214f00",
+      "size": 12482,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/sword015_2.OZJ",
-      "sha256": "4009276f64d6c7fed06142ad4616931632d2b8add0f784440e90bfc859e7be15",
-      "size": 6234,
+      "sha256": "341638f7681a467aca115393a826fece30ce0afab86e4b8759a44b3f1ec77385",
+      "size": 2397,
       "required": true,
       "critical": false
     },
@@ -8964,8 +8964,8 @@
     },
     {
       "path": "Data/Item/sword03.OZJ",
-      "sha256": "a622788c51c1b65946ea71a17dbd7bf672f4841dc2282e5cc18dd41d4f58670d",
-      "size": 8859,
+      "sha256": "b684d54a8e54e3195f0cb5dc4b974e09980a917fd36a116019aca746cbd504cf",
+      "size": 6137,
       "required": true,
       "critical": false
     },
@@ -8978,8 +8978,8 @@
     },
     {
       "path": "Data/Item/sword04.OZJ",
-      "sha256": "3ba07e0da66a429fc8c894011c4d5609730483385840281c6fece3a6f66c0493",
-      "size": 6578,
+      "sha256": "3968ad191e69be39d7516e0195486ec487a4a8b9e6a2718e10bf5ff0ffa49549",
+      "size": 3545,
       "required": true,
       "critical": false
     },
@@ -9013,8 +9013,8 @@
     },
     {
       "path": "Data/Item/sword06.OZJ",
-      "sha256": "8cb175fdcdf5fd0f1718efa69efacdf3f9c9a4966c96e0effd1e06cb672fe52a",
-      "size": 7929,
+      "sha256": "e9fb1297028e60c01b3c5cddaf32d0aece4a7012f99f0a97f2057de8cc307a21",
+      "size": 5145,
       "required": true,
       "critical": false
     },
@@ -9027,22 +9027,22 @@
     },
     {
       "path": "Data/Item/sword07.OZJ",
-      "sha256": "d0fc33e1c66c9615610e2c0856d156dae3936cb66987ad03c2604469fe90b0ad",
-      "size": 13051,
+      "sha256": "f62091e6ff5372e1643016daff528ac8be03b5a28370710b6b7ed8f30d608ffc",
+      "size": 11447,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/sword07_2.OZJ",
-      "sha256": "2a185802ff4a7714ab27888019fef73af1460c9b5847477c3b2eefa266d61098",
-      "size": 6344,
+      "sha256": "2fd011fd1acdfc17e3755010f45e797a069d8360096b4e533d7b781df54e6cd5",
+      "size": 2562,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/sword077.OZJ",
-      "sha256": "635775634f8b2fc9bbf5a6135cbecc9d96c9a05df5ce65ba2ec070ed0fc84cc5",
-      "size": 7250,
+      "sha256": "2bc5aae7dfa16ef81e7dd18922818a00aedcfcdb67e961e301b214309c3a7eeb",
+      "size": 4133,
       "required": true,
       "critical": false
     },
@@ -9055,8 +9055,8 @@
     },
     {
       "path": "Data/Item/sword08.OZJ",
-      "sha256": "b117107a27b7b45c899abf50cf2a96c376007a15a65c246e11f8086b93995cc6",
-      "size": 9382,
+      "sha256": "1469247430e22630317f2fed74164f83eef0f390bb1e5df9851b9d952adc49ea",
+      "size": 6918,
       "required": true,
       "critical": false
     },
@@ -9069,8 +9069,8 @@
     },
     {
       "path": "Data/Item/sword09.OZJ",
-      "sha256": "1ff3ae5e8b57b4edf80b51c8f9f0ab94bd294c2efb295256f304925ff61439d6",
-      "size": 12983,
+      "sha256": "3bee807eda977c979092f27701798cc6f759079e894a5b55ab005b7bceeaf61d",
+      "size": 12184,
       "required": true,
       "critical": false
     },
@@ -9090,8 +9090,8 @@
     },
     {
       "path": "Data/Item/sword11.OZJ",
-      "sha256": "43904022ff8538d11490edf60e672d7c017d27b7a8662a9af146b1271985d1ec",
-      "size": 6817,
+      "sha256": "59935e4f17179084fc6a0bcd3f971c68ef72238018637dde2aaed09065a5ccb5",
+      "size": 3646,
       "required": true,
       "critical": false
     },
@@ -9139,8 +9139,8 @@
     },
     {
       "path": "Data/Item/sword13.OZJ",
-      "sha256": "e89a4b4d3c658a23e234f9e0431cf725b9f0cf62ce4adf9cdb97146eaad1fbd9",
-      "size": 13516,
+      "sha256": "d810461d3e0cc5360f0ef6ca7de12c3a93f85988584942d683055cd47f6c03fc",
+      "size": 12791,
       "required": true,
       "critical": false
     },
@@ -9153,8 +9153,8 @@
     },
     {
       "path": "Data/Item/sword14.OZJ",
-      "sha256": "ca66e075fb7a1371d3fe035380daa965178dc4d24a1401c615bd4040b812d3d0",
-      "size": 9336,
+      "sha256": "05062b2db2874d4c70c402b03040a9b19a7e8da61761ddc81000015664f29348",
+      "size": 7565,
       "required": true,
       "critical": false
     },
@@ -9174,15 +9174,15 @@
     },
     {
       "path": "Data/Item/sword15.OZJ",
-      "sha256": "492b83ac293eaa2c50b0394075e4fcf94886f784203370253f47e961078f2f6e",
-      "size": 13082,
+      "sha256": "69aab7ea7411e067be9f07047965c07fa0957dcfdb826a2a9c31fddfc8ec32d5",
+      "size": 11866,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/sword15_2.OZJ",
-      "sha256": "e6a9172debfcf7798b20f7c33af0264915bcc3b05dd0d7be1aaf0e5d9a8a95e9",
-      "size": 12380,
+      "sha256": "8b12b4833f17eea71f460d9522e3f2cd4293e90c34bdebec4a215dfa2859c41d",
+      "size": 9639,
       "required": true,
       "critical": false
     },
@@ -9202,8 +9202,8 @@
     },
     {
       "path": "Data/Item/sword16_2.OZJ",
-      "sha256": "979ed6282b04fe5b1f2b854f839bc85ed0f3ac8b73ea668dfe22fe5ade51dbae",
-      "size": 7135,
+      "sha256": "9dfaa69617521cc9c7039d7380a9b195e05018e50291c860227c6e2d03091357",
+      "size": 4401,
       "required": true,
       "critical": false
     },
@@ -9279,15 +9279,15 @@
     },
     {
       "path": "Data/Item/swordmagum_06.ozj",
-      "sha256": "2e59511e38becba3226988ac2a9060fd406d95f9c9e4d4e8ecff88bf451cc583",
-      "size": 15750,
+      "sha256": "3f31b11bb6125426b96c90915c0e9c667a58cccf7c429f2f7a51553186796363",
+      "size": 6959,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/swordmagum_06e.ozj",
-      "sha256": "327128bf7ea182a409bcc9e84bd2637fa4ce1cea5f20f794ed74178b829b9b0d",
-      "size": 18105,
+      "sha256": "af60e229bccef591f2d20ffc2bbb0887a0eefb258d5e22095d427f05d4c76b0b",
+      "size": 10341,
       "required": true,
       "critical": false
     },
@@ -9377,22 +9377,22 @@
     },
     {
       "path": "Data/Item/wand01.OZJ",
-      "sha256": "b0a72f13bbac0341a5ff8cfb9bbbb96dd4663445dbc0e27eabcdca00a8ec4bfd",
-      "size": 6922,
+      "sha256": "7cb33546ba5f9e41ac63cd448b1770acb85ea35438ae1eef907194279d20fa8d",
+      "size": 4280,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/wand02.OZJ",
-      "sha256": "4d22feda39007e2907e6bb842f56551951907e7dfe892b7a5918c344bcbdadac",
-      "size": 14518,
+      "sha256": "f831440b59b36bfd52c38b9393f13a72c3a30acfaa31778bf5ec0803c3ef6835",
+      "size": 15092,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/wand03.OZJ",
-      "sha256": "14d33896a5b8d6e51de8eeb2aca78acdfeaf1b5003d027d903ae27f5a5cb3f59",
-      "size": 6708,
+      "sha256": "c9e60ac3eae5e9ca7f31b18cc68798fc4995564a5b527246428adf6d0584249d",
+      "size": 3569,
       "required": true,
       "critical": false
     },
@@ -9405,29 +9405,29 @@
     },
     {
       "path": "Data/Item/wand04.OZJ",
-      "sha256": "8f514814b04a85dbf84bba693eb10b090b65e25fc9a5117f8588a87dd26a7ae3",
-      "size": 11275,
+      "sha256": "c2d671fff23f577029365401c39f65129fe366e6bd6b20d94d64b925e10d6394",
+      "size": 9546,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/wand05.OZJ",
-      "sha256": "4bdda3948109f5f2e2996814eb9d5dcfeaf870a365e8a35592dcfb79df729ac3",
-      "size": 10000,
+      "sha256": "2a1b8e78a4b438765c333293ecc1bb1718d15820c3ba6404702484f657d95dd9",
+      "size": 8405,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/wand06.OZJ",
-      "sha256": "806676d92ecfd47b1ad728c5b30b0103fbd32f6ed338a658fb7edb22e9e86591",
-      "size": 12275,
+      "sha256": "7ac1e065f96a25304bc1b27976e7e13c19ceccd6c3dcb4bf65794733461111a6",
+      "size": 10849,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Item/wand10.OZJ",
-      "sha256": "658e0a1a2f53084a7870bd94aadb4683c6b672ffdc4fdf0f88aa6a26507b7cd5",
-      "size": 7125,
+      "sha256": "0f302d1ece296f366460a30e779bad531e41e5e224392d6b8a0728d12a21d4b6",
+      "size": 3404,
       "required": true,
       "critical": false
     },
@@ -9440,8 +9440,8 @@
     },
     {
       "path": "Data/Item/wand10_2.OZJ",
-      "sha256": "302cb06b236043af48207806219663312295459a0363e140286df2d4131fa22e",
-      "size": 6305,
+      "sha256": "afcb0faf87d32e561af80893ee230f4bf4c84983e76c25c06f27c0b13ddf47d1",
+      "size": 2545,
       "required": true,
       "critical": false
     },
@@ -42396,36 +42396,36 @@
     },
     {
       "path": "Data/Player/armor_arm.ozj",
-      "sha256": "d986c97214122c730dd6658c336c8be91c320a93645e1991de9ec1e31633e526",
-      "size": 16465,
+      "sha256": "9186e55c02efbdf1aedf44933cd4c7ac57acf349b6fa754e0799e61a626e5ac4",
+      "size": 9915,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/armor_helmet.ozj",
-      "sha256": "c70b341b0d61be159ffbc26e36163ab63b6f55cf4d77f8ff387c61877ede2335",
-      "size": 17991,
+      "sha256": "7c95b339eb0ddd9b515c7943e47295973ba5ac2efec1f4131e28cc4e2412b8f5",
+      "size": 4296,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/armor_legs.ozj",
-      "sha256": "0ad5a671d1c7e3b434b28bd4d92a75562a85ba64a4a8d198fe0d7c987e5f0202",
-      "size": 18202,
+      "sha256": "7c2be4e74357f01ba0543c01d574117bbc7b2c254957b6c26c1731fbf54ff381",
+      "size": 11198,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/armor_skirt.ozj",
-      "sha256": "e52651221d4e5bee19d70d4a5f238164661f0df5c156a044bedf5555c62f9174",
-      "size": 14357,
+      "sha256": "09694204ebafa487fc8f6a02698b763d8f724707777b62f809257f517041f448",
+      "size": 8072,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/armor_upper.ozj",
-      "sha256": "38ed2400a1727f5c613391e94c17e67ca0174d6e2d5f3db4177cf33cbc134f37",
-      "size": 56278,
+      "sha256": "01d5c87189971833649d2732f34fc36817a18efb6a9430b3e11e87d57c2c7a8d",
+      "size": 31326,
       "required": true,
       "critical": false
     },
@@ -42886,43 +42886,43 @@
     },
     {
       "path": "Data/Player/blackdrager_boots.ozj",
-      "sha256": "d0c9b297f001cb8946e44c9642baf064a2c621e8643c381b038906b7745a4593",
-      "size": 16060,
+      "sha256": "0d2699a49f1e7f9760df14f0b0dca66afcace03d5197e06235f7ae840160eb6a",
+      "size": 3372,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/blackdrager_gloves.ozj",
-      "sha256": "d44e6072db102b577feba96783231e0d849fe062c6b10734cbe1504012754cc3",
-      "size": 35143,
+      "sha256": "ff85c39c16b0a385b70c8f1b4c9e7abdbe0f7860ace185db183945cba6f7f5a6",
+      "size": 11675,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/blackdrager_head.ozj",
-      "sha256": "3c6def2b139b1d8fcfcaa05f333def721fc3eebdfa67820704cdb50ab18715ea",
-      "size": 18291,
+      "sha256": "fb65aa71c72a38acec7df94103efb62c900517a4a34ae7096c5eae0dda86ffd8",
+      "size": 4459,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/blackdrager_lower.ozj",
-      "sha256": "b96f713833d36ca2714d792e8aea3ce31aecd801d5165ba3171763f36910b8f9",
-      "size": 27142,
+      "sha256": "fc227737957fc6819d02b38e75b20366fafbe349a4d38f67edcd1af2aee1df26",
+      "size": 7870,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/blackdrager_upper.ozj",
-      "sha256": "53e3d58acf192f110e07595ebc1dbaca88be0c94700c7ab9a19b70c975f18079",
-      "size": 39441,
+      "sha256": "eec6696d2368450f5a343b94b5605cb685c3840fe92dd5230dde3e026a5960af",
+      "size": 13596,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boot_10c.OZJ",
-      "sha256": "c0d4698748b51a874bfffb0157a2a7cbad02c1e0a27d90975bb46faa49e166d2",
-      "size": 13503,
+      "sha256": "f25918f2d7efd7e6204726520d208536c2c322d12f5f201b016c1e31a4040a7c",
+      "size": 5680,
       "required": true,
       "critical": false
     },
@@ -43369,183 +43369,183 @@
     },
     {
       "path": "Data/Player/boots.OZJ",
-      "sha256": "14b3469561e331f763254f47fc83723306e272c217ba8b3cddc5d4ff37f4caa0",
-      "size": 19086,
+      "sha256": "73d11a3dd2589ba85e8ac14cbd772e4b092c3e869dec53116448e3c9059abcfe",
+      "size": 5403,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_02.ozj",
-      "sha256": "cf56ed6781c078fec4251d0c9dc84fb4147cb91fa2abffd76c7b9bfa087e08e1",
-      "size": 12042,
+      "sha256": "a58f7ba6e512210694c7b38c97fb4c0a59bfa734093b4c6faa86e5269fdcd51a",
+      "size": 4756,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_03.OZJ",
-      "sha256": "1d2b75a424f85fe2fd8d1f5f8fbfcc38357c0f61b01442dce8ce4871bbb041a1",
-      "size": 14018,
+      "sha256": "ece74146077ae4402753773a3dce0dd89f8caeb0015f237e58bf835cbfc1e121",
+      "size": 5957,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_03b.OZJ",
-      "sha256": "3e7b817b6d82d89c2bcd77ae8e77879e65cd95cb049e3e49ec9c31ace49b1894",
-      "size": 14837,
+      "sha256": "91b832f597d46581acfa33041cbee0a338e44de483790bd7389e79a658f59804",
+      "size": 6423,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_04.OZJ",
-      "sha256": "42feb0f03f69f183fbfbae0447483253dad8d447746fb20b3d73e328a905a7f3",
-      "size": 11426,
+      "sha256": "34774b1452ef6febea804fe8c798af4ac05884d68e668e3ace49dc8c6aabe87b",
+      "size": 4417,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_04b.ozt",
-      "sha256": "5d724a3aef783fc3c89431298f4d917adb4326ad0c932e0666cf8ad6caa29103",
+      "sha256": "5b0ceaf501ef0448d6497343d93ca32b9e133e66c6f9a4da375f076dfbc9d58d",
       "size": 4144,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_04c.OZJ",
-      "sha256": "b30c7e0f57160aed447f8a478ab7be525d9c020729e569c0ca1c0738074288a7",
-      "size": 10765,
+      "sha256": "aecec80e6b762aa23c14496fec35a42fcd5d7b94362ae51da82d017a2a5c6941",
+      "size": 3956,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_06.OZJ",
-      "sha256": "2bc1e287e1c85be4b77227dcdf12d1c4364849ff3567e27bc23f6b60112c90a6",
-      "size": 9475,
+      "sha256": "d3294b83d286f80a9ace228ca6d35c0d5fb80a2f40c02cc6c9186361f45b2bf6",
+      "size": 3373,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_07.OZJ",
-      "sha256": "f301f989753e64b58c8f5d3bc72b7e6386ec7da634d4197f7775cfd3a2e8c3ec",
-      "size": 9491,
+      "sha256": "3b84e6a2da4d67509b653eb2c12fa2f281df33c0b37d21430b6c31ebd8b7aff4",
+      "size": 3318,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_08.OZJ",
-      "sha256": "1c54e7a47a206611b9904098524010d9f47da4c53556a31586951c73f94166f8",
-      "size": 11834,
+      "sha256": "46deff47c08da4c284f7712592487eb7339cda15c21718002c944226e368e17e",
+      "size": 4421,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_09.OZJ",
-      "sha256": "cf89fb22d891c61145fb12fc99afda0bf0d7981a5f8b978d7ec36c20f8567395",
-      "size": 10257,
+      "sha256": "00cb6d02e48a9643a063f9613df66f8dd8fb21323be46366bbb803b3b5b336a1",
+      "size": 3864,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_09c.OZJ",
-      "sha256": "8ec587687cfe394caa90e25953d3cdd57bd4cb7a6910715b635296c86b8c1922",
-      "size": 12109,
+      "sha256": "c60440ed19f1fe208a056ea1607f4c14d074592be60e637bbfec73e5114a8c2a",
+      "size": 4780,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_10.OZJ",
-      "sha256": "2a1ffd4b8e28965f8f5a46277ca553be421e6010c017dd5b78eca7ad7c6e744c",
-      "size": 12838,
+      "sha256": "e2df65d778349c4b73efb7e485aac586dd9010d488bc53007a3867ef3b4652af",
+      "size": 5329,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_10b.ozt",
-      "sha256": "3d9752a2bdcb0ba8f7712b2569b09faf19f674b6d740727109bb0922aad6eaf9",
+      "sha256": "fd350ca4865e473e53e7fdbd5680e784db606c5719ed82e2ff49c17e780f3655",
       "size": 4144,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_11.OZJ",
-      "sha256": "1d0c65b09bbadb843f6efaf90d21cb1b2f6c2e2db9a400e07398490917aa3957",
-      "size": 13144,
+      "sha256": "a2061d3fbb8f864c31a37162949c386c14ce4f834f497a11dc562875cc1747f9",
+      "size": 5477,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_13m.OZJ",
-      "sha256": "a8cfa54f87f3ac2af527ffd9591085fa4af879032f516d0bedff02a554325a3d",
-      "size": 11973,
+      "sha256": "39bf20e73fd96f5ac38561c60b44533282c9509d50a7584dc36bbf472f36953b",
+      "size": 4727,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_14.OZT",
-      "sha256": "e54a2780e092bd3ca5a2e247299bf65867729c4f36eb6c8650066cc5fe970449",
+      "sha256": "81b9b720287321c20faba9d8cab776fe0f7063359c5edfe17e6ea58e162220b3",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_14m.OZJ",
-      "sha256": "b96c9b2d9220af5270e89cbfedd7362f014754e965e5e82560d7faedd7518fc5",
-      "size": 10362,
+      "sha256": "f51cce7ea0ebb7c9450c25fb27b8cd9a08211c4f02ed4f12a9f724d82374d64c",
+      "size": 5123,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_15.OZT",
-      "sha256": "869069a12ad789c3a72da00e6b634f94e088daa1f48556e6e198ebcafdca5413",
+      "sha256": "e835bcae8f2e4ad04ef6bd5f18a78347907d08b4973dc155b84ead6b6822c9e2",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_15m.OZJ",
-      "sha256": "0b8424e079a050c2a860221b493be80bcf1e0f85c3dfd50f5f2dd09b0e872edf",
-      "size": 13980,
+      "sha256": "3034734e672eac89f3225756aea1d63b469bfe966fb447b87e5bebabfcfdf719",
+      "size": 6755,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_17.OZJ",
-      "sha256": "7956ebd5919000d225ad68dea57b806fd2acdee3f887f70c008be6c2f4869764",
-      "size": 11246,
+      "sha256": "4fa3d6fb6a6e8ce1946bbc2dafd9a2ee02245c03851fa5709211ab55c1211a5f",
+      "size": 3950,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_18.OZJ",
-      "sha256": "442703e72d1f682c1acd7ce1f2a0baadafaaece508301f6762322b3237d86341",
-      "size": 8530,
+      "sha256": "771de88c80a29eda267004926660e96bcf2ce3c4eb5267083db3a900d944652c",
+      "size": 4094,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_bd.OZJ",
-      "sha256": "e94a3e09efb70b3ddb0305e5929a50dbb3cb1db55fb3261461aef0b97eea20f5",
-      "size": 11921,
+      "sha256": "b3725a8414d54717cf5ae57d6725358f72a36a286f89737b39053d5d8e7aa8c8",
+      "size": 4647,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_bld.OZJ",
-      "sha256": "bb54a33bf1e274b0970c92dd24119f219504527b7762e4bf6ca6bfe9a64eaa21",
-      "size": 9198,
+      "sha256": "e3433fb751b3b07e6a84bf7794a2e501bc753da49637eca4c5ec303e29c7de9d",
+      "size": 4819,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_c07.OZJ",
-      "sha256": "0f51c3b53fb25374c1b13dd885889246d7eaf0323be1ef64605082218045a9c9",
-      "size": 11237,
+      "sha256": "f3385e657d5fa0b60b29fada0d7b70da3c52c184069450313ed37d6c79d48399",
+      "size": 4356,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots_E1.OZJ",
-      "sha256": "0fe54d83eed1bfef751fb73e4244ee8134544a3fbc86fc1f11c8f75e27b1576e",
-      "size": 10294,
+      "sha256": "64c26ebcc396d37331697172d6e0fdd4711c329d642982f4af2600c5b28583d9",
+      "size": 5483,
       "required": true,
       "critical": false
     },
@@ -43558,15 +43558,15 @@
     },
     {
       "path": "Data/Player/boots_s.ozj",
-      "sha256": "a05be12914ca4785aba07c2abc39441c9a147b2791c58f5ec8434f6a2d3b3857",
-      "size": 32149,
+      "sha256": "a11b9868f99186c1c395c2277847e7fe002927308e3029faea1b46e91ef383ab",
+      "size": 9922,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/boots22.OZJ",
-      "sha256": "14b3469561e331f763254f47fc83723306e272c217ba8b3cddc5d4ff37f4caa0",
-      "size": 19086,
+      "sha256": "73d11a3dd2589ba85e8ac14cbd772e4b092c3e869dec53116448e3c9059abcfe",
+      "size": 5403,
       "required": true,
       "critical": false
     },
@@ -43579,15 +43579,15 @@
     },
     {
       "path": "Data/Player/cobraset_boots_s.ozj",
-      "sha256": "bd349469366f542295ab6b0d0d9eee63569622a056ca62f26f0800d6b93044fc",
-      "size": 40795,
+      "sha256": "7d5331b680a27d3d7f42e75121805c42c88337f990447bacea55403140121c6c",
+      "size": 15052,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/cobraset_glove_s.ozj",
-      "sha256": "f9f8eeaeb9bb6cb5d1f3bae3607076eeff2b78c6c3fbb6888ce3ca9e2ab6d2d0",
-      "size": 28373,
+      "sha256": "0387bb065419aac5065e60a96491c7ea0b31f34c7d8a5f5fb898076cffcb02e6",
+      "size": 7652,
       "required": true,
       "critical": false
     },
@@ -43600,22 +43600,22 @@
     },
     {
       "path": "Data/Player/cobraset_head_s.ozj",
-      "sha256": "4dbe5be633580eca2c696ec37d7e5f0d401e6f84919cca43be6ff11fa81c2a4e",
-      "size": 18036,
+      "sha256": "8ca0291cf5852abada60b3273b671242ed3bdd0cccf1c9f59eccdc8cb09af30b",
+      "size": 4574,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/cobraset_lower_s.ozj",
-      "sha256": "412aefffaa9961eb4548abcd6d42d6e0ff9e76dd5617b62faa7416beb8927b35",
-      "size": 33952,
+      "sha256": "fc34a80186b62ba3361c081dbae8786294ff67be73e2a814aa4e68a1794eeba6",
+      "size": 11920,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/cobraset_upper_s.ozj",
-      "sha256": "5eada4905fda3ba2addabd91377b0dcfda97c1f443643401563eaae545c8fbc7",
-      "size": 86893,
+      "sha256": "40e31801995a680bc80995c77d5c909cf1676c8baa5c890eb2d94f90027dbee9",
+      "size": 37553,
       "required": true,
       "critical": false
     },
@@ -43789,8 +43789,8 @@
     },
     {
       "path": "Data/Player/dark350boots.ozj",
-      "sha256": "8feb2e856568a2895fe3be40f6d68d08847478bd3ecb70d86ba319028990f36f",
-      "size": 18514,
+      "sha256": "84a5f67fbf1b75dddaad04363b57f6cae94917223a410abe0e603d4266da26c9",
+      "size": 4521,
       "required": true,
       "critical": false
     },
@@ -43803,29 +43803,29 @@
     },
     {
       "path": "Data/Player/dark350gloves.ozj",
-      "sha256": "998676aa310c83b4c3f4b5f5e148e770e580e85498019b525faee32da2b8edc0",
-      "size": 19113,
+      "sha256": "a8461c0bcf7cd38b2131bfdd606d4e8fe709bf73a11913f9eaddba799fd0eea5",
+      "size": 4838,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/dark350helmet.ozj",
-      "sha256": "b42f621be18b0f875f699d7d024ce8ce17b488b3f15d5be34876c5bc4aae273b",
-      "size": 17883,
+      "sha256": "a255d8fd951ef985d12722a6eb0932be9f09f21865086f98be198b4e87535eaf",
+      "size": 4118,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/dark350lower.ozj",
-      "sha256": "45d1a4def828d34dfc1a8986494f5cb9741b81a5ee8be8ef43ad224eed4d237f",
-      "size": 39546,
+      "sha256": "938f52728fc611127c399e596ad67dee39730d2f97cfb62c99a5d900a12cfcaf",
+      "size": 14200,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/dark350upper.ozj",
-      "sha256": "bf596ac89fb5d92679da18b3b23f69ac65ae545b3428cb91b20da8ccd5ef45e0",
-      "size": 39916,
+      "sha256": "7fc2c32b36ebae5c319c30f5014d974831becf009dc8f117c631dc32d17b3085",
+      "size": 14041,
       "required": true,
       "critical": false
     },
@@ -43838,50 +43838,50 @@
     },
     {
       "path": "Data/Player/dark400_boots.ozj",
-      "sha256": "00ef99bd3b16c930deb4f6061f59dfbd3113304e725cbf9aa271ce5a5629b3e0",
-      "size": 19567,
+      "sha256": "ffb6279c55e4fde9ab947c819d0a663d9cc0f48f1d5a25b83039087b34e6989d",
+      "size": 5119,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/dark400_gloves.ozj",
-      "sha256": "bc77d5bf8b7376266ed90d91d99a459f475a5b4549b516f5ae0e6c0ce37382e4",
-      "size": 19237,
+      "sha256": "f4b18d62bb3aabd51997cea11ef08617bca0cdbe5991c0b3319c62e2149feacc",
+      "size": 4909,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/dark400_helmet.ozj",
-      "sha256": "d58fdae28d7750b2b8c396030566f10677f0a1366ba2682d428d6c0801724db3",
-      "size": 20169,
+      "sha256": "b641087778595f8d675ad209af43df84f0677343d0c2c8cb539082b4392c5c8e",
+      "size": 5336,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/dark400_lower.ozj",
-      "sha256": "afe0442671d070f3b99b08286d26f5b57c1eadc289191cc84bdcb4e61c743d3b",
-      "size": 36946,
+      "sha256": "0bca6a3efbb7ef8c83fe0232f2d80b3ad6f85d89b61c9c6cd84354add91cd625",
+      "size": 13042,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/dark400_upper.ozj",
-      "sha256": "3acc192748ebde24c349e549bde8d1c3ec559d73d2785b1c78ae87ebc1e90680",
-      "size": 40700,
+      "sha256": "aa87dc26a2e3d996ba011ed24baa1a75f68573f701c04193d2ae70a0535afbf1",
+      "size": 14835,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/DarkLordRobe.OZT",
-      "sha256": "5ec98ce168ae84f024429eececeb45138ae6968e435dc8c5c0e497528bc51746",
+      "sha256": "91ed631efd92728f0ede126231436e7ee841f266e5723be15c17fb9f289211d5",
       "size": 131120,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/darknight_boots.ozj",
-      "sha256": "ddd693c88e64151495e4911b73726605d33ade86dcf22066682547586ffb1630",
-      "size": 15877,
+      "sha256": "9e8e9ce4a9aef5387ec8a56511da6c32e0c0079f70ecdba3d3b6cb3575639600",
+      "size": 3306,
       "required": true,
       "critical": false
     },
@@ -43894,29 +43894,29 @@
     },
     {
       "path": "Data/Player/darknight_gloves.ozj",
-      "sha256": "97cf1a3733405735b658820beaf280ae626450c5141fa3f9a3fc6fc7130bb964",
-      "size": 29718,
+      "sha256": "5c97ae652381b9eaf284da3d820b19ccfb57f7c09eed26d950152c795f0a25fb",
+      "size": 9282,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/darknight_head.ozj",
-      "sha256": "02325f10f3fabdbd3d121ac54df2721fe39976becb46a97870251ccf816649a4",
-      "size": 15553,
+      "sha256": "91a5ae67a0ec2162ad27a3f524dfc90030889d76e5de5025481ae170458e8de6",
+      "size": 3249,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/darknight_lower.ozj",
-      "sha256": "8a8701f944612a03c389b202fb1e8925302a6ba66de0c4a465b0def7925245a2",
-      "size": 30439,
+      "sha256": "b118f6230458269d1a6697a68a94714f7bf4a1d5920ee08ac7006d6c4f6eac3b",
+      "size": 9360,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/darknight_upper.ozj",
-      "sha256": "e0efb19c384ee8cdfb59fdf6d283221158c8187cbaed634c697a609ce787962d",
-      "size": 71930,
+      "sha256": "57cfb6f0343bcd182fab6f41ca12b96a085a585be627e29bd4236c1b3a106ff3",
+      "size": 31515,
       "required": true,
       "critical": false
     },
@@ -43929,7 +43929,7 @@
     },
     {
       "path": "Data/Player/E_head.OZT",
-      "sha256": "e18e8738ae1b929ea15bdcea0b933a28acbea3f852d166c9b0a0c5ff80420a47",
+      "sha256": "b5a8618580d322a4e85832c05a30c71a102e7df5bed0c1a29e7a2c9431adb4b0",
       "size": 8240,
       "required": true,
       "critical": false
@@ -43943,64 +43943,64 @@
     },
     {
       "path": "Data/Player/FArmor.OZJ",
-      "sha256": "1fdc1bdca0562077b229fcdeb334a4ba80e58c580a32c546c4422b6ef10159a4",
-      "size": 42338,
+      "sha256": "6dde0eef9dafe4f433dc131159eeea0d6d21ebe6fc99dfd17be3ff0b129628bb",
+      "size": 15670,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/FBoots.OZJ",
-      "sha256": "88c9023bd01673e6aae12bcf90553fd888f29653c545d5c65f224a8482eedd3c",
-      "size": 16804,
+      "sha256": "510845c24c20265a33ff65c7008bcf549c65fccb12cd43c78b3d2c04e62aaad9",
+      "size": 4276,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/FGlove.OZJ",
-      "sha256": "06445a8be549d03cdd8f208382ed925ad1fe7de970b640353345e74bbd0fd5dd",
-      "size": 17180,
+      "sha256": "21b96e01318ea10ca94a4861c5a03e4b7e1329829242728568ffc4652bd94c4f",
+      "size": 4494,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/FHelm.OZJ",
-      "sha256": "22e9a9b42e34abb82961762a105c59f31b22531aa320470db2a83a26c152391b",
-      "size": 18794,
+      "sha256": "64baa70a8ab10371e4161b00a520a998c922c00b93b3d00683c5744514e557cf",
+      "size": 5354,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/flamset_boots.ozj",
-      "sha256": "ce03d934b79e5cad03d8c3ec61a99256c1c72a8d08a4386ba592ec86714d2fc3",
-      "size": 17900,
+      "sha256": "8213ac573d04818ab3b773e1f32c6c9e0f14337b0f560490cf368ae1b9532830",
+      "size": 4683,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/flamset_glove.ozj",
-      "sha256": "d4de1767cf2b06daaedf43dbb065c8f24d1e4f7ded6915724381431157e45dc2",
-      "size": 18549,
+      "sha256": "a37da69b9a76c6795b7972901790cbb85f32692ae9c98965b833262da013ba0b",
+      "size": 5005,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/flamset_head.ozj",
-      "sha256": "9950a56eb26bd373c8771ec3676b1edc073d195f6e8bbc63a947e026ad97f219",
-      "size": 16216,
+      "sha256": "c8270ec2a57c9466ba6c7351e20fd6f8497cabbb168ab9c2973aaa909d426b14",
+      "size": 3848,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/flamset_lower.ozj",
-      "sha256": "04fe69ef10cde023c21bf7c64b4bda217a2664e78e40c144accb8e7b74bc7fee",
-      "size": 35543,
+      "sha256": "39d6578f0e07e69d9719afba682839dd94c2e7e78d2accc709c6f11608d770ad",
+      "size": 12705,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/flamset_upper.ozj",
-      "sha256": "46ba7a49ad3f14f37e165af2416ba00c7994c134677d30e0fd8fcda67fdcc4e3",
-      "size": 94401,
+      "sha256": "90e804108101620ca49079d54b20ce785cee94f8f4aa2995d45a2adc96823151",
+      "size": 45262,
       "required": true,
       "critical": false
     },
@@ -44041,15 +44041,15 @@
     },
     {
       "path": "Data/Player/FPants01.OZJ",
-      "sha256": "e4f8ee90e35837adc16844dd2d161ff9b9d9cf1ee9ab3618b2fd1f899bdde4d9",
-      "size": 23984,
+      "sha256": "b651303ee05e168ec4ef91adff531c60ea8bb56ce390c1b369375afef13a066d",
+      "size": 7826,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/FPants02.OZJ",
-      "sha256": "35aecd1efb1d21b75339059e79c447fed915afbc686e6c06371713cd3321a450",
-      "size": 24388,
+      "sha256": "bee24e47cca0b4dc01e3a9b16d479aec22ea3c1cebc8dc80e6df4ffe85a0b6ec",
+      "size": 7771,
       "required": true,
       "critical": false
     },
@@ -44076,15 +44076,15 @@
     },
     {
       "path": "Data/Player/glove.OZJ",
-      "sha256": "59f5ba0a03d680dc507c5c9b821e918f2cf81bc31272355ceebd0df94d4cabe0",
-      "size": 16845,
+      "sha256": "23dbb1aa977d7545be65cbf5250e3ed9c1ef215da4b3469626c6ed3316cd6816",
+      "size": 4365,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/glove22.OZJ",
-      "sha256": "59f5ba0a03d680dc507c5c9b821e918f2cf81bc31272355ceebd0df94d4cabe0",
-      "size": 16845,
+      "sha256": "23dbb1aa977d7545be65cbf5250e3ed9c1ef215da4b3469626c6ed3316cd6816",
+      "size": 4365,
       "required": true,
       "critical": false
     },
@@ -44531,169 +44531,169 @@
     },
     {
       "path": "Data/Player/gloves_02.OZJ",
-      "sha256": "3475d7012a8ff77111d4990029dd811fcc9af6923b87bc22cb27866cb563068b",
-      "size": 12864,
+      "sha256": "fe27d1d40dd1900a04f5503f690d96dfdbe19f29563a8b798f345fe179e0ee5b",
+      "size": 5259,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_03.OZJ",
-      "sha256": "8afa94026fe7ddf3b7c5e4c4339ac9b66046072bbbcc7277cbfb7062276db1cf",
-      "size": 13176,
+      "sha256": "394add233855a49683b305a5c5ab7fbbc013acc623f6143ab6104bdb5f0577a4",
+      "size": 5443,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_03b.OZJ",
-      "sha256": "a54a6f13b72ef6d514002636a04d7dacec2c0c3f1b858b6d799cc9abba6dd362",
-      "size": 14035,
+      "sha256": "0087c9085c9b08e0a59c6ed17526673070ece9058c96274c5a77a76e443a94f5",
+      "size": 5851,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_04.OZJ",
-      "sha256": "56aa798836ce1247c46e243eb7befa2e7e9873e0d46ef971e0076702d6faa9c7",
-      "size": 13691,
+      "sha256": "1fb2e110ac28119c38cc595a708fef33d6ca4fb758154596d78d203489358805",
+      "size": 5757,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_04c.OZJ",
-      "sha256": "060850700762b89b3cf5f649b4fa106f6818381e9388fd08ecda8015eb28f03b",
-      "size": 12439,
+      "sha256": "e9b2dd66c40f73e0f9bd70e2dd341799161e98ebc5df4b8addd9a2499cae2274",
+      "size": 4863,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_06.OZJ",
-      "sha256": "364f8ec259c41d28441eb48872d4ec725e4074e450d3bdc61a146f11f4deab17",
-      "size": 11609,
+      "sha256": "906d613bf6c6025f899af4cb182ade39df91e5ff22ba57df08656819e6176851",
+      "size": 4510,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_07.OZJ",
-      "sha256": "67ab0a3934e83c9396e45af89da01e2f40f23d9c687a4441de46934341f18847",
-      "size": 10151,
+      "sha256": "ce8cc574cc79e6e2bc73b4e58a5bf968cc37f7bef487d11a86c46433c7cc92c8",
+      "size": 3763,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_08.OZJ",
-      "sha256": "cb9c65447a5dd7fcfba0087ba7bcf4cbc5076b5533e49dd0f266bd202cdf4ca5",
-      "size": 11370,
+      "sha256": "73349cf8d33f8c353bd0e5d5e4a2e3de97d120e9c776a0a7ecfd8d06fc40cf4e",
+      "size": 4242,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_09.OZJ",
-      "sha256": "91cbf2aa0191da078c226864347c58649a484129bc7535461b6e93ecdfbfeaf4",
-      "size": 11564,
+      "sha256": "c071bdab2e513dd35686acf6c48fd75ff82430bac02fe2408596f675f7cf652e",
+      "size": 4639,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_09c.OZJ",
-      "sha256": "d2f2b0c44340aea6127f2c4f6d95b502448529b48210c2b7f1b3e424216e75d6",
-      "size": 12623,
+      "sha256": "88173c36b3164e74b27c4ed3e99ecc7da0dd488f5129475c06191cb243098b5f",
+      "size": 5090,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_10.OZJ",
-      "sha256": "6c62591a5748cc06e9c69213efd5857b70f46f32a3d85185502a5a0dcc57cac6",
-      "size": 13632,
+      "sha256": "e5c77247c8a39ee3109b356e913f802cc61ebbd84af27eb4af84fbb6375f00d8",
+      "size": 5785,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_10c.OZJ",
-      "sha256": "aa7092b449663981dc01e23168d0ee033e7053eddcc2a5514b2a798ae9cf5dd4",
-      "size": 14139,
+      "sha256": "45b839e00e003f5205f9d56514b854156f8521fad030ec34169c7735526b7a6e",
+      "size": 6009,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_11.OZJ",
-      "sha256": "f22cefb25fb9093e3f034988c836703cffe0710624b95a8aac6d1a85e22471e4",
-      "size": 13968,
+      "sha256": "11b1f8750973cd1c61ee5b9f7e7af8edc5d39ce831e81b1ca4fa10227f66a788",
+      "size": 5947,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_13m.OZJ",
-      "sha256": "b9676d1573f10b7560a75b7de221536d2747d0c501420736a5a4c1efe75ff82a",
-      "size": 10818,
+      "sha256": "b28ec9141414e96272b27794d7de54f048261c9a213c6664ecc6963eba95a184",
+      "size": 4013,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_14.OZT",
-      "sha256": "7b70ec3e6f8dd7698d5e6bfdd75689de6eaf97b2d5adcf028a3b73b1d8b9a0bc",
+      "sha256": "83f0ffb08cd06894c2d852b2745d9148a7c47fa35a382c2f7ebcb7f82f409ef5",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_14m.OZJ",
-      "sha256": "c50a581c60349b7914ceeaa5c17977d4dc99e1bf75d5b361f35b100abf65d666",
-      "size": 9807,
+      "sha256": "098c6995814db878afb91f4b7230a36acf47a0cfcaeb2627ce7f9e42366b1969",
+      "size": 4784,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_15.OZT",
-      "sha256": "acca067147041e5833a2b8e1db890d211643ad132fd935866224296fae6011b3",
+      "sha256": "abb956868da32c1599e86485abea71120f826efda751f8b7b8c4c45c218dde6c",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_15m.OZJ",
-      "sha256": "2d8d85e22292653506d8f95960439ff6c1b3bcff634097880a7d57c8698d5995",
-      "size": 8458,
+      "sha256": "a7c9c4a25956c29b099e216bc486b150fd5b2806172a71ab31c3dd23e3abdbd3",
+      "size": 3950,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_17.OZJ",
-      "sha256": "0d844b0de07bc4b697be9e615059a1bdf9ffce18ab34f8756f5318631911d23e",
-      "size": 10537,
+      "sha256": "ca3fa6433adb4ab5957ee6fbc7b124916caa41d4d779267c609a20174fa9a199",
+      "size": 3698,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_18.OZJ",
-      "sha256": "14082d370d13570fbb8a56fa3ae1a01b1e2c1ed4efb0c1473f5ee28babc2f5f1",
-      "size": 7745,
+      "sha256": "585613a0b7001b5c48b20d3ee9c96fbd445e579e24f80433891177ac3a71609b",
+      "size": 3611,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_bd.OZJ",
-      "sha256": "a0142b560e3e8e0eb04c8e312dc878f8bd50cbc19f41a17d257d877618702492",
-      "size": 13851,
+      "sha256": "364a59bdb52f849cf359876077c0e601828f5bdd3d9628b4ff344e5110ee350e",
+      "size": 5882,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_bld.OZJ",
-      "sha256": "b9d9a1ca5a95dd21ea192875df37d47457e225d835b537c6f1e2b92809661320",
-      "size": 8739,
+      "sha256": "d02906806158230d2a2d91b8d812a1f32968e1a622b38bf4a5d4e33442026e54",
+      "size": 4502,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_c07.OZJ",
-      "sha256": "8624ea8621ef4fe345bb8a063cca969355cf5af4d4c19210b1da4f9b909f651f",
-      "size": 11714,
+      "sha256": "53df229f6780849e537ab61e0497b8055603d6ed67eb4f072cb70245867648b5",
+      "size": 4640,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/gloves_E1.OZJ",
-      "sha256": "8af7e1a13516adc9941872dfd3bc4184e0371a882c031574a80609878319311f",
-      "size": 10356,
+      "sha256": "9c6c347f84e082bbb46f9e21b7bfb25fcb389a8fefb2b7180fe7e54ab4c3a68b",
+      "size": 5402,
       "required": true,
       "critical": false
     },
@@ -44706,8 +44706,8 @@
     },
     {
       "path": "Data/Player/gloves_s.ozj",
-      "sha256": "2659bbf6bb0143677736e963dc31503e631c8a73a2ca5d762b55fbfd96b16b3f",
-      "size": 20372,
+      "sha256": "c8292b3b1bb8b6e6906f370454d6478b4b3498bed31e62a243d80c8cc4c2c11e",
+      "size": 3924,
       "required": true,
       "critical": false
     },
@@ -44895,85 +44895,85 @@
     },
     {
       "path": "Data/Player/head.OZJ",
-      "sha256": "439f5fc5d4fe88310f8fe36a3d2d8812b8d910b64ac573101daa9fda2de97e58",
-      "size": 17587,
+      "sha256": "c3d632c98432d49745da042b27a85d60d0ef8ec35553b9f13aef407795b09bdc",
+      "size": 4746,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_02.OZJ",
-      "sha256": "2370acda61267eec6f8da5e42d7f104aff31e5c6c6fda1ff39805c3df5b25ab7",
-      "size": 12284,
+      "sha256": "b93ebed2be381b533434eb2adf70274f2dcf127cf23b926325e5928fb81d81de",
+      "size": 4850,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_03.OZJ",
-      "sha256": "d9befe6bd39c29f4b605f3440d7d5610adb15cd6ee2c3b6064164571ea43b78c",
-      "size": 13727,
+      "sha256": "c93b3a0dddcdb3185b5b06ae7f957e90c8157f1195391d6f0e53f6df56671f6f",
+      "size": 5694,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_04.OZJ",
-      "sha256": "5a6a62a54ed2731a5ad3c99bd728f6618c56436903a668c307e637a296d9f385",
-      "size": 11883,
+      "sha256": "3cfa6e38610d79e501dedac8edd877cea7d675aae7c000e8dc78e83d0ab87c94",
+      "size": 4713,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_06.OZJ",
-      "sha256": "8ebdd50bd7a5bc78d5ea65f87ff5643007bf43cb5278b9f6e94b10966672bbc4",
-      "size": 9559,
+      "sha256": "aa14551ca4fae3c631de4c2586b81510d725a0cdb2361bdc83183b47b6fa29ba",
+      "size": 3489,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_07.OZJ",
-      "sha256": "edfe4f02fe8d8f12aeb22b23650bce6baf56fecaac94bcf161d741449a9a7760",
-      "size": 8951,
+      "sha256": "7046a310c0555fa817ffff8f3c069159194e96b60a7b83da839454f080b60a78",
+      "size": 3045,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_08.OZJ",
-      "sha256": "9de8c0ef5a72c73f813334e0923ab25d8a7a0f1a5c7f965a248127785446f146",
-      "size": 10752,
+      "sha256": "00e18df9ed3fd4bd17932ae10a988e0c5a9452ab1d9bc2f0695588b95e2092bf",
+      "size": 3958,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_09.OZJ",
-      "sha256": "8342a8964465e821e4942ce3bfda5876832c17b9632d5be0f69622fb0c9be185",
-      "size": 10445,
+      "sha256": "d6743c537913d1b594195681a7e7349672058c0afb68b6ab9a6d1ee79348bf64",
+      "size": 3876,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_09b.ozt",
-      "sha256": "d6c9b564ce5c645fd70a56db62394ef0478e21fd99d07a3f6c8f16848684507d",
+      "sha256": "bdd8c5408214e4b94bb90dffbfe980c85c712446f5278aa75cd44b8defe97e03",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_10.OZJ",
-      "sha256": "9dcf30ba696663ad20f4a8db8c2895868c6b8ab98895fea684dea296a28a9add",
-      "size": 12456,
+      "sha256": "71fc4991b8ba15413be4a3b9fb93244fbc324111c2d510d860fdbbaf461ccaca",
+      "size": 5122,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_11.OZJ",
-      "sha256": "532423650860e967cef4b31537fc17ba95a4cadfe627dbf1a26897f95bb7b22f",
-      "size": 11082,
+      "sha256": "90a3a360a402a80aea3a398da69211beb7526f8f13e1f001390434ab8d5d55a7",
+      "size": 4114,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_13m.OZJ",
-      "sha256": "318426fdfd88d28713a7bd333586cfc43e910c8af9191645294e53f80606b5fe",
-      "size": 12282,
+      "sha256": "60e34c750bd50c9c626376a271d3c6b75623e899b3b1093095331534abd4f238",
+      "size": 4855,
       "required": true,
       "critical": false
     },
@@ -44986,92 +44986,92 @@
     },
     {
       "path": "Data/Player/head_14m.OZJ",
-      "sha256": "fa336e2b54b72f8650f4c673f97f02a1254ba50e1a54f259992b8604bb5954e1",
-      "size": 8220,
+      "sha256": "742cf3fa33faaa6a555b8213443f36a6b32e583379266ba4f2f562ef7566e1a0",
+      "size": 3917,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_15m.OZJ",
-      "sha256": "32633e2de4e96f00ece4549efc0eee0f2a49842dacfb6abd6f30c7f07e6dab9f",
-      "size": 8632,
+      "sha256": "013f2786dc5a6af5cb4c0a6cd6d140c97fe6bd677d42066b3720952c5cebdb22",
+      "size": 4022,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_17.OZJ",
-      "sha256": "5971d9754f1ea4f698e1e9efab38b4aaa54706494f5e2da2a0ec434c7b4566e6",
-      "size": 11693,
+      "sha256": "f71a81ea9552c88260a41bb2b70979ec856f1613d295d2876ea2c8f79fd99563",
+      "size": 4330,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_18.OZJ",
-      "sha256": "5ea3ecc9927f6e39c2ad0fe6fe217f9b0c00435b023895d4ac7fb4588f009a70",
-      "size": 8840,
+      "sha256": "58d2942f4f195a3781d66b8cb6e12d879f67c6404018e7453e5d864ae0adc7ec",
+      "size": 4276,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_a01.OZJ",
-      "sha256": "c640e829c10ab06bea168f97e1cd0f18747c62c02ce6d258c93ae24d153c2e86",
-      "size": 8275,
+      "sha256": "8199fd3b7410e3506e2dff7e27b8353a1b4bdad193fa7993dcdaeda552fb9e93",
+      "size": 2636,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_a02.OZJ",
-      "sha256": "42f0d171e0bfd32cb4f0666077121939b5ed89a6a4d244138bcde589bf025a65",
-      "size": 11505,
+      "sha256": "0019c810bdd3ac701357e45db123747d4dc56ab5c4bb914f7ac7088c6b7c00cf",
+      "size": 4268,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_a03.OZJ",
-      "sha256": "294d37a8f8d98fbd8c84b5b448f47c8482d3c635ff0278bb62a95db683ee6cc1",
-      "size": 12470,
+      "sha256": "4344384be728a60279a6b5dd50e3bd620f8af1bde1ce057cf07ad66e92ae488f",
+      "size": 4932,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_a04.OZJ",
-      "sha256": "2253a92c282c26ea1aa1d498797d5b2bfb593e76554cf38bb7828117401f136d",
-      "size": 13828,
+      "sha256": "66cadeb186688f4165929a43a5b09eb4ec796cdfd939664a6cb625ca724c990c",
+      "size": 5718,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_a05.OZJ",
-      "sha256": "931098c4b7b86f3ee621414c73be39f52de6101c87de51977395dd8d1fc39f93",
-      "size": 12522,
+      "sha256": "23ac283c747ad5a46e0322f6dcd51c24e1a8ad2b534575317b715ecd54e0cd90",
+      "size": 4786,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_a06.ozt",
-      "sha256": "ab52b159e39255e4db1c373a5f152994fc8b5510208d9ea139bb5d9a975cce39",
+      "sha256": "61a0888ccdfc4f8508ba61d07ea2ce0efc3c6204f3dd7bbf41889b7b2c3a76fc",
       "size": 4144,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_bd.OZJ",
-      "sha256": "5e767c8d0c163381bac77256e0d25503022aef36561c0edf4007fd6bec6a881c",
-      "size": 11049,
+      "sha256": "db834dba1509e1a0bc119e150b7c99ba7c291c5dae3eba70da723ba865b8e3b4",
+      "size": 4061,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_bld.OZJ",
-      "sha256": "1126c1dabe1b889d478ad8b84006a792417ee4de9d92b87543d4cef62ee23bc4",
-      "size": 7728,
+      "sha256": "652d4991e03a33fd4aa92a288a62ef2519b515a828a8115784cf2e4843006638",
+      "size": 4048,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/head_E1.OZJ",
-      "sha256": "a1846330d78f3655e076c593269ee6990c580e64f416edf436ffb20e52304419",
-      "size": 8508,
+      "sha256": "f24fa40215917b60742336869435802642330d2d1a1edbdb4ad53855f3f9ecbd",
+      "size": 4395,
       "required": true,
       "critical": false
     },
@@ -45084,8 +45084,8 @@
     },
     {
       "path": "Data/Player/head22.OZJ",
-      "sha256": "439f5fc5d4fe88310f8fe36a3d2d8812b8d910b64ac573101daa9fda2de97e58",
-      "size": 17587,
+      "sha256": "97b64b79164b36388d0dae4ba745d9bba813094222859de487c5d8d56846c0a1",
+      "size": 4782,
       "required": true,
       "critical": false
     },
@@ -45252,8 +45252,8 @@
     },
     {
       "path": "Data/Player/helmet_s.ozj",
-      "sha256": "95f21b7f16d4f6e845e71fed4581bb7e8d454623a8f6a178aa315e64960282b8",
-      "size": 19527,
+      "sha256": "09abbb5b6d9935b1827ba66aaef1053acd73e8aaa30751e39c0512944a1aeb0d",
+      "size": 3588,
       "required": true,
       "critical": false
     },
@@ -45560,155 +45560,155 @@
     },
     {
       "path": "Data/Player/hoblinset_boots.ozj",
-      "sha256": "5130548522728b3fc72afec429595129c357f26a4f2af54d37ec0797069bec0e",
-      "size": 17464,
+      "sha256": "b91d09de84e98d3ab133cc0b28056f478a6646517ad8ac8ec639f8b981b72622",
+      "size": 4151,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/hoblinset_glove.ozj",
-      "sha256": "7a210c4404aeea9c838166d6474a7585fde8f246a2895a650efdf17e6a199e8d",
-      "size": 32254,
+      "sha256": "60b42f6c14ca6a9a457ce1af6bc6d835454dfbaf9f968a425b9cec7b9a7648e1",
+      "size": 10671,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/hoblinset_head.ozj",
-      "sha256": "784133b5adc14967ba9f0e4387f1b38081e07f43b280df5bf64bb348b8d04aec",
-      "size": 17994,
+      "sha256": "69352e56c90a62f5312c9fddbc3014292687ae9ea1b9e80329928596dbe0341d",
+      "size": 4453,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/hoblinset_lower.ozj",
-      "sha256": "1d8915f73a7bcc50e59021dcc755c30667e6ddeb03f22a93b4bb7595aedd6195",
-      "size": 34045,
+      "sha256": "5e2191dbbe04dba4bb7c785ae9bd59c3aa09ca84bb37069592b2c2b5350402eb",
+      "size": 11561,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/hoblinset_upper.ozj",
-      "sha256": "909a22f17465a07b0638584e5163d4acb34e5291d0be55a970eb7dc635463ebc",
-      "size": 41058,
+      "sha256": "9ae31452bb4550a7bb348c76b275393db02a2f1117d4a7e67cf6f0889d550637",
+      "size": 14504,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/InvenArmorMale40.OZT",
-      "sha256": "42a945cfaddabc62fa933fc85e85cc5f2d403755e22cb0f89593b1e2652f0f53",
+      "sha256": "8cdbd04cffb5aab07e32c6ad5ad9babfaa8bc1f348e34bf69cae8b8e4e7d3a17",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/InvenArmorMale41.OZT",
-      "sha256": "8310dae86fe1d929ccfbf8ffa07ed925a97e1329873e5ae0dc18f6a99019ebbb",
+      "sha256": "337c8f1dcef657c35b5e8495c1048acf32bf7565f6e6a1102efbc62d1c7ef155",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/InvenArmorMale42.OZT",
-      "sha256": "2d62cda90301b9ee2f1d68a1c113849e337f09a92976bca115b397ede9a68eb6",
+      "sha256": "4cb26800202841ba1134b6c69619fc8b273a7dd155ca92adfbb5a96a474c652d",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/InvenArmorMale43.OZT",
-      "sha256": "a299cbac6dcdbe0a31ead8add1d139d6fda70828ba4dc7aa0fe8f5ade986403c",
+      "sha256": "1461a108235ce284efd0fa538e1a647a57a25e77377c0b90f68571359830752d",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/InvenArmorMale44.OZT",
-      "sha256": "e91c978312507b2d07fad8b2bd06a124112532f9041b0a16465179635cdbfa1a",
+      "sha256": "97e3a95d2a4ee5f8c26d19ef8c0b06ebaa00f5316dbc9ca36682472d4e4a73ac",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/InvenArmorMale45.OZT",
-      "sha256": "e38aedf4a01ce78afe2cd24836511d81d006aef45fe6575a8190e62dc258a9c7",
+      "sha256": "a4136c8afc25427ace3e1a229b3dc9c424fa14a1e987cb860abc6404071981a3",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/InvenPantsMale40.OZT",
-      "sha256": "5b90c24d206a70f8a7eb874e1516ebed8b61493ea0add8642f3e400254bf7a69",
+      "sha256": "92395b3cf7c499a13f0e8384c4b128dc1e11039d54b08cd1b07025e8ff34dd1e",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/InvenPantsMale41.OZT",
-      "sha256": "a1ef81716a118ff9a60030a822e4da2fc6c80ef56494ad6a06b3e3ccc9299afa",
+      "sha256": "748acb729ae0aabf6ca5e225a012843ca67ac04c12f81b09b303ff62933d63be",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/InvenPantsMale42.OZT",
-      "sha256": "beb16fb568661dde55b854bddf3623a42452a642f3a42b3ff7ca05ac0b8c61e3",
+      "sha256": "bc0e9489e38f790fd289ed82bde66f92d100077c18932129f8bd7d660f004fa3",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/InvenPantsMale43.OZT",
-      "sha256": "05a9a7db21a7a4c1fa9969f66986c8e08783987e14c50016a82eea78e656ee77",
+      "sha256": "2eece60887ffb5e503b801b780600db2e9f8c0e268e1215a7f663800b5510b76",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/InvenPantsMale44.OZT",
-      "sha256": "e1f035fe83c1bf56ba3a6fa5e4f81d4db3b22c06ca9f769c056a26a362265caa",
+      "sha256": "345418cd8000343ccb0b72fdaf53c1354fae351024f30db35846c8c5379ce13a",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/InvenPantsMale45.OZT",
-      "sha256": "2e6fb39b63f20407b7be7a95b80fc09f737880d5d51d603fee7dd96a3e70bb2e",
+      "sha256": "dff9d7de756766d7093f90ebf90dff5b19afe1a69269e93aeb02476afc0c3606",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/item1001_Armor.OZJ",
-      "sha256": "237dd6f3304c9d97caf1b0fba882d357fb39b7eed0309979a643fc889533235e",
-      "size": 35958,
+      "sha256": "abd7b5bcdb098fe1674f2099a8e815fc793eae3f1e44a93863a8257da415cbda",
+      "size": 11691,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/item1001_Boot.OZJ",
-      "sha256": "c7330af2add8268b8c2c710767c9d8d6f3c4b890d041b76ea4e198a4c4a5fbbd",
-      "size": 31082,
+      "sha256": "9d021ee845dbb3f8b1fefe02646c681eeccff92bf94af346a22d83c728594023",
+      "size": 9913,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/item1001_Glove.OZJ",
-      "sha256": "8a40d8a093b86fefd464fef02a68b0276be2193e0ef3d30b8f6ba8d54ee95e2e",
-      "size": 32004,
+      "sha256": "18ac0e5a30c86ca5c002f290907c3808f41f9400eedb61c07406093e4eabeca9",
+      "size": 10407,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/item1001_Helm.OZJ",
-      "sha256": "89cb098c231c9178f50f8f8716d196b46dff22f7e00f83de3c28167e2559406d",
-      "size": 16725,
+      "sha256": "e31accc9097b27a3a5a90bbaf12524b47c47c91e680dca06819ab278034f36c6",
+      "size": 3694,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/item1001_Helm01.OZJ",
-      "sha256": "8daeaf6bd18e1f045e9dd5f667eda2ece20e516f7e2fa0bf6520840a8d52d757",
-      "size": 33731,
+      "sha256": "6007be95788fa0376ee5e30ab81319fb71a4c4ae69f2f9da32ccd0e66553981a",
+      "size": 11316,
       "required": true,
       "critical": false
     },
@@ -45721,29 +45721,29 @@
     },
     {
       "path": "Data/Player/Item2001_Armor.OZJ",
-      "sha256": "64f9ba896c2ca81ac07c026ba35da2b9f67f9d9971c8e9e33fe47af76a4b8def",
-      "size": 45956,
+      "sha256": "0d35f3bc6161054eaea98c539561b5df77bd0dfcdd6d43b89fac6d5caa580b45",
+      "size": 16702,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item2001_Boot.OZJ",
-      "sha256": "86bf68728f5c415ff07eb1fd5194ad5ec67115f9a9d3cdefda19bdd5e9d75cb7",
-      "size": 36783,
+      "sha256": "d43cf4d4a9d2ee2a6c963878cdb10770e6d0ec128c90b4e99909c1e72871a168",
+      "size": 12408,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item2001_Glove.OZJ",
-      "sha256": "058fe9866a503a0bff4bd9d611af929345bb6e4dece387e7cf0a7eaad6a20779",
-      "size": 41749,
+      "sha256": "89268e0926bd39afc35807bf0ed53f5718b4a00a0080a15e84de0d17ad781481",
+      "size": 14702,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item2001_Helm.OZJ",
-      "sha256": "dd976dc45c4c35947a0822b089a0dc8b9ad907f40acc8d962dc31bf4e0c815b9",
-      "size": 18594,
+      "sha256": "f4d7074fb639af24a4deb126b1e4aac145d4dcf2b7f7975499c928e1cbce1929",
+      "size": 4521,
       "required": true,
       "critical": false
     },
@@ -45756,15 +45756,15 @@
     },
     {
       "path": "Data/Player/Item2002_Armor.OZJ",
-      "sha256": "99d1ca8b1c11a79bd164fef58b8cd6fc32e1fc4b0f2393dde376861d6e0f7d25",
-      "size": 44919,
+      "sha256": "bedfc9188bca85fbe899b237c56ff2571e41e3f7d7b273672a78892717f26c3e",
+      "size": 16284,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item2002_Boot.OZJ",
-      "sha256": "3e32e38dbd707c529a56f5fa181c1c76543608092f24b1c86984056d70a2ba4f",
-      "size": 39500,
+      "sha256": "49b119075455edcbe5ad0ad5d8412b36bb44aa83608c5d6324603a28b484ac23",
+      "size": 13792,
       "required": true,
       "critical": false
     },
@@ -45777,15 +45777,15 @@
     },
     {
       "path": "Data/Player/Item2002_Glove.OZJ",
-      "sha256": "5cf95ff063cf45fae1dfc1f724bcc2d16da9c37c6187c659beda09c894b59ad2",
-      "size": 35939,
+      "sha256": "f6458fbe4500de61fde01b5226e076cf75d6390c2570cf8517f3ff125bdb06b9",
+      "size": 12139,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item2002_Helm.OZJ",
-      "sha256": "4bc9b5f579859acf204f426d8db02ef92286fe1b4558e889503eb293ae5fd35e",
-      "size": 18237,
+      "sha256": "faf937c98b5ab2cf76afe15a14fa9fff61de697b8497e9a7887513395351a1ce",
+      "size": 4402,
       "required": true,
       "critical": false
     },
@@ -45805,43 +45805,43 @@
     },
     {
       "path": "Data/Player/Item3002_Armor.OZJ",
-      "sha256": "85b74b442db722073dd33a0d56637124cb180af5c4ebe77df207e973c5431582",
-      "size": 43137,
+      "sha256": "3034e0293279a90386aeb780930059ede6911c6784edcadb7b668a40c38eddb1",
+      "size": 15725,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item3002_Boot.OZJ",
-      "sha256": "d0ac87b8b04f3bf0c7989d1c31dd0e03a571cc20ee359cb83ffab4d683f33617",
-      "size": 31967,
+      "sha256": "452f40b810c18c0ba7f62736549325c0b3389da83c995ec18f6d156e16126ec2",
+      "size": 10725,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item3002_Glove.OZJ",
-      "sha256": "008ad87a2fb7cec55b507ee8f9d82de1e07ab8f9fb833d2cbb028a24144f3a6c",
-      "size": 36109,
+      "sha256": "a9ec37d4735fb6aaf151da0c8b12c9606f5a012d9182cb6f8da0d18954787b93",
+      "size": 12611,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item3002_Head.OZJ",
-      "sha256": "86fd8b09d7672ba3af148161fda7181d3c09fb522a919bfcd8a5e26ca15f1667",
-      "size": 12344,
+      "sha256": "bb23908caafd541d2af096525809cde9b8d631365004ade63d305b2925ace5c2",
+      "size": 1795,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item3002_headhair.OZT",
-      "sha256": "5d5f095b42c7daef3bb476b3960ef8883f956278c430fdfa80eeb44563610fc3",
+      "sha256": "6d302fd3e8d535178c134663d72d4d6d1b87e5faf99e5b5923982a3ac120aa8f",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item3002_Helm.OZJ",
-      "sha256": "4062895e98e193ffb949187044cf0e4da2a48c4cdf746172356f1598983c7fa0",
-      "size": 17788,
+      "sha256": "a88dc7d30dae3f4646c72bb9361b7c0ccab8a5ab0dfa65cf0ed4c064d86a3fee",
+      "size": 4247,
       "required": true,
       "critical": false
     },
@@ -45854,42 +45854,42 @@
     },
     {
       "path": "Data/Player/Item302_Armor.OZJ",
-      "sha256": "1614e07bb424ad9e6cc8eabb561922d9ce3f76f53225f93d50b06d634fe2c4a8",
-      "size": 39848,
+      "sha256": "92f98e1586a71296c13bd369fc8ef5348a8747fe15887dfb45ea2ca8a9d526ef",
+      "size": 13484,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item302_Boot.OZJ",
-      "sha256": "d9d550a7b8e5fc5b72ad73e6bb8d941a82d13338801f04855faa7f6d4cdc37a6",
-      "size": 24579,
+      "sha256": "153e8fa4d3f67135274e610bd0ad786aa7e126a1ef22635a85c55f700f468c91",
+      "size": 7132,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item302_Glove.OZJ",
-      "sha256": "432b0e61f4349e4598d6d5e8c63f03983953258edf7431597c3c96e066ab34ca",
-      "size": 18036,
+      "sha256": "6f02e55d5214257b5769aeb2f10a3fa836f708309c2a5d4df622a1f5526ea9b0",
+      "size": 4098,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item302_Helm.OZJ",
-      "sha256": "f6df510ed89b1912abb3e5454cf708038d6e8b0f1bd3c5436f9903d5ff306c51",
-      "size": 27415,
+      "sha256": "401c1ee3a5898b757c134d65d023cdb49e7992f2bb1e831530bfa7b002b4060c",
+      "size": 8783,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item302_Helm.OZT",
-      "sha256": "fcbab783edff9a744f17ee89af91c0d787fd7d558d0e191af6dcae949edd1abe",
+      "sha256": "4585612afe6400dc6d53f07786c25cb9dacb4b3697dcd795a813062fdd24f169",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item302_Helm2.OZT",
-      "sha256": "d755b81fa942b583e88145c86731761240cc76a62d8ec9c053ffdcc22c81fc4b",
+      "sha256": "1d00bc983a24612af05d73c28774cc850b67b3a2697158bdf79dd7db62ef98c9",
       "size": 65584,
       "required": true,
       "critical": false
@@ -45903,7 +45903,7 @@
     },
     {
       "path": "Data/Player/Item312_Armoritem.OZT",
-      "sha256": "c51299f5cd358f29064152d2148689a3a31f0af770e5228c67b76ba972c7ed4e",
+      "sha256": "fa5b937c2badbb3e1a6494332537ad4f8b4ede4753d77e5d918a8dcbce4ad66c",
       "size": 65584,
       "required": true,
       "critical": false
@@ -45917,15 +45917,15 @@
     },
     {
       "path": "Data/Player/Item4001_Armor.OZJ",
-      "sha256": "705126b021de68a5f66aea0b5ce6c5fd998abd8de37387bfb250c38ed2f56dae",
-      "size": 74577,
+      "sha256": "7ac06378045026411feda1cf6831a400977f4c8fe18cd91c8058877e986812d6",
+      "size": 34430,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item4001_Boot.OZJ",
-      "sha256": "64659b8d4ea22b5c888d36752d59b689d315348aa0b3728802fe2cc4b48620c2",
-      "size": 30015,
+      "sha256": "147edea558b349fa9667fdca84bc080ba2df999700e80004a98a85bf26b26f12",
+      "size": 9949,
       "required": true,
       "critical": false
     },
@@ -45938,15 +45938,15 @@
     },
     {
       "path": "Data/Player/Item4001_Glove.OZJ",
-      "sha256": "47884f86bf113c2ad0bd241b4ea48e90e6c04b63e9856edc51fc66f9c07ce2c1",
-      "size": 8943,
+      "sha256": "084b56892adf62edaeb9b8622ec6bb504299e1511a724bde5e9e64fcf1f0427a",
+      "size": 9925,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item4001_Helm.OZJ",
-      "sha256": "784383d895513410c972515b072d15fbecbfcaecaaa43708dbcf52cd5d627421",
-      "size": 16941,
+      "sha256": "7cdc5f200d735ac07fff6f794b63935f6f4c15b55227f3c6b4a4abca85b6ed3c",
+      "size": 3729,
       "required": true,
       "critical": false
     },
@@ -45966,15 +45966,15 @@
     },
     {
       "path": "Data/Player/Item402_Armor.OZJ",
-      "sha256": "f056f143f978df73f595548e8d5ade4668b6cbafad0bc700b878fdad9e63c526",
-      "size": 92521,
+      "sha256": "ad8dfa3d9e697c412465ec471bcc711ed813a7b1b8b73a050f97b2415894eb6e",
+      "size": 41362,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item402_Boot.OZJ",
-      "sha256": "589b1374aeee5a1b22ec0b463e8c13b544753b823fb28110ca0e6c37fd534ffa",
-      "size": 20517,
+      "sha256": "0794668bb69a8f78a0aabf8fb905e1a25ff88b9cfa7e1ae241cf34592feec522",
+      "size": 5503,
       "required": true,
       "critical": false
     },
@@ -45987,50 +45987,50 @@
     },
     {
       "path": "Data/Player/Item402_Glove.OZJ",
-      "sha256": "04a30ea6231d5ef11223191399cf3c1580172cbce044cdbe34ba6054af0e6200",
-      "size": 33644,
+      "sha256": "2e5a81935247315f6426687869a6f2227397de58e8647208298bf7668d32f203",
+      "size": 11205,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item402_Pants.OZJ",
-      "sha256": "168c4c6580ec372fac120d54c0f6c0bd2c2c9c1fc7fd4d296ceeecaec17ccc2d",
-      "size": 30271,
+      "sha256": "9f5ea49fb0afd1c5de1456d2afeadd7b329284355f9897bcdd93df4cf708a9e7",
+      "size": 9433,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item402_Pants.OZT",
-      "sha256": "6902913f132446cc6121b316b5711088b43fc60be2ccb118a467a525169145bf",
+      "sha256": "b108e32a1ea7b21c20cbe8788a270f76abb661f3be51b729a555be34343610d8",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item5001_Armor.OZJ",
-      "sha256": "13531ba9c572819bb23679afba2296c10b154a3897d857a13f8a589aae0b2628",
-      "size": 105963,
+      "sha256": "4286cd74516dfd5c16a95317f590233ebe9299813dec1b2edc9a30626f0514a1",
+      "size": 49084,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item5001_Boot.OZJ",
-      "sha256": "5d69db4f6335f60b4c2d165fad08e6143872cb2fbf06800d555818b13dfa79aa",
-      "size": 43116,
+      "sha256": "d6473311aa070204010641e1e62a48a34373273f8850431f5159e03cae8bdb3c",
+      "size": 15709,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item5001_Glove.OZJ",
-      "sha256": "3d6e45d534723955db08e085af7e0623873dd89158d5e029c1fb93c249c1749f",
-      "size": 40649,
+      "sha256": "a4c35837fa8652e26ab5fa0fb18fb79dbf8e3668721dfa771764a2258b1f344d",
+      "size": 14328,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item5001_Helm.OZJ",
-      "sha256": "4466d72904c3226653919ae426069d0a74bdd47c88b97ecaf5d84d0dee0396d1",
-      "size": 43990,
+      "sha256": "cf20a1dbdf29d9d9c77ff812d0f2fd8adb40835c11ccaffc7918c94bb2e44d8b",
+      "size": 15965,
       "required": true,
       "critical": false
     },
@@ -46050,50 +46050,50 @@
     },
     {
       "path": "Data/Player/Item6001_Armor.OZJ",
-      "sha256": "1819bb20112dd1cfd040c7011d1033e9cd700106aa3689a7744afdf174ea81f5",
-      "size": 40559,
+      "sha256": "a62333fbfb6908171970698fe335853fb32fa86c3b2e17e62500e9f7d826b190",
+      "size": 14194,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item6001_Boot.OZJ",
-      "sha256": "f1505cd539010db6cc6a1a5bda689d4ca323c0b338dfc24b6eb01f1d5d1c5eff",
-      "size": 16859,
+      "sha256": "4dd063d4747227ba1c62077d1dd344beddcc2bc9b327e2c404e0fd32a1fd3a8a",
+      "size": 3597,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item6001_Glove.OZJ",
-      "sha256": "78bd6af89cdaedbbdf7fce336d80c1c616bb2bf845d6f83cc7bb7cf34073691d",
-      "size": 17621,
+      "sha256": "ffbb0d8421cb216cb5d4b267a3c9fc87c68223ba60b0c9bbc2f803e1135d9236",
+      "size": 4026,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item6001_head.OZJ",
-      "sha256": "78e02482a09ca5a73990edf312c449215b58d9ea30bc3ca2d6eb09aaea4f266d",
-      "size": 17529,
+      "sha256": "0261d56be045c4e0bc21abb00214efb13f298d9a9121964233dfad452c7d2a6f",
+      "size": 4096,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item6001_headhair.OZT",
-      "sha256": "b344072a53d0b7b9df142bcb2ac5ec910d7d0e0dc44fb5a1ce1f435d64db165c",
+      "sha256": "96ea8538c065277821a5bbe49f156b213e7676445dda09bfc2b319acee2f5560",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item6001_Helm.OZJ",
-      "sha256": "79db9dde961a886e2993ee06427f2834ac6bea6b74c677b513ece63b7e49c236",
-      "size": 12616,
+      "sha256": "73e99c4835e9f937df6e5a936a0f27033463f8fde2b64fefd39ca7d744e82bfb",
+      "size": 1779,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Item6001_lowertail.OZJ",
-      "sha256": "66473b00b7374aa17f148512e02b98a4c7a8249b279847f0cce790ed66e9fed7",
-      "size": 15464,
+      "sha256": "f23f3f4a0dcd0bdbb11a09c57814099615994c7a1145924c504c80383f3b4923",
+      "size": 3246,
       "required": true,
       "critical": false
     },
@@ -46113,85 +46113,85 @@
     },
     {
       "path": "Data/Player/Kbpp.OZJ",
-      "sha256": "58fcc1f73c950596a931e18355fafa9af01a563e0a3fdac53b1a5ab17a096411",
-      "size": 13495,
+      "sha256": "b5a2fd0c7cbe95547c4d19e6220db98e782feb872957029099e21021e8d5dd34",
+      "size": 6297,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Kgpp.OZJ",
-      "sha256": "e35304f129ca1b5b1205cda2e086e23fd028be695e167a26720c847d200f6bd3",
-      "size": 8053,
+      "sha256": "320708434b2eeae62d75bbf926dabbb833d134851f9651171de1328e4ec3584b",
+      "size": 3650,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/khair.OZT",
-      "sha256": "437dc668616e945b162a7b6c78f0e7729bbdcb962372261cedb36cd2af87b37a",
+      "sha256": "17290f6aa688195a8082be9864b59d6c2623621b67509aad22a3030fe5e656cc",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Klpp.OZJ",
-      "sha256": "4c2113be2c6b796c6f62e69f95fbf791c598cb4e4531d7c0ac89a4f232c7d935",
-      "size": 25758,
+      "sha256": "01cefa972b0543889917098da3f8600ecbfb077920c106d938bb9fdac542f53f",
+      "size": 12236,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Kmpp.OZJ",
-      "sha256": "75c48137491bc7f1623b74d5e52e967bd6f88c1362f3d7b7afa5b7c661c751f0",
-      "size": 8150,
+      "sha256": "edf3d7df830232e706dd9efc594a3f20d47a01ae691538ca16e39bcbdfe385cc",
+      "size": 3649,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/KSbp.OZJ",
-      "sha256": "940a64d5f0e8c18d33734d97518a8d4baa3586780f87ae854be770c30692a7a0",
-      "size": 14301,
+      "sha256": "d4bf32cdf4fa2a87a01581f7ce96e1f9c0b07dcb1d7b23308d7e303839aeee40",
+      "size": 7086,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/KSgp.OZJ",
-      "sha256": "72adc7b28c6ddfaece60f474107ba5b5811b866c24a63887ec68f2faac07fee9",
-      "size": 7625,
+      "sha256": "26e018db2179070a1cd1e8999bb97cbb96d8a5d4b6d4750a8e86af1bd66196ef",
+      "size": 3582,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/KShp.OZJ",
-      "sha256": "5659580a5f1b7a6b3e47e27ccf7700a677e85b717594455521b6a38a1845338a",
-      "size": 8346,
+      "sha256": "2819ae7ff8bb9ba101514896501ee04765492ebd1b00985d6a27fc46913f9ed6",
+      "size": 4017,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/KSlp.OZJ",
-      "sha256": "d8284ac8968e9e6a3e1370bfccb23f2cb72500f1983994ed059070f3de151c3c",
-      "size": 25928,
+      "sha256": "8977382ada0ac65000c5edcf1a6affad2081e416c9153de8839fad54c6dfa2b4",
+      "size": 12973,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/KSup.OZJ",
-      "sha256": "b3a1d4f09d2c73847be4eaea457e2e106559efd161d537cc7ebcf67ea47c081b",
-      "size": 29848,
+      "sha256": "fdd5e03e988ce6c224d387243f61a3c6460caa8cc2df7cc600244bcc18c66b4e",
+      "size": 15178,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/KSup2.OZT",
-      "sha256": "30beac8c80d84d275c5cff87a1a77691a70245970e3607a7a42950fd2e9cf25d",
+      "sha256": "4bb3647308e590d6ca32fdfc8cd354872c7d7516752a0a3b3b04f62862dfa367",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Kupp.OZJ",
-      "sha256": "7b90a408b9f5cb9572d8b993c2bacf7d415bee0403bb9c0b274c93fef0555748",
-      "size": 28118,
+      "sha256": "b59c4f3e0ed48506d8fb88a855fd04f11ae8869e7ccfaa7ee2a23a957a7a6e5d",
+      "size": 13790,
       "required": true,
       "critical": false
     },
@@ -46225,85 +46225,85 @@
     },
     {
       "path": "Data/Player/lower_02_m.OZJ",
-      "sha256": "48ee7fe28bf3c298101ca6297dab3932633d1910c5c98460111146e6c5daa883",
-      "size": 35504,
+      "sha256": "33cf355b35d6e1c18b2803903fb59587c05378ffb6b2d129b716a6a4618fe963",
+      "size": 18222,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_03.OZJ",
-      "sha256": "36c15debbbdce89aceb1beb7325268375cb77b80b6cd0d92427dd37839c88064",
-      "size": 36819,
+      "sha256": "cd3f71c23bc7cedeea4700b9dc5cd517df61470b800f70d1c18219cb4735da79",
+      "size": 18547,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_03_m.OZJ",
-      "sha256": "e2c3561666868e97525b1de9a39bfa67e906a5c3799f39a50e234070b5e54206",
-      "size": 39836,
+      "sha256": "f6ade6c4b407595a7ef7c1d68d12449a49ff4edcddbbf3d90d84a5a52755e48b",
+      "size": 21434,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_03b.ozt",
-      "sha256": "355c6a9c28a9dc1b8900bbba0a0c67d343a7f45790a019929c51e68840cdb1e3",
+      "sha256": "7644be1a2612dadf5082f9aba7987db7f18138da9df8ad4c347e4e64fa2d889b",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_03b_m.OZT",
-      "sha256": "0169a94dbc1e900656b4aa821ab9ca23d50d0fac5d18c5c36bc5eb3cd4cbb016",
+      "sha256": "405a0cb77f6413bac4a238700007d015b05df0adcb360c9e6d704ba545676763",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_04.OZJ",
-      "sha256": "52be689440080bbc02944b6223be4f453af538f85fcbe4c62373507196433faf",
-      "size": 10560,
+      "sha256": "4e289804b9e380d4b0a8f61d4a11639a4f676e8aaf74111470401e2e587240f8",
+      "size": 3867,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_04_m.OZJ",
-      "sha256": "ccc2977602f837b69bf74723cab300b233ead35bd825b05f0766847dea07c64c",
-      "size": 35899,
+      "sha256": "792b4ea384f1fbe34677a4c55753578c806a702f734af14548cf971f626b85ad",
+      "size": 17726,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_04b.ozt",
-      "sha256": "144014f261256ce1c4977a849d5d25471999a004c12c14d26079fa1e0c3efeee",
+      "sha256": "27ad3a283a8505205cda057efc940d5733b6fa81d560e58c3ddf80610a5b78c9",
       "size": 4144,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_04b_m.OZT",
-      "sha256": "53da6df85d6761f063b6e4c97e323461c7516cde875e551578ab957e60e80753",
+      "sha256": "2be7a66d4bd9b45d7982bfbc329a389b5f89ce5b916b755bc2ea60831eaaa6a1",
       "size": 4144,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_04c.OZT",
-      "sha256": "7b2f3d121e1b8b70917665dfe553a07d5fd23c57463fb1c023809c6cc46c042b",
+      "sha256": "38d08b68b2d19e9038f1ae544d54dcf96ca16f0a7f42d221a021b77d2605fe0f",
       "size": 4144,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_06.OZJ",
-      "sha256": "096684da75233ece798120a238ef8afc9e4838a6fde1c97c43ab1a67b2067787",
-      "size": 29993,
+      "sha256": "13ad1aefa78bb65e2f04203d6675d0dc88b84ce136c3665e340c0538625b7e35",
+      "size": 14397,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_07.OZJ",
-      "sha256": "9c301ccc47f9be6b6ce83d1a12275b68307181f65f698732cb63c0ddcd254816",
-      "size": 28413,
+      "sha256": "3ec7ce99e43f760df5f852a946cba68cf63617d379378469d6a856220f2c6ff1",
+      "size": 13828,
       "required": true,
       "critical": false
     },
@@ -46316,8 +46316,8 @@
     },
     {
       "path": "Data/Player/lower_07_m.OZJ",
-      "sha256": "6e095f5c32d250723cabad1f4a2d5b42e6b67ae7692b70077b49b6bfd8af9ee1",
-      "size": 21839,
+      "sha256": "bfa24b4ad88c0756cc905ae6c6148333f87e98f5411eeb525cbb4b211805f2ea",
+      "size": 9639,
       "required": true,
       "critical": false
     },
@@ -46330,175 +46330,175 @@
     },
     {
       "path": "Data/Player/lower_08_m.OZJ",
-      "sha256": "91a874aa741e3d42c35e68ab101c027317db868faccc34f9d1cae1af5a118887",
-      "size": 33535,
+      "sha256": "5300790b349b9137cc114114e299e8eee7cac1a1f4fd0ae3e4f541b7bdc325bf",
+      "size": 15379,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_09.OZJ",
-      "sha256": "a1a9cc8b7d4ffca558ec619b21c76d8f8dd197c462818d0b16e3b4ffbc4ab464",
-      "size": 25463,
+      "sha256": "07d3c3c8b2830025014c7d56a6b580b566fec2fa025af50f023593f0ac4e258c",
+      "size": 11769,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_09_m.OZJ",
-      "sha256": "9b75e9413bb17f9e04fbad9c87de6a4f34ca46e70574f61dd0a4a918d3d274ee",
-      "size": 35679,
+      "sha256": "06b3ef030c79e4b0f288f2201584b951e084f5056c82d9afe4540d1da2304b9e",
+      "size": 18485,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_09b.ozt",
-      "sha256": "2353b54dde99e86e2a74f9f579285e9917f875d1a5a5fc650d73f6d202ecde43",
+      "sha256": "24ba07efc88502c2e645f295170c5fe3efada13ebdd3bdeace8766280c226e4d",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_09c.OZT",
-      "sha256": "60a9468775adf3a81bd5d37fee82e70a6d1b0f10e5dabd5d3c1ed70e3e06cb3c",
+      "sha256": "0dcfe03fedc0d3c60d6816d764cb3cfc76e82965c1de96260f75c39b55eaf619",
       "size": 4144,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_10_m.OZJ",
-      "sha256": "390090d2cf0bf5cfe4d28c0e140a0c3436d5c357427fc1b19a6e6e275f261831",
-      "size": 28863,
+      "sha256": "e8ce0843a773ef273c063cd848f3069ef6d31beaf789983ca862b0e21b6fc971",
+      "size": 13579,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_10b.ozt",
-      "sha256": "8637f2ef9da69727163acd95a9fc6059d66079696e8593d17da8b1fd4547acb5",
+      "sha256": "47d92dd042b8b7ced46c9353bb27d78515d59f248458e62396c965c62ece6b77",
       "size": 4144,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_10c.OZJ",
-      "sha256": "e1f6d8afec3145bb0f8844b8c63854c1273cdc055c70e644ab32ee8e2bdee1b3",
-      "size": 38677,
+      "sha256": "06914e862ee858af1480f6d85ea09b9e83ea36ae51afd6bcf93c28e29219ea50",
+      "size": 19890,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_11.OZJ",
-      "sha256": "a3ca10a1696e587a5b555c37dc7712397a47f3506339d04d0e135d7889463cbe",
-      "size": 34847,
+      "sha256": "bdc34355463736aee38630407fc444ad0d744259f904fff97efe4c7a2c1cd807",
+      "size": 16494,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_13m.OZJ",
-      "sha256": "211888104a047d3e3416f1e3a8fc5ef422128b2528bdf09c6c8b6f60d9bce01d",
-      "size": 20547,
+      "sha256": "bf02214e675e552d5e43188e13871d24bd11d5acec0f895f9cff3afe8692d472",
+      "size": 8824,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_13m.OZT",
-      "sha256": "921abb5332c30a03a5570946a9c93f1dd90c110a8b3e0d652b015b387ab11a5a",
+      "sha256": "cd40199a2d545fd2050ae7e51f7b56606906177e56857f461a43b329d80ddb53",
       "size": 8240,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_14.OZT",
-      "sha256": "0f89eabf811e3ea4f8de5d1169d543711da318485b4f925dbe3371d32eaf18db",
+      "sha256": "69db7be3131feebf4d8dc7528d7d9d1c283030b9b7c42ccc8169a03df02166cd",
       "size": 32816,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_14m.OZJ",
-      "sha256": "c2436e54711e951e804a3cc2b32098f1b034459e83933667259fb0ba459db8f3",
-      "size": 16966,
+      "sha256": "dc38a9307e4134f300f8840e096b044488ceb2b66716ee8e60d0471bc17d7f71",
+      "size": 8334,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_14m.OZT",
-      "sha256": "1ab799c055cb75aaa978ef4aab33b70b022ea4522cc7fd90f2031a3392302719",
+      "sha256": "d9ce4d4b303e8ac8db84801c087d8db9337c4c0340f163ac445a9c0adcd7dd3a",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_15.OZT",
-      "sha256": "18a8d93c7c41cbe9957b428b7af0ebfe75847f3c37ee619b21fc2ca4b364bbfa",
+      "sha256": "355e5ed02cb1d16e7379aafb64e4ebbc4bd02dc8badabada3a478a50e17010e5",
       "size": 32816,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_15m.OZJ",
-      "sha256": "a8226ec17e7d6797b98ea6b36c38e64cda4e9439c60c477108233ca85bed8efd",
-      "size": 26187,
+      "sha256": "fdfc0c2691c1d540d251060d8dc1d4f0f32b7324d3b9b300c71ca7b07b21fefa",
+      "size": 12199,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_17.OZJ",
-      "sha256": "08ce0f3fa184033a7427036ddec98f18192a1ccdcdbf22d72d59d9a51c02a51a",
-      "size": 19706,
+      "sha256": "aaeb44426a000f88011a503434f76aec653386eb709c85d52ca67ffa115737ec",
+      "size": 8604,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_18.OZJ",
-      "sha256": "cf6c3415ef60e5f33a0a1dc9683c5759e7e3509c3be738cf9539f175c996cd9e",
-      "size": 10998,
+      "sha256": "a3d4610ea6cffdbd6bbe06394904074fb5b77067c15fe4cf847711cb1e77569c",
+      "size": 5202,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_a06.ozt",
-      "sha256": "1f0f57c019069371291e1c2646e70a1498acbf6c2f71d6957091adf645729a45",
+      "sha256": "948393db9c558e95c48619dba6c3c8154a133d343ff1c8b9a7a44311b1b6c51d",
       "size": 4144,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_bd.OZJ",
-      "sha256": "3eaee6d8a89dac707823efd7160c1cf359ed4df1c7e0fc1c84f19b39ce5377f6",
-      "size": 23281,
+      "sha256": "1bd3a1d119fcc042488848ba9cb5f70a4041746b5f1d623d8b820db8547a9f23",
+      "size": 10377,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_bd.OZT",
-      "sha256": "a5ac5ab9b86ab23e75d5da8dd16d9ccea58a3f8856a0131a60472fc868153a15",
+      "sha256": "d3e15412d6acec25d9b80113a2dca2113ba2529ecb34ba8f284e21be080c2db8",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_bld.OZJ",
-      "sha256": "a68b9e03edb9c7ec1740093d3dabcb96a9525beb7027c896f26b8be36f584093",
-      "size": 21118,
+      "sha256": "fbe6151e35bf4a43987353d7cc903df8c6a86da1326d97c2c4472a68f0826622",
+      "size": 11116,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_bld.OZT",
-      "sha256": "6cd78af002aa5aac9e4a214fd64bd1853f1647e00bf860f0023636fd9f53bad2",
+      "sha256": "d64281d1363faf6bda882c3f7201092147e79c9b3ce3bc6d23a3f7ff69b9df02",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_E1.OZJ",
-      "sha256": "55bbf2130ac0c01d477ac5651c960007b0332ee18b9918b198422088067a913d",
-      "size": 27924,
+      "sha256": "1ec12b399becfda3f4f1aad66a019f4d1739f32f43efba71ec7153b233e56036",
+      "size": 15050,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower_E1.OZT",
-      "sha256": "c534e7fe1a6fb2dbe68ba38bf693d5d714644c4c0119fc5b1f44f1d6d7472f3f",
+      "sha256": "7141979fa6b4f43cbd9cb5b27739d6ab3af6735a647a16bcd32fe95284e3c703",
       "size": 65584,
       "required": true,
       "critical": false
@@ -46512,14 +46512,14 @@
     },
     {
       "path": "Data/Player/lower_s.ozj",
-      "sha256": "f5ad2bcec2bbca153972c82f476a48e97ca69034d2d21d1b658ec2af14feb8a6",
-      "size": 9154,
+      "sha256": "dc22a328352fe0fbd7dee40376c52a205bd68f58eee23306e0be30dbcb621612",
+      "size": 10696,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/lower2_15m.OZT",
-      "sha256": "95eb05ed3e31adc99411c2ad340369fbe8f32f423f30949f187298bf539d26bf",
+      "sha256": "5a39904065e101dc7eae99cd36664e43d052126462c0a6af1e944e2a738b345f",
       "size": 16432,
       "required": true,
       "critical": false
@@ -46582,28 +46582,28 @@
     },
     {
       "path": "Data/Player/mg_arm.OZT",
-      "sha256": "17e383c0ce587a68044220d88a4521786078c36d18f7a547c2dc46e020716430",
+      "sha256": "fa792315dcb5241b6ce06259bcd94f8b879305196530cf8306dded51b5d7a356",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/mg_boots.OZT",
-      "sha256": "845da46258918a8e71ac61d157e021ea32361916e5bee7bc54a86ea4dca195cb",
+      "sha256": "807fdbc872334612174d4db277a90c6329927e39e7c08bae4d77a73c6a9072eb",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/mg_jacket.OZT",
-      "sha256": "ce0bfd31cf01f651f5523a840c6f763c04bb5573c0ab964d2a3fd5c3658bacea",
+      "sha256": "00e16e714dea254760467d6991677e484baa2bf59bbe33e61cb237eccde449f8",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/mg_under.OZT",
-      "sha256": "3ee6cb63afbc28995a1be93067db42089137cf359afde64bd4d278123db80c2d",
+      "sha256": "847acf3ee2ce03a49cfe6d8b459200a89ef48b0b5abfe654d4a9ab857dc35ad7",
       "size": 32816,
       "required": true,
       "critical": false
@@ -47051,28 +47051,28 @@
     },
     {
       "path": "Data/Player/pants.OZJ",
-      "sha256": "ede5c1aa8d91a5c868572770d3c4cb2e3a76eaec26691e6c842217d492eb81e8",
-      "size": 34445,
+      "sha256": "3e8c58762df0e71b69979f7893dd6e592590e7f3f71982e86f260ecfa5cb7432",
+      "size": 12177,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/pants02.OZT",
-      "sha256": "309f5b0228bf2902e869ef7e9661714284e6248b2ef7249afdbb710218ae0eae",
+      "sha256": "fff3f1a86bbe8e8a72187f6bbd14b29653d71925eba9b64d0593c9264c7777b6",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/pants22.OZJ",
-      "sha256": "ede5c1aa8d91a5c868572770d3c4cb2e3a76eaec26691e6c842217d492eb81e8",
-      "size": 34445,
+      "sha256": "3e8c58762df0e71b69979f7893dd6e592590e7f3f71982e86f260ecfa5cb7432",
+      "size": 12177,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/pants22.OZT",
-      "sha256": "309f5b0228bf2902e869ef7e9661714284e6248b2ef7249afdbb710218ae0eae",
+      "sha256": "fff3f1a86bbe8e8a72187f6bbd14b29653d71925eba9b64d0593c9264c7777b6",
       "size": 16432,
       "required": true,
       "critical": false
@@ -47100,15 +47100,15 @@
     },
     {
       "path": "Data/Player/rhchupper.ozj",
-      "sha256": "25c94f63facde4444442409cf8e613f82fa29b78b52b7ff5f7c2b8050d9b13d3",
-      "size": 9527,
+      "sha256": "f55b6d6aeb6a23915dc4f3daf7ac5409bb5d765aecc81f04a7c621436c913540",
+      "size": 10612,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/richboots.ozj",
-      "sha256": "10dcd47f0d938f5681b35acbe035095ed9d41df5ff502e1bbe9139bc9329823a",
-      "size": 3164,
+      "sha256": "d10f708baea6a7dcc95ff5632b4f3974e87bc2fa9c51c517675b22df03f0d27b",
+      "size": 3463,
       "required": true,
       "critical": false
     },
@@ -47121,8 +47121,8 @@
     },
     {
       "path": "Data/Player/richface.ozj",
-      "sha256": "87c7dde47b2fa9d94def7871b32505360683335624c7def78fd75468ca021d2a",
-      "size": 14510,
+      "sha256": "396a538cc3b2012a6e7ff442a70cd5a8dad84c6e7c03c0153e5528999185fa40",
+      "size": 1357,
       "required": true,
       "critical": false
     },
@@ -47135,42 +47135,42 @@
     },
     {
       "path": "Data/Player/richgloves.ozj",
-      "sha256": "0048f9c9c8ec07d55fa9bf9e413cb4d7d462c76130c21bf4ddf66fab49cbc7af",
-      "size": 2584,
+      "sha256": "c84baa376276871004f0b5e761e373571a62f565897d4e2463ba12a88b31fdf4",
+      "size": 2883,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/richhelmet.ozj",
-      "sha256": "130ddbc7e4d5119a5f27f3239d6bd7b004406f20b5c51b5baf2f6781fb8d2e59",
-      "size": 17456,
+      "sha256": "bfab2002493d4d220a43cd1a02d9ae36fc55ef870908caab786001902e88b4f6",
+      "size": 4016,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/richlower.ozj",
-      "sha256": "ad0295a8e2ffb640d9ead41a6573d187656b9ccd0b79202c92a634fa06fc2c57",
-      "size": 10586,
+      "sha256": "e57304cf27554d5dedf6c5532869beaf2b79348a0c6f75002c7054edd80f7780",
+      "size": 11877,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Robe01.OZJ",
-      "sha256": "e4c478e5f6e923df8151d57eb855e454a12e552dcaae980e57029330aeffd524",
-      "size": 12069,
+      "sha256": "48d9b23cd923d8064bb67d0b89d24f313546c80edc70f57c67190be56cd51aa1",
+      "size": 4828,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Robe02.OZJ",
-      "sha256": "90ee7fd56082b8df11bcad64c2bb23e7f7acf47be2752714f8d48acc24054f77",
-      "size": 7245,
+      "sha256": "dd1faae3cf4f6fe13809ae4dde05421d76a3c65f308a735144946e9ba6a5c614",
+      "size": 1981,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Robe03.OZT",
-      "sha256": "36c6c319cf6d4c8c7866d1cdc136441aa1d651294e84eecffc90a203386936b1",
+      "sha256": "eb81e6b38f41df36548c528f19c65bb796ae1bddc2faf19a3512b28f86d7cbed",
       "size": 65584,
       "required": true,
       "critical": false
@@ -47191,71 +47191,71 @@
     },
     {
       "path": "Data/Player/skin_archer_01.OZJ",
-      "sha256": "f47e28467fe311330febde9dceb619fac4c009ad8cecb24fb2ece9ef3c70c003",
-      "size": 72632,
+      "sha256": "bf365a10c7a3f1450a06016307af3ff5b91139fd8d19f3ef01ca8e92e4fd34cc",
+      "size": 41487,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/skin_barbarian_01.OZJ",
-      "sha256": "e00985da32d82e4212145fb7f697ca64cd3fe7866fa5e2f0e6ea89fd1cc37c43",
-      "size": 58290,
+      "sha256": "a81aab81d58d2fedbbb139bee5504faac6be9f2fed1174a542ca019e7aebdb3b",
+      "size": 32384,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/skin_E1.OZJ",
-      "sha256": "82b2203742342f1da8c56326ed18d2101d6af3187f565bc7421b1c3937761138",
-      "size": 4526,
+      "sha256": "4cfdf10e3dc3fe299c7b2c81841c8dbaf4d976c95217d96e8d4e81b427407cdd",
+      "size": 1987,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/skin_ff.OZJ",
-      "sha256": "177e5690ce4977d4ecf1b7641f6f2034eeb16f7e9d8c7695f2782b6b372cebdc",
-      "size": 11834,
+      "sha256": "8519346e777be72aa816895f8ce084f17ce06c1585a59632086efa2cd1e3200f",
+      "size": 2167,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/skin_special_01.OZJ",
-      "sha256": "f0755ef14168318b8b47015b7cc1f7dd47dd7b3ef270cb3dcc0c35927d504467",
-      "size": 74179,
+      "sha256": "4e9296a81f5978832e49ddeba695feb8bdb4dd06edf0722a842fe2787d31c8f5",
+      "size": 40456,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/skin_warrior_01.OZJ",
-      "sha256": "5ff2f191bbbb82e8d9457e586453d1fd7c7b0b011a5706195b199e025fb9b7c9",
-      "size": 70021,
+      "sha256": "01d6cdfc1a140860ec92fc2c8364ecac50313a4f6e2a8eb0140ead8945e38e76",
+      "size": 39342,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/skin_wizard_01.OZJ",
-      "sha256": "5a0705fbf5f6a212ff735902cae471fef268baa74af581f25df712fa7a158eb3",
-      "size": 68852,
+      "sha256": "57f15dac033d584dc5e8f27c6411dc1ea93707f6df28f3c1b164ea66807ea2f0",
+      "size": 37696,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Skinclass106.OZJ",
-      "sha256": "3144eee13eb54aae5f408c371726d198d91b530a66e694f9bb1b0acf487ad367",
-      "size": 104439,
+      "sha256": "f21271dcfb5d62499fc81e6893e22d9df37b48a8cfcff22305b871b6c974a467",
+      "size": 47749,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass106_boot.OZJ",
-      "sha256": "111d82036e2084a8e0eeb67c40881ebd1a2ecbd8e06914f4affb97a565b0ec0e",
-      "size": 9373,
+      "sha256": "d6739bebbae9b9ecf80aec6f1c4ef8d37ed1f6c5a3bb443e819f48dd8ee36eb2",
+      "size": 10854,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass106_glove.OZJ",
-      "sha256": "a6827c309e217197580ee8d56225948a8ea4410f99744f02e67d0834be3199c9",
-      "size": 9669,
+      "sha256": "9ca442d381867a72f457f8ca25bd82b6e2210aed867a555d479bfeb9303cae30",
+      "size": 11027,
       "required": true,
       "critical": false
     },
@@ -47268,29 +47268,29 @@
     },
     {
       "path": "Data/Player/SkinClass106_headhelmet.OZJ",
-      "sha256": "4629709e0c4223a17e22b9006988e1ff1b59365852d9aea85d3cd8951f951b55",
-      "size": 11650,
+      "sha256": "f53993f15088c159aa6b89e6b82a9c600b84e5558812e8dd80d41056705562e8",
+      "size": 1639,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass106_lower.OZJ",
-      "sha256": "5a28468eaa3b833afb8a0b3f841247a099c6cb5a1e1def30f21c5bc6bfd7316b",
-      "size": 35187,
+      "sha256": "5dcf3fec9163f62003b5a6c20e776edd38fb2f14967a62954a7bc8e94682d8ce",
+      "size": 12183,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass106_upper.OZJ",
-      "sha256": "f1aa92193d365f59da5df5b631aef2c7877e750aa9b1f0fdd2eb5db5ac1bc5d0",
-      "size": 41075,
+      "sha256": "dcad5f7bb26982e2280eaee7254823e0dce7b262ec2efb2342760909b2fa5469",
+      "size": 15167,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass106_wand.OZJ",
-      "sha256": "ce9aa866481b27e3586b776c665af35cb99a23374e50553d78009c6127c17bcd",
-      "size": 13363,
+      "sha256": "943ba5cad6d4c34096e04b85fad047eda18552fef320866eb12308d617c59d02",
+      "size": 2419,
       "required": true,
       "critical": false
     },
@@ -47317,8 +47317,8 @@
     },
     {
       "path": "Data/Player/Skinclass107.OZJ",
-      "sha256": "4d2616a83c5dbad5a41cf0ed318368bd88f1c065289637f97378c81caf0496bf",
-      "size": 90999,
+      "sha256": "9f2f3466f072d3dfc4054bf838bfc55115306672dee3835e48d6768a3f578e75",
+      "size": 41520,
       "required": true,
       "critical": false
     },
@@ -47331,43 +47331,43 @@
     },
     {
       "path": "Data/Player/Skinclass206_boot.OZJ",
-      "sha256": "8a420c718518088ab548d76551c45356e81936c77d37b308f39f3fab64b16523",
-      "size": 33084,
+      "sha256": "e4a7cf33db91fe3ea30900c4f03727f8b740816991ffa149deab667115579c29",
+      "size": 11480,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Skinclass206_glove.OZJ",
-      "sha256": "6cc2e477f61a1ad8f6d93b6f8e7733d0e3e1ca207d9ad3583d5916d07705df6c",
-      "size": 17656,
+      "sha256": "9344bb47a89a052ec6e293d2ce9a59a4f9aa47aec1e39d45777190016c3834a0",
+      "size": 4307,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Skinclass206_headhelmet.OZJ",
-      "sha256": "7c6d5b5e837e7df218bae887f8b614acc75fb985f0128a8d9e4765af05a20512",
-      "size": 11756,
+      "sha256": "8cadbf3acda095455215d47417887daaec470c334e4661c119245a22e1aac5cc",
+      "size": 1724,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Skinclass206_lower.OZJ",
-      "sha256": "75f06aa6120f0b680c6ff9ea6a47a2c013fffe0bc8fa361c96165605f6348c98",
-      "size": 40134,
+      "sha256": "db6e6975c4da1c5917bd8ee6f96badc6e0aac39b597d8b33c1da37c041251acc",
+      "size": 14235,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Skinclass206_lowertail.OZT",
-      "sha256": "ed9ba5d06567e9b171c9219ef8c6e6a56f5928b317d5756129cf19d6bbb4b8c3",
+      "sha256": "8a3606ab4415beaf4387379d196fd976443da49223ae8b4e39d8a45edf137858",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/Skinclass206_upper.OZJ",
-      "sha256": "931a6fc62fb318815ba2dd0cb2e45d9fac9d35823ac8060892677b66c8fa6811",
-      "size": 45843,
+      "sha256": "6f21ef96273528ce8dd9b1587bf17116fa8bb4afba34062b30b30c54c7517695",
+      "size": 16946,
       "required": true,
       "critical": false
     },
@@ -47380,50 +47380,50 @@
     },
     {
       "path": "Data/Player/SkinClass301.OZJ",
-      "sha256": "caad70b9b75ae9edd541f3a3c0cd3f959321a7d12cd1ec48d5741c3fa68f613c",
-      "size": 101468,
+      "sha256": "ceb2ac958707e3584873d059250326d6fa7bde118a42e718113d7191c6b52b80",
+      "size": 46247,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass302.OZJ",
-      "sha256": "f8bc70ee53f37f565c0b7853315bb5cff1f63dc682993267567e992b49d0e412",
-      "size": 93998,
+      "sha256": "f1a56d3ed32420d1dc7af4133db487c4a872bc1189bbe71a4790312fb6d77bab",
+      "size": 42783,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass303.OZJ",
-      "sha256": "a85ee13d744713dd3c65c7e1da09d430128ef1b0b8553747ba8da18c6f91c70d",
-      "size": 112347,
+      "sha256": "9ffd80ee0ae9e15710a93eea69ec1ea639f6b425ecc5c4fd61b260ca7381ccdd",
+      "size": 52259,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass304.OZJ",
-      "sha256": "3b4bf23598ded06d60d846ec49c949c6b9bcd09c714dee576bb5542bb18f80a4",
-      "size": 96227,
+      "sha256": "e1272aa3e1328aaffd1735cbf41efb29e29a4088bd0cfbb90b4a481b3ff4a129",
+      "size": 42523,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass305.OZJ",
-      "sha256": "9e127f53957e299600bb6b119425b238555c26502263397960013e7196491b0d",
-      "size": 34790,
+      "sha256": "fd4293a3f2a361528f43c799c2cc5d3772521a9af928162592995f45b107b868",
+      "size": 38298,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass306_boot.OZJ",
-      "sha256": "445c9de7cb2d08897fb0c8b102316dd1bda698b93cf7005309f2af3936586081",
-      "size": 41139,
+      "sha256": "4e10a97ff1e70d48abda1c4c4a0060b6f168193d2a3a6a682c2ad12c122b8939",
+      "size": 15048,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass306_glove.OZJ",
-      "sha256": "4145fe8a242a82c6f64a4d7309c745b2b841cd77b641c7c364093b0f0d028c0b",
-      "size": 41622,
+      "sha256": "d8716efc4e0f1bad366f2fb62cefed0c7804f2851c689df2e098ea48e5113e25",
+      "size": 14879,
       "required": true,
       "critical": false
     },
@@ -47436,22 +47436,22 @@
     },
     {
       "path": "Data/Player/SkinClass306_lower.OZJ",
-      "sha256": "01b1f77f8ce91daa1270dd06a5c263f1c3d0e5b4d2539b52f563fc295becf6b8",
-      "size": 42401,
+      "sha256": "06e2c9aeefe77a1559bb589149968747a60637925490c504390af23e5a39b857",
+      "size": 15249,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass306_lowertail.OZT",
-      "sha256": "9f735af3882413891645c30c098382f5d740e483b0fa9ef4b6d1cd4257c96733",
+      "sha256": "b7ce0007db48f63eefa651fecb436fb7b3ebc607cc218dd19da9842022ef35ee",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass306_upper.OZJ",
-      "sha256": "15ccf2f6077f6c72fadd6d23ed69c25ae62ace1e95205f6e1072c32f985cbb5c",
-      "size": 41127,
+      "sha256": "e9f7249753ca8e101032a8243c27055a36231c421004efdd53cbe1d43e63bf88",
+      "size": 14930,
       "required": true,
       "critical": false
     },
@@ -47478,36 +47478,36 @@
     },
     {
       "path": "Data/Player/SkinClass406_boot.OZJ",
-      "sha256": "4e4d5dc6bddae1b7369afbf536176f73f4c0a439e77000b740e017270e64dbb1",
-      "size": 30666,
+      "sha256": "15445db4e38df459275b3ec1bf348dde796fdbaf6b40a40e483b5969b56ca6ba",
+      "size": 10158,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass406_glove.OZJ",
-      "sha256": "b18c035b52cdde296ae556d75184b9b02f9f85c4e52b36aa409b985fdd2612d4",
-      "size": 38717,
+      "sha256": "24efe4da84ab5c214a77d8617910bd052f36840a246ca94634ffb5dc79c2f9ef",
+      "size": 13813,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass406_headhelmet.OZJ",
-      "sha256": "d7c866ae847ce8cc8e30ad396a6c4947ddd665d0cd240960ef5502fd07cfd0e6",
-      "size": 12062,
+      "sha256": "575487652cfc79bb8a42f4d309dfbfed488623b34b9d2c41931333b3ada90b50",
+      "size": 1823,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass406_lower.OZJ",
-      "sha256": "d55c2d38182c7788b91d1893fcc1b2d3c28b6f7d44a5e22c31a6bddf2acb4bca",
-      "size": 43982,
+      "sha256": "12aae5a10faa9587c5f8143c57c9dd984bb0203458ef62c083330749a4597dc8",
+      "size": 16394,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass406_upper.OZJ",
-      "sha256": "8404d485195553348eb705cb6c4b5cfa65d2111ca03fe3219b6640f24f0a7c14",
-      "size": 12441,
+      "sha256": "76cc5127fac972b3234fb8bc2418e25ac06dd068f6bbc600dff376f790081e90",
+      "size": 14620,
       "required": true,
       "critical": false
     },
@@ -47527,50 +47527,50 @@
     },
     {
       "path": "Data/Player/SkinClass506_boot.OZJ",
-      "sha256": "ca9c2b5500362d55b609407af6a204d5314b44dfb3ee55c06a0b305ecab76cd7",
-      "size": 18927,
+      "sha256": "b55750374e66fa78cd69c2909d28735874708356d8f2344171b5454bfa023556",
+      "size": 4881,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass506_glove.OZJ",
-      "sha256": "9acd41482b3eece66c06d38124935df72c10d516b37cbde4cc2d4bd36b356827",
-      "size": 19270,
+      "sha256": "efc13bd66af16ede3788bef561da54b7755cf3d5e32ab91285c03041d081a6ae",
+      "size": 5017,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass506_headhelmet.OZJ",
-      "sha256": "f08fb73cee4d44e26f7240e29569fcf8eb96e0cd505755b7b431203bec395c35",
-      "size": 12421,
+      "sha256": "8d8538eb227a2a9a6525352f496b739b183a5bc8d532dca09049d888353cd68b",
+      "size": 1903,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass506_lower.OZJ",
-      "sha256": "d859a59e5416328eee10982e9f1c41a4f716ff1d0ef9beca757e76163773b43a",
-      "size": 40785,
+      "sha256": "ee588247d23ba5b89273b00156ba26cdc8092765379bdeb3f1515859b1f57bd1",
+      "size": 14735,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass506_lowertail.OZJ",
-      "sha256": "78df02e553942a560f712546efae2a1720fa19c2518647ea8f22517d04d7ad55",
-      "size": 16276,
+      "sha256": "948c692b395da4a48d167898070b274a613ac5bb910a9e2aafbebbf6cc82570b",
+      "size": 3541,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass506_lowertail01.OZT",
-      "sha256": "94dad418a58203640c6b900c3e01af8483a733779cbfc94dd32444d026facdd1",
+      "sha256": "82879aeee55d7b44a02b23f4136543d53afc1db6db932908a4e410ed1272136d",
       "size": 16432,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass506_upper.OZJ",
-      "sha256": "2cb09ca85aef57ddd8a16f3d74b00ecd3594c5e122e3483e919107d8f9616678",
-      "size": 43885,
+      "sha256": "9dea19bdc7d068651675aa220b20468fa7b7dfa7ab6b8ddb16fc8339ada2fc0e",
+      "size": 16388,
       "required": true,
       "critical": false
     },
@@ -47590,42 +47590,42 @@
     },
     {
       "path": "Data/Player/SkinClass606_boot.OZJ",
-      "sha256": "e8c8bc8549ef83750e536c7ac9f33697868f9a014682fc6d6d84e9ef3ef08c6f",
-      "size": 20137,
+      "sha256": "8f38fd2eefc819128d8658fcba3fe59ebc67841ee8bbf3f171554193f4f6caab",
+      "size": 5049,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass606_glove.OZJ",
-      "sha256": "8a4939087585c87ee1ce484588dc2cf0a8943fbe5208c977fd9f67bc9cf99934",
-      "size": 17063,
+      "sha256": "e09bacec62c8bcb91974a0980c53a5269cb99c86a300377b9855af537609ee94",
+      "size": 3838,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass606_glovecloth.OZT",
-      "sha256": "8ca12194f43fc2984710e37b95030f1a0cea0ca4c16020fcb60e3ed4357f72d3",
+      "sha256": "70873c0ce4cfb5ca1379b0848f22ff14c5c2e88c5b6291d65d1731c69758d02b",
       "size": 32816,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass606_headhelmet.OZJ",
-      "sha256": "ced32f2ba2c0047732a3acd82f0e5af9513af585a5c72bf3cdd186f2c8bfe7ad",
-      "size": 11958,
+      "sha256": "127b87d27ca86773487f2234c4c4eb53ab8483b54a6efc43765709f96bc17aa6",
+      "size": 1672,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass606_lower.OZJ",
-      "sha256": "8a890b5f8e4f8f3abf6f79176db62540a13a2452b4884d4512ed268f92321950",
-      "size": 41745,
+      "sha256": "475f901d6e3e48272fb377094e4f03b233345b374e2d9ec4b0b85a1cd8147baf",
+      "size": 15041,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass606_lowertail.OZT",
-      "sha256": "5754bb9f7cb8f69c2a31d3a8791cdb04d58a5be475570297dae4c39766352feb",
+      "sha256": "9f9a10a9aef100cf168b99d1a76c3a65e15d6c38f2d508fced9db4d0dfe1085a",
       "size": 32816,
       "required": true,
       "critical": false
@@ -47639,8 +47639,8 @@
     },
     {
       "path": "Data/Player/SkinClass606_upper.OZJ",
-      "sha256": "dd5f9cb8da05aa8368d10ed803e6406be48c912fda7b10542fc96cf622386066",
-      "size": 46744,
+      "sha256": "0b303b5db73e00505f8586b42ef62d635b4b86ef34d73a937374cb11ae210b73",
+      "size": 16977,
       "required": true,
       "critical": false
     },
@@ -47660,14 +47660,14 @@
     },
     {
       "path": "Data/Player/SkinClass706_loweritem.OZT",
-      "sha256": "450f89fd867071c8cf9810a6db83216909a739dc54c0b2e5c8692f81cb772839",
+      "sha256": "d9f810b9bda30f654455a3344635a8c98e5ecd6485ce483ad2e49657c5579f91",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/SkinClass706_upperitem.OZT",
-      "sha256": "9a6553a023ea41267b9e2003aaeebf0aaba20258805c6f2cbb736b31ef8740eb",
+      "sha256": "8b30a65ec2bf4c138f754fa8069cd7d80db5ea83e616a0f341a2eb522aeca901",
       "size": 65584,
       "required": true,
       "critical": false
@@ -47681,210 +47681,210 @@
     },
     {
       "path": "Data/Player/upper.OZJ",
-      "sha256": "d233ac561d86d14d594e1cb8e8f3f57c5ce3b0c2475c9a0160fff9425773892c",
-      "size": 44617,
+      "sha256": "f8848c7b9da735bdd25f79665ee0be89c977850b550dca1e048ac1d784d0a079",
+      "size": 16774,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_02_m.OZJ",
-      "sha256": "35a44dab8a01711c4aa1a94510fcc20848ed463674c69ec77c46e5cf7a9aa061",
-      "size": 22407,
+      "sha256": "11dfb31fbb9b66767391a92cd1a39d6e33556a1139a1c00658d477c88dd74684",
+      "size": 10285,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_02b_m.ozt",
-      "sha256": "5664e1695681a7a952b234a940e3589e72978fef3aa33819322dfa397f71ac5d",
+      "sha256": "35ad145a59e972eafa3ffb8c13dd1ee251ae65114b1b006c87363c141d4117f3",
       "size": 4144,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_03.OZJ",
-      "sha256": "529ba90b97b6de5102526be697e6484f6bd06f53b69db1f48af451f79df0da36",
-      "size": 36523,
+      "sha256": "365fa8d87a71d24f2258e6fa242c089ca571e9759f9005bca4e6b023d941432a",
+      "size": 18718,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_03_m.OZJ",
-      "sha256": "86174aa362f063bfb144d079895af9c35ca38a3f3431bcb82cb60998139d7fb0",
-      "size": 43671,
+      "sha256": "5dc4e10d8f722d11da96cf6aae87591234f76a7b7e1fc9a6f4d51ab0587f6ed8",
+      "size": 23745,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_04.OZJ",
-      "sha256": "17b70a7bc974ec417ffcfd99f25987ccd3d3652f04f52edf99c8132a5f8136f1",
-      "size": 22569,
+      "sha256": "20c52f93b6e0ad81ef2d0159a23ba3a4a365b1d0b72f83ec6952091417c7c6b5",
+      "size": 10255,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_04_m.OZJ",
-      "sha256": "9646361a1adb3ecdb20ac71bf4ded8d30cf3319fbc368c951c278b1dd44435ac",
-      "size": 29234,
+      "sha256": "93fb73aec2b6adffc655b390e670aaf9ca3f10ea6150ffd04d1c128c7b389a06",
+      "size": 14358,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_06.OZJ",
-      "sha256": "db773756a50b14e51959a13f1101af38cf6ca0639855e6bef4512294cd007939",
-      "size": 24273,
+      "sha256": "5bc7d1c7c20da70956774f8303ebfbd81e237b95a785c1136f3109d57e4693db",
+      "size": 11809,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_07.OZJ",
-      "sha256": "7c215fd14b05de0daeb3e618c2a2f8c8ca8d796e2214576dec96d0e2a9240641",
-      "size": 31231,
+      "sha256": "8ffb2abaac1bac2dd195d3db50799b7b19a07c3204f9c3268f7acd8468aa0a2d",
+      "size": 15645,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_07_m.OZJ",
-      "sha256": "325f58d24af3c56d98fd12dfd8e5695681cf35aacb434ad50d80e7186c16d219",
-      "size": 19733,
+      "sha256": "11be46f92f3901e1c0f62d8924371562e4e3282e13e3f0aa8090a591ef0cc4ff",
+      "size": 8714,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_07b_m.ozt",
-      "sha256": "e7ca9bbc496989d1d501d8d94ee0463b8ae7f98343c649d4f16cbcdf8bd04531",
+      "sha256": "46e9b6c408b6521fed7e48b8aa1abd0395de7cdf0ef2c3cde29814ea0aa2c921",
       "size": 4144,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_08_m.OZJ",
-      "sha256": "719ae0c5dffe84688efd551ff76d94dbfb6290c37d2414558a445176e696649e",
-      "size": 34499,
+      "sha256": "cb6fdf0b8aa67524cb199d9b218f9fbb4e8c809291b3a403ab115f4c48bb619f",
+      "size": 16531,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_09.OZJ",
-      "sha256": "027fc33f264d2c607b9ae98697221a7f05c51d6bc8017f515be6e488adbd6061",
-      "size": 33047,
+      "sha256": "b78f021586515c349ab202b837dfee60d010e308520f4172abd7623042cd91bb",
+      "size": 16287,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_09_m.OZJ",
-      "sha256": "55e9aa1cc7c11beef3b7135e44082eb693b1648e558eb289d0c2d30c7319778f",
-      "size": 27735,
+      "sha256": "9e14db5e6b1638d4e1456d0a2061985ed0438d3a23579b0eb4fd0b76a0ed40b8",
+      "size": 13843,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_09b_m.ozt",
-      "sha256": "bab67442779c956acba748e012a2b3543aad48678986f1307511558b49151cc9",
+      "sha256": "fcd8f8f679ccb7df486461273b207274f818262886974b0d7822f6af128f04cd",
       "size": 4144,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_09c.OZT",
-      "sha256": "f64c99530975fa2e712448c49c60735894a7fe3cb61a64d73529845ad7811fb6",
+      "sha256": "de8d31faa9f97a402fcca461fe81bb4aceba93075bab2e3101b4dc8756028b77",
       "size": 4144,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_10_m.OZJ",
-      "sha256": "b7d34ceba3f205bd8629de34f7d332b5207bed32af9354e6de442242f8d7aa72",
-      "size": 35134,
+      "sha256": "168ffd719bfdb15de17a1524ea1a7f0fc3ffb700c7dc452105e1b45cd870f5d4",
+      "size": 17437,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_10c.OZJ",
-      "sha256": "779deac1626a1fb549dc55d73d694c2c3ad8e300f7fb3492ed62350772432676",
-      "size": 38013,
+      "sha256": "80c7a7f0e4bd549ba64dea371ff969d5a04ae29b72ec31dadc9d548f9519c291",
+      "size": 19807,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_11.OZJ",
-      "sha256": "e11ff17e8e49005ca58ba582447ded5393de72875e505c75c4fda9080d87159a",
-      "size": 36907,
+      "sha256": "aaa0dd474e59e41c8577b3b109fdca359ea096cbec8dde9027efa83d42dd3e0b",
+      "size": 18537,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_13m.OZJ",
-      "sha256": "04588a3db845f08841ce7e5f95947afb314059f59773fd46ad6fa45f05cd3d30",
-      "size": 31468,
+      "sha256": "46a6c32c91d7275f2d0529b60e67cbe1f65a237a79f1f791f034c9110fb0bb10",
+      "size": 15500,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_14.OZT",
-      "sha256": "58562165b6a1aaa54ac9d7ec24e6631ef3d462f13c31b57478ec73bd92af8dcd",
+      "sha256": "05c88642119183a90a8905f4e2686c2e27cbe8ec0ac66b4c7bf3f01d837048e4",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_14m.OZJ",
-      "sha256": "ba290e4382c63b2ed5d12306bfbba29522aabb486c2815c6b3d8f064c4f52b24",
-      "size": 31796,
+      "sha256": "d30e3c366ddbe2158e5a75240817ec217cdd8a812ad3c669d277d8831f096040",
+      "size": 16576,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_15.OZT",
-      "sha256": "248fc8d5819a59312e1da6a09b678eb84616ea576383983e435a9d58bf86d767",
+      "sha256": "f4069973030e11477abc00508ec02bac0abc0c59752358ed03aeddb096bcf0fc",
       "size": 65584,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_15m.OZJ",
-      "sha256": "3868ce918a15dadc91391bdcd1c55c5f47e4595b92e86873e6417cda84961b68",
-      "size": 28315,
+      "sha256": "46d2c34ea32148355f93a9bbf64a86a9f8ae0986bea35f40888b13f016e5d877",
+      "size": 13815,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_17.OZJ",
-      "sha256": "ad4e8b4ccf803bd427b343da91881930a242ef13ed2a9ae030200b21654ee8f0",
-      "size": 24596,
+      "sha256": "bcfeea4fb0f3c904284e2cea1992d4ed5820ec3b8900c200615adf1fc65af376",
+      "size": 11124,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_18.OZJ",
-      "sha256": "be361ae36ba9922c5a200d95a85b05a3338eb4b617d2f8f44b2ea26618afacd1",
-      "size": 27255,
+      "sha256": "cd1f2eca7627f0ae770a8b802c647c9c64498ec7e5f07e479c5103ad11fded61",
+      "size": 13672,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_bd.OZJ",
-      "sha256": "36792c37ffe64a3a850e6d3658dce114606437fa35d1923cbea56a1b024642a7",
-      "size": 29323,
+      "sha256": "87f4012afa213b646013ae810b43667ae815447a936a5848d0b69c8344cf8acc",
+      "size": 13959,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_bld.OZJ",
-      "sha256": "b990a40e1c187c713dcce08cc7e827417f9028b711a18f29708dbf3880492203",
-      "size": 24881,
+      "sha256": "9a12109a60e7e0a33271098f1a414d57da348be99c14fb4b214bf05ea5724254",
+      "size": 13646,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_E1.OZJ",
-      "sha256": "bc0059cb17341acf5d1c86c4f8dc0cb6fa6b6e179e6c11f5f84c3acc142395c6",
-      "size": 35557,
+      "sha256": "f52fe96e544d3d6dcc62717858fe6892c7a6211087c76fd9212d14b4f7a14e6f",
+      "size": 19332,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper_E1.OZT",
-      "sha256": "c9db2d1a475cf1cdfd97f76abbc022ff7052e9539004e8ccd5132bb1c44a24e4",
+      "sha256": "ff1b5fc8102d961c78239d328f8a2bd919e4279c2e60a3b90ade1ac8c33f07bb",
       "size": 65584,
       "required": true,
       "critical": false
@@ -47898,15 +47898,15 @@
     },
     {
       "path": "Data/Player/upper_s.ozj",
-      "sha256": "62588c8e8bb848ac40222433ea5949648608131910410df52c587ce092043261",
-      "size": 56617,
+      "sha256": "179a7d8ff74d9e70a6b2598f4218825bda731d579d28319609268b223265f37f",
+      "size": 23795,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Player/upper22.OZJ",
-      "sha256": "d233ac561d86d14d594e1cb8e8f3f57c5ce3b0c2475c9a0160fff9425773892c",
-      "size": 44617,
+      "sha256": "f8848c7b9da735bdd25f79665ee0be89c977850b550dca1e048ac1d784d0a079",
+      "size": 16774,
       "required": true,
       "critical": false
     },
