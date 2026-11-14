@@ -1,5 +1,5 @@
 {
-  "version": "1.0.28",
+  "version": "1.0.29",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "0a144cb075ecca4d9b7eb9d2dcb26a8c38f8c41f143441f1488973741a0193c9",
-      "size": 369664,
+      "sha256": "26921cad285fb9baec76fc23dd81519226210ab43fbfcac5af3def8c340616ce",
+      "size": 371712,
       "required": true,
       "critical": true
     },
@@ -62049,6 +62049,20 @@
       "critical": false,
       "sha256": "fc4f5a0aadff11693f94a36fa0cb701936986ce725f58e0681b73f9933b81df4",
       "size": 25451
+    },
+    {
+      "path": "Data/Custom/nix-rain-wind.wav",
+      "required": true,
+      "critical": false,
+      "sha256": "bee65cca4fffa9dc2a2f62b5786ae96fccb3edd8d0a6b8f5b6b3738a9bd63aa1",
+      "size": 1152078
+    },
+    {
+      "path": "Data/Custom/nix-thunder.wav",
+      "required": true,
+      "critical": false,
+      "sha256": "56635a968a76b54045003370b0f48ec936d0630d30deed8e6bf41cdda1264166",
+      "size": 512078
     }
   ],
   "delete": []
