@@ -1,5 +1,5 @@
 {
-  "version": "1.0.32",
+  "version": "1.0.33",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "0d091f93051ac0b67ebbf92d1d97abc59aabe92a34d2a65a9aba77f974ac05de",
-      "size": 379392,
+      "sha256": "b88a2cb9f2a27eda3e541157095e8ba192dcbce5ce45f5239b83b85ec4d02e41",
+      "size": 381952,
       "required": true,
       "critical": true
     },
@@ -60829,15 +60829,15 @@
       "path": "Data/Custom/Ultra/World1/TileGround02.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "cacc2e5493f321c0c8e48cd83590994b4ed017a9521e7f3732ceb67e486626cd",
-      "size": 17538
+      "sha256": "d8b61c995385c15796a9e974bee51f9a5eb3e3f47c0b6c2b36a0c5f610e1432d",
+      "size": 20439
     },
     {
       "path": "Data/Custom/Ultra/World1/TileRock01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "43d4fb1994b6f9a361bb9b6cc5408c122aadbaeb4e323c777baf3599c90ce8c1",
-      "size": 94774
+      "sha256": "7772056793d7d3f5b18a75a27654618ceecbff4348f8fd3d0e22ae28bdcd068c",
+      "size": 109556
     },
     {
       "path": "Data/Custom/Ultra/World1/TileRock02.OZJ",
@@ -60857,8 +60857,8 @@
       "path": "Data/Custom/Ultra/World1/TileWood01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "e9d54b03a332342bf70cf84537b45908dee9b601fcab8c78ac66476f0d95e25f",
-      "size": 27616
+      "sha256": "0da88ea0f5035a3399a18f512009066e747bb8f6df5daf8aafab680209adb10b",
+      "size": 31348
     },
     {
       "path": "Data/Custom/Ultra/World7/TileRock05.OZJ",
@@ -60934,36 +60934,36 @@
       "path": "Data/Custom/Ultra/World2/TileGround01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "5df14a074d80e71c97348d42634abcc11a8abc3bafc8ae1c685d978a43e79b31",
-      "size": 169375
+      "sha256": "bcc906e726360c0187cd743db951fe468a8c304e504083d2b1cdc0f5feef61ce",
+      "size": 196194
     },
     {
       "path": "Data/Custom/Ultra/World2/TileGround02.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "6c75b0002c6500ad5049504da1ad67159fee2661de8209a976e57fd624f0bcc2",
-      "size": 22821
+      "sha256": "c6771db1cae16df306600c7aad149259cbbeaa3998f89056b0419c31d376386b",
+      "size": 26574
     },
     {
       "path": "Data/Custom/Ultra/World2/TileGround03.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "8e22c329e34aef2fdad88c488d5b3bb989dd464f320c03379f53b80a9efa7110",
-      "size": 41413
+      "sha256": "4917a7a071bf919f731783a123c7b8a3443af4e65631792dcdf15665f495d72f",
+      "size": 47663
     },
     {
       "path": "Data/Custom/Ultra/World2/TileRock01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "75789e979bb0ae08fe8ea4f9cf2046ef3f13c8cd9cbb47b0a1d90176f7eb162e",
-      "size": 103674
+      "sha256": "8268de4c4ab7a95b5f6bcb85399dba8a780ba46c46657fcca720480abfed83a4",
+      "size": 121968
     },
     {
       "path": "Data/Custom/Ultra/World2/TileRock02.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "8ffd862e6d4fb926373eab478d1e1c9a3ff6c8cba5cf42ecfc72b913f9c4759e",
-      "size": 36942
+      "sha256": "eb76c4bb438c9ca904467f3407a321237ff6a1114ee05a040606b5337c32b70b",
+      "size": 43433
     },
     {
       "path": "Data/Custom/Ultra/World2/TileWater01.OZJ",
@@ -60976,8 +60976,8 @@
       "path": "Data/Custom/Ultra/World2/TileWood01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "fca80c22f90275a91f2169f5c805a7beadbc1e92516a2bef0435cb48d7ce211e",
-      "size": 40365
+      "sha256": "a0a00226f983082c29ffa0798b57cc786fd1cbf5e434dbcc9d7c996c74aeb8f4",
+      "size": 48055
     },
     {
       "path": "Data/Custom/Ultra/World3/TileGrass01.OZJ",
@@ -60997,71 +60997,71 @@
       "path": "Data/Custom/Ultra/World3/TileGround01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "ec021f68f21851c7ca1bea0f557aa61a9c7aae031752855dd7cd55917028a7e4",
-      "size": 133165
+      "sha256": "ef3554c4fbdca7aa9dcf642ca09b1a13931ab72751b8f3abf9904752c932cbcc",
+      "size": 155143
     },
     {
       "path": "Data/Custom/Ultra/World3/TileGround02.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "ddf81112a95a7d9f93812566f9c5fe3492211787d431ecfdc65ce3677d9fe1af",
-      "size": 23831
+      "sha256": "762e50a7d979687569a3400f2c5ca4bb20bb6ffcbda3b02e4bb260b68995cea0",
+      "size": 27723
     },
     {
       "path": "Data/Custom/Ultra/World3/TileGround03.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "cb7d1eac9a2f6eb393cca18b845ee59664152b2bcef7d26c2fbd458b7f60e660",
-      "size": 33944
+      "sha256": "d75ee6331134396e10c0c58e2530aecba610ecb3fcf299bf36eedc2197dd900d",
+      "size": 39447
     },
     {
       "path": "Data/Custom/Ultra/World3/TileRock01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "8df7dab4f5ff85616494bf1b0d368120dbb9e7d80291e25e2f8e8b85b17b2d86",
-      "size": 63321
+      "sha256": "cd53d581bc74bd25eff95b10b596810ce657eadb693e49e2c6f9fead633a0ed3",
+      "size": 73969
     },
     {
       "path": "Data/Custom/Ultra/World3/TileRock02.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "28f879eff29f02e9856bcb992c9ed660da6125faabfb061106560c12657a4c67",
-      "size": 21502
+      "sha256": "2618f050b4a8b1666b212db93818ccb1681e83060f37d6baa41220e688608f6f",
+      "size": 25346
     },
     {
       "path": "Data/Custom/Ultra/World3/TileRock03.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "d6275f51fd4b0cafffefde26d284cb4e45f64e07a32940c3a54b182f93ea6f7d",
-      "size": 23016
+      "sha256": "619843b53114d08de71953beaf4f91a23905022b1ea89456ae7aee012aabb0c4",
+      "size": 27278
     },
     {
       "path": "Data/Custom/Ultra/World3/TileRock04.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "11c8696d299c76dd907e0451fb3af110cc23326fd799ba79155d33bb7d886435",
-      "size": 21009
+      "sha256": "5528db5db6b48d0f6ca948021bcc9bfef84bcea05d20b9f51d6fda2ea5bf7b18",
+      "size": 24529
     },
     {
       "path": "Data/Custom/Ultra/World3/TileRock05.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "f5dfbc9e392d05e346e2ea0bb4bc2e339fd65bd1c6e175f045ca58759644ab06",
-      "size": 121586
+      "sha256": "d5c3f04d0c2646cff00cd11b8d5db769351e3f8eb901b4d35ea2e211fbcfad09",
+      "size": 139419
     },
     {
       "path": "Data/Custom/Ultra/World3/TileRock06.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "7ba71c778cb72de784713950da039fa6d8e96fcfb8975933a04e5123bfda5c9c",
-      "size": 25188
+      "sha256": "1770264e57e1c04c152b97b11bcdf7050fc48f52900f7d017dcdfe25d21b7839",
+      "size": 29939
     },
     {
       "path": "Data/Custom/Ultra/World3/TileRock07.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "9b0ae3c816a2e29f3c5bc3f5866513cd2b0ededecc1ce54896424f7f37d59c2a",
-      "size": 126470
+      "sha256": "0472b96bec9224b42f04e99a89496563f8af419330c512f702259589a3f1be08",
+      "size": 143782
     },
     {
       "path": "Data/Custom/Ultra/World3/TileWater01.OZJ",
@@ -61074,8 +61074,8 @@
       "path": "Data/Custom/Ultra/World3/TileWood01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "2b76fe979903a7a7431b27f835964f0a92850a46593a1fcfea090115f974604b",
-      "size": 31652
+      "sha256": "ca589e2307b7ebc0b267eb3ff1448cdaca213addb56d02c6fda013012eeda0a0",
+      "size": 35945
     },
     {
       "path": "Data/Custom/Ultra/World31/tilegrass02.ozj",
@@ -61648,43 +61648,43 @@
       "path": "Data/Custom/Ultra/World4/TileGround01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "2cc2f39b6ca2a95c2736aa0b6b4d9850172525afed6897c0b06279f56a40b32c",
-      "size": 34645
+      "sha256": "7ba8efd291dcf73c4d49791b21b7633eb3e5a1f847de34a67fc05e979e1e350b",
+      "size": 40354
     },
     {
       "path": "Data/Custom/Ultra/World4/TileGround03.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "724f4311c60bb37988f2541f497f4506c8e6b3e2f35fa2c31c8fa8d2cbb73891",
-      "size": 34151
+      "sha256": "12d90491890cf2e07a23a1d0b1f5821d9b7ad72883960900abee60b6e6b7ba02",
+      "size": 39042
     },
     {
       "path": "Data/Custom/Ultra/World4/TileRock01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "ac1f43d7b48b1fc6faeafd8a3dd19280fdc4a428702dd807980983c1af6065ac",
-      "size": 37089
+      "sha256": "5d83f7b65dc50ef674daba0b8450f2842f79bdb000d6d5f75d7e361fa1225620",
+      "size": 42541
     },
     {
       "path": "Data/Custom/Ultra/World4/TileRock02.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "dcb4462fe7428b978e54ed80d905fda7a2ef0bbdd84fe20040653e4e30e48cbe",
-      "size": 96141
+      "sha256": "7d4b6c67b4a68d7c07cede532384fa829fe7a5e61bf841e0d87740c0d9313bda",
+      "size": 112655
     },
     {
       "path": "Data/Custom/Ultra/World4/TileRock03.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "38e6ab8387b4aaf87ecb76b26b77994743c6f517c57bcb8f450d6bff54db2444",
-      "size": 149819
+      "sha256": "0e5eff6b46b3874b0afb8dcdea76bb3c7f33109350621118b1803f630c4e12f7",
+      "size": 178685
     },
     {
       "path": "Data/Custom/Ultra/World4/TileRock04.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "5554f483a629101462f83b15e62a54f3c9f657e4a0a196fd387872f2028603e9",
-      "size": 143879
+      "sha256": "a2ca22a5f9c02cff1d646f24c803cb8108a96463756225cd6da4a8ec903f20d2",
+      "size": 178617
     },
     {
       "path": "Data/Custom/Ultra/World4/TileWater01.OZJ",
@@ -61697,8 +61697,8 @@
       "path": "Data/Custom/Ultra/World4/TileWood01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "fca80c22f90275a91f2169f5c805a7beadbc1e92516a2bef0435cb48d7ce211e",
-      "size": 40365
+      "sha256": "a0a00226f983082c29ffa0798b57cc786fd1cbf5e434dbcc9d7c996c74aeb8f4",
+      "size": 48055
     },
     {
       "path": "Data/Custom/Ultra/World5/TileGrass01.OZJ",
@@ -61718,50 +61718,50 @@
       "path": "Data/Custom/Ultra/World5/TileGround01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "14c2d79c5e1fa296e99c9ce94b9257b9de74f48a4a244e3312d882b3ab88de9e",
-      "size": 15920
+      "sha256": "0052ec72726b5ae227cb265344c76fb95a2007bd96955af5058e80fafe088105",
+      "size": 18205
     },
     {
       "path": "Data/Custom/Ultra/World5/TileGround02.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "7ba2ad4ea3f2968cb6423d1c9aa2e5bf6c1a067429470943e6be3f922832d7da",
-      "size": 159998
+      "sha256": "5de0ace19bdd3bfe340fab4d902ae9053b7e4e774e900ed482f3edaba7d77567",
+      "size": 181380
     },
     {
       "path": "Data/Custom/Ultra/World5/TileGround03.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "349326a3a068cfce2003b4b317f0ead08534c7579aff2a5e393f626802511e45",
-      "size": 29694
+      "sha256": "b650fbb5179a238d34041066138cffa2140945fadf2633dc23cc54f44556b2e1",
+      "size": 34622
     },
     {
       "path": "Data/Custom/Ultra/World5/TileRock01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "f9940ea6f147b4d198ea3ed820c61d1b8d37539e9f60f32bb45084167bef314d",
-      "size": 32132
+      "sha256": "c50d8f4b6c6ae94135468ddd65325b78b9a17ce052cb25d2682d40d2609269fc",
+      "size": 37674
     },
     {
       "path": "Data/Custom/Ultra/World5/TileRock02.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "6d3edb92db77f631e01c49d7c78f27bfc31f4bda9d57701f67e46049bf5be593",
-      "size": 101333
+      "sha256": "537a87e21f1203007a5096c31ec9230f589a69cdb895154c325b3044b80e6a40",
+      "size": 119574
     },
     {
       "path": "Data/Custom/Ultra/World5/TileRock03.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "7876d7ca2c11b7cb58aa3ef15105e8f8cc74027d49c61d238b223ae28b4d3742",
-      "size": 95734
+      "sha256": "b9b5c311bacd13e19d8abe90f46b5511dc5e6734abf32de8eaf77a744df5325f",
+      "size": 113183
     },
     {
       "path": "Data/Custom/Ultra/World5/TileRock04.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "d2781cdbf3605bd2262f593110f58876071ea4737acb21684015b52441541196",
-      "size": 124049
+      "sha256": "9d01867027b08bc782834c1fc056bd940791e38fb8205eb8e5ebd0ed8ecf5442",
+      "size": 145128
     },
     {
       "path": "Data/Custom/Ultra/World5/TileWater01.OZJ",
@@ -61774,8 +61774,8 @@
       "path": "Data/Custom/Ultra/World5/TileWood01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "7bce772caa23c49d30524a109e92028b0d7666cef4df7583c4224c1d4b0da412",
-      "size": 41168
+      "sha256": "a450945b8db127a28abcd98f7831e58d9e0eea4655079dab27e896d3cc9fcc79",
+      "size": 48730
     },
     {
       "path": "Data/Custom/Ultra/World7/TileGrass01.OZJ",
@@ -61893,50 +61893,50 @@
       "path": "Data/Custom/Ultra/World8/TileGround01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "88031e7e61c58f4c831b3bdea2ca6012f4afc93acfe79bb13366d8d50739e0fb",
-      "size": 38975
+      "sha256": "6c6b0d873730ddf162d379e5c2b0b4130dc3e44fc175a015af22e4ff06bc919b",
+      "size": 44685
     },
     {
       "path": "Data/Custom/Ultra/World8/TileGround03.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "9445ef7574b818f12ae55bcef01f34227f202db717b4ad1d9a4897c8dd576c85",
-      "size": 42618
+      "sha256": "137dd2ef690bb2cbc5419d0e2caf2814d9390b6d6c8866a11c39c4ec02454e2b",
+      "size": 49403
     },
     {
       "path": "Data/Custom/Ultra/World8/TileRock01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "c275984f6b3c57a5185bef4ab11d4d5575c82e7d237007903ed691061dec611e",
-      "size": 36279
+      "sha256": "2770722495dda536f2b0f30f270681957d8bdf47c9d9b949385e0f966bb79d35",
+      "size": 44616
     },
     {
       "path": "Data/Custom/Ultra/World8/TileRock02.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "6ecc461e753a01cab4375fbd0f1978b36e4c56e774715afa7e0da744a89e4c66",
-      "size": 148906
+      "sha256": "d7aa8de774fd71b731556ab4099acc692dfcb1cdd20c041e8514c67a62292312",
+      "size": 168668
     },
     {
       "path": "Data/Custom/Ultra/World8/TileRock03.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "ac118e008c0e42c78ccfe26ff6a7cd0c2e432752cc0cf5a7bcd9e34a89ef512f",
-      "size": 97713
+      "sha256": "a5d477c4e449b4ebcd2a4de59601efe4d75f7af8ee075af8904b3ae0866dfa0a",
+      "size": 113056
     },
     {
       "path": "Data/Custom/Ultra/World8/TileRock04.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "ef8fda947a4303d3e0c3471d97abfb60a3eaa8d5a95ce9f57e06866de040e9f6",
-      "size": 126147
+      "sha256": "44b43b70c310484521c731ebbe810063355aaf96fa5ae8bd30bbae74fb2affc5",
+      "size": 145002
     },
     {
       "path": "Data/Custom/Ultra/World8/TileWood01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "babe526eb1de8e220b6fe2840a6aef59e969228f90ba63558707db3b3d1d5752",
-      "size": 48797
+      "sha256": "b66ea1d54ce08f90dce3dd5f2204de56a91afede5169ddcaf217e1216c8011b7",
+      "size": 56835
     },
     {
       "path": "Data/Custom/Ultra/World9/TileGrass01.OZJ",
@@ -61956,43 +61956,43 @@
       "path": "Data/Custom/Ultra/World9/TileGround02.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "566604cd5a560258d657a85d47e577fb9b796f394260ba0851519e63b548f825",
-      "size": 100372
+      "sha256": "44b3b1227209befcb6a0fc15fafcda3803fdfb6e527dab6eec9194af3c8f9edf",
+      "size": 117125
     },
     {
       "path": "Data/Custom/Ultra/World9/TileGround03.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "6447e81a7c6025001f46b877d2578ab52991b0e10b6e958753354a00c1f93c9c",
-      "size": 38768
+      "sha256": "520ce9e20e261edf687476b0a505669de0d3570cbb6c1cd7e1eb01e1275f3645",
+      "size": 44180
     },
     {
       "path": "Data/Custom/Ultra/World9/TileRock01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "6686efe7874cd18c1f74542059e51d31a95887cf22d86ab901615e1bd72b0167",
-      "size": 156427
+      "sha256": "4f14c9b2d393b9fe9a325791b5c20da92d3d3056c8cf5edfb9dc813abd5748c5",
+      "size": 176604
     },
     {
       "path": "Data/Custom/Ultra/World9/TileRock02.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "918e61c6c1136b166f331ab2e870c2e6e52e0aed03832dfc458a7643f41e0a0f",
-      "size": 109911
+      "sha256": "4114e76240c9f0c6b291f894b4c1fe00893044ae26cb0b81eeb480154601f628",
+      "size": 128055
     },
     {
       "path": "Data/Custom/Ultra/World9/TileRock03.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "6c24102b483e25a68d86e7d284500c84114e2398fe5eb70195aa0d76d8a40b3e",
-      "size": 39347
+      "sha256": "8dc4d6d723b8dcbfa8cf96c91b1be0d322dae571d2531860231a89d8be4df8ca",
+      "size": 44610
     },
     {
       "path": "Data/Custom/Ultra/World9/TileRock04.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "0e171edf240837e4a69fb447dea8d9c8f41b87d96887ff9c7f7a9f5acc9c5204",
-      "size": 170058
+      "sha256": "859ab02ff9c3103b94c2ba4c4f12b31f175890cf17ba8aee05c8e7e25404b2c5",
+      "size": 192753
     },
     {
       "path": "Data/Custom/Ultra/World9/TileWater01.OZJ",
@@ -62005,8 +62005,8 @@
       "path": "Data/Custom/Ultra/World9/TileWood01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "6362bb61264dd3888b367335967ea3bc7d3d4d7a4804e1d42971a11265971b1c",
-      "size": 44509
+      "sha256": "9a420b2cf4f412b9172dd93b6a6eb29131c8e811da69b784629fcf839cfc1635",
+      "size": 50762
     },
     {
       "path": "Data/Monster/HatsanNix.bmd",
