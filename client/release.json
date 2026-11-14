@@ -1,7 +1,7 @@
 {
-  "version": "1.0.26",
+  "version": "1.0.27",
   "manifestUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/manifest.json",
-  "manifestSha256": "26bc45e7a20f99de7b95f2ca30a97abbd35bef3daca5b37a7c702707396ffaf6",
+  "manifestSha256": "65b1938d5689f0f25b76a9e6ac7e756c8c214b236462d6af6a0bdafe9ba7de55",
   "manifestSize": 1924120,
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "fullCheckIntervalHours": 168,
@@ -36,8 +36,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "cf015d19c19cee3edf936634e8febbfa44046d277347b5dfc7e933d7c1b54f6c",
-      "size": 367104,
+      "sha256": "199b2bfb3d84197eb4efa75327513832a88a6d5a538039a0774d00be98cabfcb",
+      "size": 368128,
       "required": true,
       "critical": true
     },
