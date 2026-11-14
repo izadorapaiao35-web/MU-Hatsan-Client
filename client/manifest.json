@@ -1,5 +1,5 @@
 {
-  "version": "1.0.33",
+  "version": "1.0.34",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "b88a2cb9f2a27eda3e541157095e8ba192dcbce5ce45f5239b83b85ec4d02e41",
-      "size": 381952,
+      "sha256": "ed3c31f5646f03fb5a93def92d7bbaf06ae807b67af4848dfcaf2d6bfb1fedc6",
+      "size": 383488,
       "required": true,
       "critical": true
     },
@@ -60808,7 +60808,7 @@
       "path": "Data/Custom/minimapa.bmp",
       "required": true,
       "critical": false,
-      "sha256": "db5b1120175e98ccf694d7ef5c9ad3bfc71f9b011f9584cca17a59a5ecd43d0a",
+      "sha256": "d68f0cbcd6d912731f596b68acb0f7e0e3c68470b516001b837aa13d0889cf40",
       "size": 1572918
     },
     {
