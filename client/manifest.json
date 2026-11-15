@@ -1,5 +1,5 @@
 {
-  "version": "1.0.40",
+  "version": "1.0.41",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "cae17b3500d34f4714303abaf11df11fad3689f6a52edb6d7078648880b478bf",
-      "size": 385536,
+      "sha256": "27ce6b193b4de24b13baf27e3ead8df6d3614a6033bd9a7e42ed04330253dfd7",
+      "size": 386048,
       "required": true,
       "critical": true
     },
@@ -62411,22 +62411,22 @@
       "path": "Data/World53/EncTerrain53.att",
       "required": true,
       "critical": false,
-      "sha256": "bc4de78a363564127be6bc0ab20a6375d81241097a55669a87314973200d8bc4",
+      "sha256": "d0d04ae64cc30b3651dd66dc4ee89b80e48bdb3c2e6cb322a3a04c7936c3ab19",
       "size": 65540
     },
     {
       "path": "Data/World53/EncTerrain53.map",
       "required": true,
       "critical": false,
-      "sha256": "30f1f8803e231d2c579123d369fa1db9a5779e87373806d34bd529a97fdb4dca",
+      "sha256": "4e5b92526458ec8252b124c3a0a58bdb1dd795c877639454ed645626bfc8ca3d",
       "size": 196610
     },
     {
       "path": "Data/World53/EncTerrain53.obj",
       "required": true,
       "critical": false,
-      "sha256": "5e2119b802b732074e246f8329b045151398f517cd3fbf0cc00982739c1187e8",
-      "size": 99004
+      "sha256": "a0466a651e752e80b81784e543f35b369cffe8f9873f83b946a91cfd837fad2f",
+      "size": 101674
     },
     {
       "path": "Data/World53/TerrainHeight.OZB",
@@ -62439,8 +62439,8 @@
       "path": "Data/World53/TerrainLight.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "d0429039e0550632f4117cad13a906fdd0d9de82c72e474e88f049a4e9fed510",
-      "size": 23034
+      "sha256": "42d92dd2a462347cbb845e0a8003a8b8f1da1eeecccbd6490c18ba0fc4e9f26f",
+      "size": 23305
     },
     {
       "path": "Data/World53/TileGrass01.OZJ",
