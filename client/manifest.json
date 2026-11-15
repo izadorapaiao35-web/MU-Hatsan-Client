@@ -1,5 +1,5 @@
 {
-  "version": "1.0.46",
+  "version": "1.0.47",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "da4b0aeebb3ce3f0c3586b83d436a6fc3ec2101b5f79cc6edbc37bb0c56583b7",
-      "size": 399872,
+      "sha256": "fa69f01137459332315f227a44ff56a701344e4a6b1bf6c93b2bdefe667c128d",
+      "size": 400896,
       "required": true,
       "critical": true
     },
@@ -25875,7 +25875,7 @@
       "critical": false
     },
     {
-      "path": "Data/object34/object01_\u00BF\u00F8\u00BA\u00BB.bmd",
+      "path": "Data/object34/object01_¿øº».bmd",
       "sha256": "4526abbfc781d7a53d2494de9e096b9b88e41291f9cd9809993a0a9dc1a284d2",
       "size": 4389,
       "required": true,
@@ -55905,7 +55905,7 @@
       "critical": false
     },
     {
-      "path": "Data/Sound/s\u00C0\u00FC\u00BB\u00E7\u00B9\u00E6\u00BE\u00EE.wav",
+      "path": "Data/Sound/sÀü»ç¹æ¾î.wav",
       "sha256": "b2fc6aae80f27aae88562f1faea221b18d108a10a339df1cfbe9f21fa73e8bdc",
       "size": 192786,
       "required": true,
