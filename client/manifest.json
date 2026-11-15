@@ -1,5 +1,5 @@
 {
-  "version": "1.0.37",
+  "version": "1.0.38",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "706918755581e9af27ab4a4ad157248b86fa7269b8cb932f0e11e1e1e8d276fd",
-      "size": 385024,
+      "sha256": "a0f281008c187a93d9e709ef422eb90f703a42b195e4c39d3a9b13b81f1b1cc2",
+      "size": 385536,
       "required": true,
       "critical": true
     },
@@ -60808,7 +60808,7 @@
       "path": "Data/Custom/minimapa.bmp",
       "required": true,
       "critical": false,
-      "sha256": "746abff5c7ca4559f5f156d31afb6328e5ae71459d60bddd75a605c69ce8616c",
+      "sha256": "95e73347ed46a78bac22a6d0a52693d536f1b4ee0a72b0c1e7dfcaa0a9cade3b",
       "size": 1572918
     },
     {
@@ -62082,8 +62082,8 @@
       "path": "Data/Object53/Realm100.bmd",
       "required": true,
       "critical": false,
-      "sha256": "f3b1d311791bcca0b47fc550f347f2c8eb48d8c21e96fad06d720427b5705e1f",
-      "size": 18188
+      "sha256": "511266f617551f0361eec8884f8deeda93493d705a606f8c1faeecf40af1ed77",
+      "size": 8734
     },
     {
       "path": "Data/Object53/Realm100.OZJ",
@@ -62138,8 +62138,8 @@
       "path": "Data/Object53/Realm106.bmd",
       "required": true,
       "critical": false,
-      "sha256": "dd0d25e2b8e985b0c7295ff2fa829e850e6806f315081628f68878fbdf30fd70",
-      "size": 15348
+      "sha256": "c3b2c6ace93784aed6ee810e06f96f6ae30720ee372d731edb27d0182ce45bbb",
+      "size": 2338
     },
     {
       "path": "Data/Object53/Realm106.OZT",
@@ -62152,8 +62152,8 @@
       "path": "Data/Object53/Realm107.bmd",
       "required": true,
       "critical": false,
-      "sha256": "df296f12e4e03fcac01a2de9e2ab38bbb4a9e345ef2894cd58c37072d460111e",
-      "size": 3836
+      "sha256": "b608a5cf1af7dc294a3f41557c3b8bbbc8646410cd2522faf8f418b319378f3b",
+      "size": 27368
     },
     {
       "path": "Data/Object53/Realm108.bmd",
@@ -62187,8 +62187,8 @@
       "path": "Data/Object53/Realm110.bmd",
       "required": true,
       "critical": false,
-      "sha256": "728496815aec393007e273df162c3d3da97fccdd5e09979cd048483540b0a612",
-      "size": 6226
+      "sha256": "a0c464aa778d7e90b29a36a8c9887d00c8ec3b5bc1805594554039f59b146039",
+      "size": 27368
     },
     {
       "path": "Data/Object53/Realm110.OZJ",
@@ -62411,134 +62411,134 @@
       "path": "Data/World53/EncTerrain53.att",
       "required": true,
       "critical": false,
-      "sha256": "bb7f199ed8fa8dea90f9898dbc66b67a76b13c63bf9ce907efce0b45df3cea74",
+      "sha256": "93fd621740a0a2f127302ea9742942395500f9f3953d3b2a5d4805bf54444652",
       "size": 65540
     },
     {
       "path": "Data/World53/EncTerrain53.map",
       "required": true,
       "critical": false,
-      "sha256": "6ca0adf361537cb472d6810f687e642b84a21cc8e931a2cceb3fa5f40ee4e510",
+      "sha256": "ebae6af6e9ef3e171069eb74aeccfd5ceb6ebf4bd4f66fe79266743965f6760f",
       "size": 196610
     },
     {
       "path": "Data/World53/EncTerrain53.obj",
       "required": true,
       "critical": false,
-      "sha256": "c489c28cc9f572f69cc9589d3507b69ea3203365de8f575159905a3f85b7f3d2",
-      "size": 6874
+      "sha256": "1073eff4cf71943b2219a32f7b6e06bcc3a4dc2969d454e8cd5824d5cb946a00",
+      "size": 102364
     },
     {
       "path": "Data/World53/TerrainHeight.OZB",
       "required": true,
       "critical": false,
-      "sha256": "588a7485109fe1e4075f6739cf88ada913689135b488387ee78904e0aec9f0df",
+      "sha256": "ac669e05c3af01aba4d3920a225c61fd3480176ef1072238ed1d291b3187ecda",
       "size": 66618
     },
     {
       "path": "Data/World53/TerrainLight.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "ca92e7318968d51015b7110e91043d70d65e8d12446a3fcfb206a60e4b0fe01d",
-      "size": 15785
+      "sha256": "4aa7cbcf39d9a9ffbc59930ad4e159a30f352f3c9f5ffa9f703111a4b690eb52",
+      "size": 22778
     },
     {
       "path": "Data/World53/TileGrass01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "d33a4717c0ec2109ad9d349ae98c009dd60338267156d7c5e7529b8299cb1ff0",
-      "size": 3233
+      "sha256": "900acaeab3f41dc2f80a066e5f4766b978000666580a7e1d64f9596a18cce354",
+      "size": 70432
     },
     {
       "path": "Data/World53/TileGrass02.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "15a8fcf56d2154b15a7e103c246d7a1131d8946a7732d999012c74b3317e4f0d",
-      "size": 2885
+      "sha256": "719235fdb374d3cdbadf4798dfe247a0a0d8b8219d299fba421f8efb4ed7b8e4",
+      "size": 31235
     },
     {
       "path": "Data/World53/TileGround01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "5bfb1126037897452a58d26b071b4cd442a3d4a84d3a5b2738a383886ac0bb94",
-      "size": 2971
+      "sha256": "0a107a88287e01a9a20b966b8880f480763e43e632f7fe22eeafa296d6401567",
+      "size": 96282
     },
     {
       "path": "Data/World53/TileGround02.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "4a086e11872661eaa050c2f916b8c09a66c6663a65dfd4ac10fa62addba01de5",
-      "size": 3801
+      "sha256": "18f61276af2380278c3bb08e737bf2cfab2f15fa48820870d0163a43a71da609",
+      "size": 17099
     },
     {
       "path": "Data/World53/TileGround03.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "c7c648fd89576f5f62270bac150ae71b49f243e247065fcbd9b470e5673fb88e",
-      "size": 3979
+      "sha256": "956ff5c656a8ddc3e621b392c77dc3c217c0594ded2422ccad227ae42fdee6d4",
+      "size": 34562
     },
     {
       "path": "Data/World53/TileRock01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "a25c60fc42236b2b9de01af661a663d7eb33279be9a9fb77ace8a7a0cae245ab",
-      "size": 3096
+      "sha256": "ae88a73e45848110c5383bbbaa7d19c90984d77878fe9358ba7c1e69eb4a10c2",
+      "size": 100444
     },
     {
       "path": "Data/World53/TileRock02.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "a0a1a6a42f3994829a105d1fadd8794be9a930e0fc49251a27ffff554d619802",
-      "size": 3779
+      "sha256": "738ba36e791f585e1243d455d36b92d603a373c021a47335b928db39fe6ed9a1",
+      "size": 22922
     },
     {
       "path": "Data/World53/TileRock03.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "74892044d7892f160b428ba60da7846a09731535d89d2bdaede4971fbb9ff6f6",
-      "size": 2218
+      "sha256": "8e9ad906b817ddb2f335bdbdbeaede68f0da30571924474ac9b14d15b58bc2a3",
+      "size": 48191
     },
     {
       "path": "Data/World53/TileRock04.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "a35d927352a18d17f39f4a90b55811b6b9d98c66a9dcaec93f77a724c4c3fbc1",
-      "size": 2841
+      "sha256": "e2a76dbba33b50e83b2a2b7c42b38e378f5806cd25c1807d4bde7656405bc193",
+      "size": 47016
     },
     {
       "path": "Data/World53/TileRock05.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "7ed906416af5556642fbd2bef62bbad8cd38a89ac6e2991b04612f589a05d081",
-      "size": 3213
+      "sha256": "d77a501b29c1381f1a53e49caa7448ac88faf49ff16a3a10600db113ae2711a6",
+      "size": 36164
     },
     {
       "path": "Data/World53/TileRock06.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "5bfb1126037897452a58d26b071b4cd442a3d4a84d3a5b2738a383886ac0bb94",
-      "size": 2971
+      "sha256": "e4f19f1c93267e5c51870c879b359aa7b9590db19cc3cec69a312eadff2f4595",
+      "size": 26660
     },
     {
       "path": "Data/World53/TileRock07.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "5bfb1126037897452a58d26b071b4cd442a3d4a84d3a5b2738a383886ac0bb94",
-      "size": 2971
+      "sha256": "1a7ac8badb61b4fd37e32246fa2c5cb72645099e777290162c4635dd2f75ede5",
+      "size": 33070
     },
     {
       "path": "Data/World53/TileWater01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "fb4efe7df21cda4408c21341ba7d90e0de64d5aa4a74a4ceb50c4e17a32c5c1a",
-      "size": 2925
+      "sha256": "fbe5beb16a959113dcae9d27cff13788e6e7fc9ff6e612ec923552c19e9aaee8",
+      "size": 63000
     },
     {
       "path": "Data/World53/TileWood01.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "cdb59b663fa28bdc7a88bf1d4336a34f3ee0848ed0ff55f9322d9839ca21eb7a",
-      "size": 4668
+      "sha256": "ddf73f6c2a6849cfeb5e8b4e0e764e2e5dc01d12f9ec5b8565dd2b640b5ed4db",
+      "size": 50650
     },
     {
       "path": "Data/Object53/a7_au_03.OZJ",
@@ -62791,6 +62791,111 @@
       "critical": false,
       "sha256": "c690ffd01f21afc6f32e0c96e73fae1ac252b2a5c0c5e5c5639543ba2478da6f",
       "size": 30854
+    },
+    {
+      "path": "Data/Object53/a7_au_10.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "d9276652a30c03e55a1d1e3a3a85a7df8f6272c6e908ccf8fc7441a4e8406fc9",
+      "size": 102944
+    },
+    {
+      "path": "Data/Object53/a7_au_11.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "8065c7af0bcd846c35f8607d1992fed8e827a26741a2bef2544764390ebbf713",
+      "size": 93987
+    },
+    {
+      "path": "Data/Object53/a7_au_5.OZT",
+      "required": true,
+      "critical": false,
+      "sha256": "0d4f33ecc98b6ba4b6e7406a15ccde4aed5dcc4ce5a029e472aa19bcc66b3af7",
+      "size": 4144
+    },
+    {
+      "path": "Data/Object53/a7_bons.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "0ed1d9cb1c8da9e0f128d51a607a7b4ecab8ee89bfdab67917ba0e7116542ec5",
+      "size": 27799
+    },
+    {
+      "path": "Data/Object53/Realm12.bmd",
+      "required": true,
+      "critical": false,
+      "sha256": "4b2219e4a2003b8bca3420b84f7ab3548253d3e88120b907d4b3b81722586297",
+      "size": 24257
+    },
+    {
+      "path": "Data/Object53/Realm27.bmd",
+      "required": true,
+      "critical": false,
+      "sha256": "e771ec8104add3fe2bcba5ff01a386ef1b10a02079bbeb4b8ae412a33a374e91",
+      "size": 21072
+    },
+    {
+      "path": "Data/Object53/Realm34.bmd",
+      "required": true,
+      "critical": false,
+      "sha256": "d0a6fe58d8fe42c64a12508a3771c3201391bb478f8e4cda989d499f65308ca3",
+      "size": 39554
+    },
+    {
+      "path": "Data/Object53/Realm44.bmd",
+      "required": true,
+      "critical": false,
+      "sha256": "71413d4db9dca041716919f647e559172b1f39661df5d6ddbf101771743e8e01",
+      "size": 71568
+    },
+    {
+      "path": "Data/Object53/Realm45.bmd",
+      "required": true,
+      "critical": false,
+      "sha256": "1c0a9f7bef8c675262f16438f57514eedc978f0e2014c9b59418895fa8cc7e36",
+      "size": 6132
+    },
+    {
+      "path": "Data/Object53/Realm46.bmd",
+      "required": true,
+      "critical": false,
+      "sha256": "2e6454d697de23dd5984f733ce9d876f7c7e152fa60b5b43fd8e891107f806cc",
+      "size": 8544
+    },
+    {
+      "path": "Data/Object53/Realm55.bmd",
+      "required": true,
+      "critical": false,
+      "sha256": "bac54393dada146eae3c343418a905f167c305d53f7bcb056299fefd15ad49ba",
+      "size": 14502
+    },
+    {
+      "path": "Data/Object53/Realm56.bmd",
+      "required": true,
+      "critical": false,
+      "sha256": "946850424c596cadbbd76d0026df4049202d3b18a1573ddc7334c2d860def81d",
+      "size": 6454
+    },
+    {
+      "path": "Data/Object53/Realm57.bmd",
+      "required": true,
+      "critical": false,
+      "sha256": "ba02440198a8d34cd35fb7f5ab4db9034eddc9f133bdf51be4843ffc925ba3a9",
+      "size": 6462
+    },
+    {
+      "path": "Data/Object53/Realm60.bmd",
+      "required": true,
+      "critical": false,
+      "sha256": "55de625c384e0086d9bfd2306a7f2c6a66aeab0328296af9468f31c414a4719e",
+      "size": 27368
+    },
+    {
+      "path": "Data/Object53/Realm91.bmd",
+      "required": true,
+      "critical": false,
+      "sha256": "cb27308238a6525b7a02b9ce70073825e5491840bab6d226e936816363effb9f",
+      "size": 27368
     }
   ],
   "delete": []
