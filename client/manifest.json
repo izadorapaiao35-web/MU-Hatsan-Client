@@ -1,5 +1,5 @@
 {
-  "version": "1.0.39",
+  "version": "1.0.40",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -62411,22 +62411,22 @@
       "path": "Data/World53/EncTerrain53.att",
       "required": true,
       "critical": false,
-      "sha256": "30939b2786d3029532521380dac0510820b81525e30d6f6d5b31a8d8e6fa019e",
+      "sha256": "bc4de78a363564127be6bc0ab20a6375d81241097a55669a87314973200d8bc4",
       "size": 65540
     },
     {
       "path": "Data/World53/EncTerrain53.map",
       "required": true,
       "critical": false,
-      "sha256": "ebae6af6e9ef3e171069eb74aeccfd5ceb6ebf4bd4f66fe79266743965f6760f",
+      "sha256": "30f1f8803e231d2c579123d369fa1db9a5779e87373806d34bd529a97fdb4dca",
       "size": 196610
     },
     {
       "path": "Data/World53/EncTerrain53.obj",
       "required": true,
       "critical": false,
-      "sha256": "a066d08f8cae82f9047e910a7110123eae7684b10506178742f1c1386f792767",
-      "size": 102394
+      "sha256": "5e2119b802b732074e246f8329b045151398f517cd3fbf0cc00982739c1187e8",
+      "size": 99004
     },
     {
       "path": "Data/World53/TerrainHeight.OZB",
@@ -62439,8 +62439,8 @@
       "path": "Data/World53/TerrainLight.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "7e2200021414d4e97908ee9cd86c566973cd45ee3decb8207e345608d948a336",
-      "size": 22818
+      "sha256": "d0429039e0550632f4117cad13a906fdd0d9de82c72e474e88f049a4e9fed510",
+      "size": 23034
     },
     {
       "path": "Data/World53/TileGrass01.OZJ",
