@@ -1,5 +1,5 @@
 {
-  "version": "1.0.44",
+  "version": "1.0.45",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "67aba566194b2c69968ae4f4aa31153052a90589d95e361d40e2ff9df456cce7",
-      "size": 390144,
+      "sha256": "2e726e467451963c05d22d3f73cae19478d6aa36a3dbc8a033806452c7c26532",
+      "size": 395776,
       "required": true,
       "critical": true
     },
@@ -38478,15 +38478,15 @@
       "path": "Data/Object53/Realm56.bmd",
       "required": true,
       "critical": false,
-      "sha256": "946850424c596cadbbd76d0026df4049202d3b18a1573ddc7334c2d860def81d",
-      "size": 6454
+      "sha256": "754a14ce9a68e8be459f982cf1fddb4d794047c08ac6f7346ebf0c04b9676100",
+      "size": 18047
     },
     {
       "path": "Data/Object53/Realm57.bmd",
       "required": true,
       "critical": false,
-      "sha256": "ba02440198a8d34cd35fb7f5ab4db9034eddc9f133bdf51be4843ffc925ba3a9",
-      "size": 6462
+      "sha256": "875aac7a5a45f2266462329f978908993a3c535ee8b5c91f963e4b1150dd72a2",
+      "size": 123823
     },
     {
       "path": "Data/Object53/Realm60.bmd",
@@ -61872,7 +61872,7 @@
       "path": "Data/World53/EncTerrain53.att",
       "required": true,
       "critical": false,
-      "sha256": "140f2e1c171f0248b4515d77bdf9b169e2e512d9e953c79dac04f086c7c3e094",
+      "sha256": "8fd217cc33f28cace605ec7e60883cb11e7d7a2f4f8f29f04163a765d530a1a8",
       "size": 65540
     },
     {
@@ -61886,8 +61886,8 @@
       "path": "Data/World53/EncTerrain53.obj",
       "required": true,
       "critical": false,
-      "sha256": "bed8851cd02da28c7e150deca1679294b0d705b541927a52f487bc1e5cf60639",
-      "size": 99934
+      "sha256": "394aa6b902b10d116ffb669d1becd778c9c3fb75c0e96d45545b9d081552bd54",
+      "size": 99274
     },
     {
       "path": "Data/World53/TerrainHeight.OZB",
@@ -63169,6 +63169,55 @@
       "critical": false,
       "sha256": "a5c1fbe2798fbecc89661b61eb1b190cb124978bd74eb735e85d7dd1c3d72783",
       "size": 4941
+    },
+    {
+      "path": "Data/Object53/fdr_body.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "fe7fe95cf2ce7f5023498a5543bee8aa343d15796c28512a4afd8ca56f67d9af",
+      "size": 68122
+    },
+    {
+      "path": "Data/Object53/fdr_head.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "7b52334cf023efcae5dfae90f56445e173fb3fecc9b07ef1f967ef88aac3d867",
+      "size": 8363
+    },
+    {
+      "path": "Data/Object53/fdr_wing.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "68ed7ed8596e2349355ce7f05f4ddd4b014b70b8460da9024785ce20c5ad097a",
+      "size": 31170
+    },
+    {
+      "path": "Data/Object53/floor_chair.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "3d950060b76275ebb83d58a735d23ca5e372e915cec52046ceef2b26a1e464bf",
+      "size": 9307
+    },
+    {
+      "path": "Data/Object53/wall_door02.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "64f440973c88604bc9e4b55f6fbc27110b2b9dc6da8f2e3daf512e5d4d659c52",
+      "size": 6477
+    },
+    {
+      "path": "Data/Object53/wall_door03.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "f83fa4a5b5e379d7fe4659f84887a25b00d374df12cf0bb9d0473d79b26ba0d6",
+      "size": 22572
+    },
+    {
+      "path": "Data/World53/HatsanPortas.txt",
+      "required": true,
+      "critical": false,
+      "sha256": "b9b71b100feb43fb403aad9973f41652ef26dec1c3d6b91f5deeff625a3e6f61",
+      "size": 1204
     }
   ],
   "delete": []

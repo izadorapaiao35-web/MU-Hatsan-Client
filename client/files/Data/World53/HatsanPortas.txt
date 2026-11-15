@@ -1,0 +1,19 @@
+// Portas automaticas do mapa 52 (World53) - objeto tipo 37 (Realm37.bmd = porta de Devias)
+// x y (unidades do mundo, 100 = 1 celula)  yaw_fechada yaw_aberta (graus)  escala  local
+// ATUALIZACAO_8: portoes das entradas dos reinos maiores (escala 1.6 = 6,4 celulas de largura, 4,8 de altura)
+13785.0	20660.0	180.0	270.0	1.075	// EDOM sala do trono
+14215.0	20660.0	0.0	270.0	1.075	// EDOM sala do trono
+21660.0	13035.0	90.0	180.0	1.175	// ELAM sala do trono
+21660.0	12565.0	270.0	180.0	1.175	// ELAM sala do trono
+13635.0	3681.5	0.0	90.0	1.175	// MOABE sala do trono
+13165.0	3681.5	180.0	90.0	1.175	// MOABE sala do trono
+4996.9	12565.0	270.0	0.0	1.175	// SABA sala do trono
+4996.9	13035.0	90.0	0.0	1.175	// SABA sala do trono
+13080.0	16450.0	180.0	270.0	1.600	// EDOM entrada do reino
+13720.0	16450.0	0.0	270.0	1.600	// EDOM entrada do reino
+17150.0	12480.0	270.0	180.0	1.600	// ELAM entrada do reino
+17150.0	13120.0	90.0	180.0	1.600	// ELAM entrada do reino
+13080.0	9250.0	180.0	90.0	1.600	// MOABE entrada do reino
+13720.0	9250.0	0.0	90.0	1.600	// MOABE entrada do reino
+9650.0	12480.0	270.0	0.0	1.600	// SABA entrada do reino
+9650.0	13120.0	90.0	0.0	1.600	// SABA entrada do reino
