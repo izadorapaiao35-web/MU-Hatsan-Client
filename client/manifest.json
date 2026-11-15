@@ -1,5 +1,5 @@
 {
-  "version": "1.0.43",
+  "version": "1.0.44",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "be8ffd70e1741ea9586cac7f624cb775349832407c13ff26190f5d2d2a996b52",
-      "size": 387584,
+      "sha256": "67aba566194b2c69968ae4f4aa31153052a90589d95e361d40e2ff9df456cce7",
+      "size": 390144,
       "required": true,
       "critical": true
     },
@@ -25875,7 +25875,7 @@
       "critical": false
     },
     {
-      "path": "Data/object34/object01_¿øº».bmd",
+      "path": "Data/object34/object01_\u00BF\u00F8\u00BA\u00BB.bmd",
       "sha256": "4526abbfc781d7a53d2494de9e096b9b88e41291f9cd9809993a0a9dc1a284d2",
       "size": 4389,
       "required": true,
@@ -55905,7 +55905,7 @@
       "critical": false
     },
     {
-      "path": "Data/Sound/sÀü»ç¹æ¾î.wav",
+      "path": "Data/Sound/s\u00C0\u00FC\u00BB\u00E7\u00B9\u00E6\u00BE\u00EE.wav",
       "sha256": "b2fc6aae80f27aae88562f1faea221b18d108a10a339df1cfbe9f21fa73e8bdc",
       "size": 192786,
       "required": true,
@@ -61872,7 +61872,7 @@
       "path": "Data/World53/EncTerrain53.att",
       "required": true,
       "critical": false,
-      "sha256": "4bcba18e01839e750c960d10c6d741d3d82a7fa09c21dae13efdec3eabc63e6c",
+      "sha256": "140f2e1c171f0248b4515d77bdf9b169e2e512d9e953c79dac04f086c7c3e094",
       "size": 65540
     },
     {
@@ -61886,22 +61886,22 @@
       "path": "Data/World53/EncTerrain53.obj",
       "required": true,
       "critical": false,
-      "sha256": "b31f0556e4a82e6719b57c8bb76a869d06f38ddb2399ea3ed67d3e329a235355",
-      "size": 100144
+      "sha256": "bed8851cd02da28c7e150deca1679294b0d705b541927a52f487bc1e5cf60639",
+      "size": 99934
     },
     {
       "path": "Data/World53/TerrainHeight.OZB",
       "required": true,
       "critical": false,
-      "sha256": "904eaf91dc8486de7ff2f64945c6caa434bf341d91da6f5e17a74608dcbdaf7a",
+      "sha256": "c6c6d1572e4685594c0d1c46ad90188bbb527950698fe47a2abf15d439c83339",
       "size": 66618
     },
     {
       "path": "Data/World53/TerrainLight.OZJ",
       "required": true,
       "critical": false,
-      "sha256": "c2ea4736eb270c5a48e7560e7bf8390b14704ecb086d5aaa54050ea19e52b6c4",
-      "size": 23542
+      "sha256": "a5e5421e1425498ec24cdfdc79ebf908a83f248b07a70535f39d3c678540f291",
+      "size": 23423
     },
     {
       "path": "Data/World53/TileGrass01.OZJ",
@@ -63113,6 +63113,62 @@
       "size": 212992,
       "required": true,
       "critical": false
+    },
+    {
+      "path": "Data/Object53/cr_stonewolf_ba.ozj",
+      "required": true,
+      "critical": false,
+      "sha256": "370444af3b35b0c6946634c545bb95f60c52d5254c17a29594ffaba178e386da",
+      "size": 111787
+    },
+    {
+      "path": "Data/Object53/cr_stonewolf_ba01.ozj",
+      "required": true,
+      "critical": false,
+      "sha256": "5c55bc1a38db039968aba9aa4b3f3236e5e29131dc0be68199e584b5f35b0d9c",
+      "size": 36937
+    },
+    {
+      "path": "Data/Object53/htht01.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "f67aa7451dc5e969bd36a53971b7fdabe27a66ea4950fe6b0f1f31b5506cd723",
+      "size": 67998
+    },
+    {
+      "path": "Data/Object53/ob3.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "7e8c9b77ddf97efccf14d83d7a23a1689093dbd3679c7b09fe85343cb2d5b62a",
+      "size": 28112
+    },
+    {
+      "path": "Data/Object53/Realm35.bmd",
+      "required": true,
+      "critical": false,
+      "sha256": "c20f5fe83ce4c272ea2bcedde7e9a95e5ca74d3169dfadd7e26e178af1fd9b40",
+      "size": 1806335
+    },
+    {
+      "path": "Data/Object53/Realm36.bmd",
+      "required": true,
+      "critical": false,
+      "sha256": "9636495942e246af9a8c602a30188a2eb2cd586fe049c2efaef11d4b3ed28227",
+      "size": 130966
+    },
+    {
+      "path": "Data/Object53/tetraton.ozj",
+      "required": true,
+      "critical": false,
+      "sha256": "7bcf1543f9deff4190756d5d53ed5d419b3667166a452e96d5f28ac726609ffc",
+      "size": 112146
+    },
+    {
+      "path": "Data/Object53/yellow_jewel.OZJ",
+      "required": true,
+      "critical": false,
+      "sha256": "a5c1fbe2798fbecc89661b61eb1b190cb124978bd74eb735e85d7dd1c3d72783",
+      "size": 4941
     }
   ],
   "delete": []
