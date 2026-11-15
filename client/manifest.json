@@ -1,5 +1,5 @@
 {
-  "version": "1.0.47",
+  "version": "1.0.48",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "fa69f01137459332315f227a44ff56a701344e4a6b1bf6c93b2bdefe667c128d",
-      "size": 400896,
+      "sha256": "9880c056dfecec68af599a3d52509e926373462acf7a79273a93a91258fb0226",
+      "size": 400384,
       "required": true,
       "critical": true
     },
@@ -61886,8 +61886,8 @@
       "path": "Data/World53/EncTerrain53.obj",
       "required": true,
       "critical": false,
-      "sha256": "394aa6b902b10d116ffb669d1becd778c9c3fb75c0e96d45545b9d081552bd54",
-      "size": 99274
+      "sha256": "d61ad91947834f79c67361f790f9b76540ebb76caa570323f841ef6000b5bf69",
+      "size": 99034
     },
     {
       "path": "Data/World53/TerrainHeight.OZB",
