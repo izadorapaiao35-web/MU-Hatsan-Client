@@ -1,5 +1,5 @@
 {
-  "version": "1.0.53",
+  "version": "1.0.54",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -2552,15 +2552,15 @@
     },
     {
       "path": "Data/Interface/accept_box01.OZJ",
-      "sha256": "4d4b9f239330b1add0c03a44b9eec1440e11328940053f07e783f3e9d9cd072f",
-      "size": 5995,
+      "sha256": "4e066f81fccb70b4cc03fa48492f3945b7a1c67c903bc83a558844e3f8151138",
+      "size": 2972,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/accept_box02.OZJ",
-      "sha256": "016ea5a95d9665b5c33c16c94d8798a1961a1eb808032fd41500cddb4f7ede57",
-      "size": 6171,
+      "sha256": "8e1703383e885dad66002687407cd116c839454ea7e2dec7c01c9c4365bb846b",
+      "size": 3427,
       "required": true,
       "critical": false
     },
@@ -2601,15 +2601,15 @@
     },
     {
       "path": "Data/Interface/b_command01.ozj",
-      "sha256": "6839e40ea1b96503c606c143cac5954e3bab46ff22847f47d781ec88ac2d4226",
-      "size": 10737,
+      "sha256": "e5111946a16dca438acc799ab54aea12552bfbf473387a3df23295878fe81c2d",
+      "size": 1891,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/b_command02.ozj",
-      "sha256": "da08d37b8ffd3acfd5a1fe4e5f8e1902f91552a5f9ec7ea09f761b68ac4f8aca",
-      "size": 10752,
+      "sha256": "91b5404db219bf54f20619bfde6d35129943bcebc4c1511c0e3aab5a55ae182c",
+      "size": 1842,
       "required": true,
       "critical": false
     },
@@ -2636,36 +2636,36 @@
     },
     {
       "path": "Data/Interface/b_group02.ozj",
-      "sha256": "66b92873b5992de16821e7f5d45bcbc367a966503f8771c6e9d813ddbb992894",
-      "size": 10610,
+      "sha256": "1dba34fdfd616d3765fc5eeefa78cfd97dca020b4f1e8868b5188dd4476ba7a4",
+      "size": 1550,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/b_zoomout01.ozj",
-      "sha256": "f397400cfb169c634f3476ede62636a7720e94f52adf7577be8d75ad7a310e92",
-      "size": 11243,
+      "sha256": "d9dd3d8767051ae5a03e0b4cd08604cf4202db3cc2668320297723a5ed41754e",
+      "size": 2233,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/back1.OZJ",
-      "sha256": "6c3d87545d8f2e7c3cc0c3a69b1abe9f0343be4532a7cfcaddf10eec551551d6",
-      "size": 6017,
+      "sha256": "3be3ca69dc69331d50dc750b0258781ec641f50ccb8cdaa401af7b296c8ed2ff",
+      "size": 2526,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/back2.OZJ",
-      "sha256": "14d6b2bcef41485e6e53048abf6ec998d92350664c88b77c1d037a45da23364a",
-      "size": 6621,
+      "sha256": "87a749c7d0575577d6a346c93aebe9697132ca2e8d8f9f74c831ed82babf9c1d",
+      "size": 3373,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/back3.OZJ",
-      "sha256": "07c23f54d378618a08e364545c82750d1843be1fce1a5bdc6a0ecef54e8a03ed",
-      "size": 6572,
+      "sha256": "ca8b8a28b6fb940767245e3406fd8c34f226b97a2aed8a916583011eb2443a43",
+      "size": 3140,
       "required": true,
       "critical": false
     },
@@ -2685,15 +2685,15 @@
     },
     {
       "path": "Data/Interface/bar.OZJ",
-      "sha256": "34671424f94f37aaf145de19653fe276667e9b4509381180dd81b1daea0f151f",
-      "size": 5770,
+      "sha256": "3b47816b0026d8477f2e04251e32069a7d5145f18b667e8f78faf3b3698a3f57",
+      "size": 2119,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/battleskill.ozt",
-      "sha256": "224cf0a8d573c6bcb8d1e4a0c05b2c5a29a92bebd956cc947a7489182e60809f",
-      "size": 16432,
+      "sha256": "ae598da63d60d564609a842de21e62d59d85a19809c8ad74a6c4c1fd5c82be55",
+      "size": 65558,
       "required": true,
       "critical": false
     },
@@ -2706,43 +2706,43 @@
     },
     {
       "path": "Data/Interface/btn_pshop.OZJ",
-      "sha256": "a21fa5a18aeb06efca4a69b1c31c6ea2b40444301529cfc9987f8dc74c5d4deb",
-      "size": 12747,
+      "sha256": "11ff7cbbf868e0ee96410a7bfa09327bf5727fd1403a594d010c096643433ed8",
+      "size": 2936,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/btn_pshop2.OZJ",
-      "sha256": "603588772ab95e617aaf7b0a399ff8cb6df6c598e844eb8803673a3de1373255",
-      "size": 12736,
+      "sha256": "c462d00dc30a64f05d65273ff39075efbd9c9ec9f36946e0124360ed92bf576a",
+      "size": 2963,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/buy_01.OZJ",
-      "sha256": "9e6130346054d9c05645b9cabc9ed2aa86c53f3e9328bb15c3be8a654e9875ab",
-      "size": 5932,
+      "sha256": "e3c92c10d4a2bcf7774eb5e009501d0a0667dedaf696830ec1faba87b0449763",
+      "size": 3004,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/buy_02.OZJ",
-      "sha256": "c72e07a622e91b33bbb3aaf0237c962a77760631f15261ccfc239164a81e2a8f",
-      "size": 5888,
+      "sha256": "b62846339ed611ab05ce9c6fa2765cbebb14e5448da1b44b70b62f68a722df1d",
+      "size": 2936,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/cancel.OZJ",
-      "sha256": "07555f04270355958aff51e66917137533db112ca04bca2cd3577e3d8b6793fb",
-      "size": 6923,
+      "sha256": "47e4773d00ab65c0c3279567fbd4bd385265630bd6c49f92f4e1b378fdf06437",
+      "size": 3882,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/cancel2.OZJ",
-      "sha256": "0793c5bf1bb8b0a28bd9dd1aab47d0dc2b9ed24d00c9998b0f3e99d37dd84f7e",
-      "size": 7697,
+      "sha256": "12ee3a290d7b4265ede1b4d3b326ddffb7a1ef7d037d89574b031582196cbfee",
+      "size": 5168,
       "required": true,
       "critical": false
     },
@@ -2769,29 +2769,29 @@
     },
     {
       "path": "Data/Interface/character_ex.ozt",
-      "sha256": "eebe413f67dc2d2ff7a9d6bb7cece5b8dd2c2b30888474f2a439af1f3127363c",
-      "size": 25536,
+      "sha256": "ffe8f60e6b6db06b6a8273066ac63a7d8dd14fa3570b097dcf82a3cf1122b05b",
+      "size": 101974,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/cmdType.OZJ",
-      "sha256": "86d550448b744c3092069a2a00830fbc6b47761a83cb465e759aaa768e1ae51d",
-      "size": 101578,
+      "sha256": "450135ca63ab2dd7be1dbedb5f53f73ebf668e8fd092b06fd1a7865e1404efdc",
+      "size": 201734,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/coin.OZJ",
-      "sha256": "3290beb6609ee5d663265ca46354ec58fb44f6183fc4bfe7c35206604d5796e1",
-      "size": 8894,
+      "sha256": "cb462c233ba4c3ecf398bdc45c5c0ac69e5c7124d809d8b478a74fed6f799f94",
+      "size": 1749,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/command.ozj",
-      "sha256": "d17f813c3da2aab79a29f0652ccb1c7946452d3778a832e6e981993df4e30214",
-      "size": 113295,
+      "sha256": "b68ad345625d2b0ad9be9a1e3b5a0ec7f70fc333b345800d3ff4d1ccca0f7480",
+      "size": 141228,
       "required": true,
       "critical": false
     },
@@ -2916,8 +2916,8 @@
     },
     {
       "path": "Data/Interface/deco.ozt",
-      "sha256": "9546214aa55a652113bfafab60ee14af9ec887b80081fc41bce4e6263e8f5a33",
-      "size": 77916,
+      "sha256": "532b955ae6159c88e7006a8c322e8c540bb2a3897c37b7bd6bd572c973cb86b5",
+      "size": 311494,
       "required": true,
       "critical": false
     },
@@ -2944,22 +2944,22 @@
     },
     {
       "path": "Data/Interface/dialogue1.OZJ",
-      "sha256": "cef197f35ed20b4227b054f89464df48377b635b27b00b6f4abcb51b51dafdba",
-      "size": 10048,
+      "sha256": "ec679dc476ce5d0ae528c7ae6bf5ca271094083e685a74228c29f4ab92ceeadf",
+      "size": 9478,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/dialogue2_1.OZJ",
-      "sha256": "c4e1ad3ae1fe3bcc295b205658a1975fcd4906e7b0a184d07ba2802df281667c",
-      "size": 5230,
+      "sha256": "ffd75e80fa27fe8d9129d3027392af98fe1b0220ab6a5d9c95e71328521a0cea",
+      "size": 1863,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/dialogue2.OZJ",
-      "sha256": "a1222912b3cf365789778e4923f7990170ffd36f6fca15fcdc8efcfcd1a1275a",
-      "size": 9778,
+      "sha256": "68ce4b47e5891aec83c806db59da9729813735c69b7365fa51131f2f4d108e7b",
+      "size": 10176,
       "required": true,
       "critical": false
     },
@@ -2986,8 +2986,8 @@
     },
     {
       "path": "Data/Interface/DuelWindow.OZJ",
-      "sha256": "700898e9b0e7a595991db6632a566a08dc10da44d4fbc124423fc0b76b85e6fe",
-      "size": 18631,
+      "sha256": "fc7eaf7182bfaa377bb8d29a265446c964b5d805c634930c2833c1a3efd807f5",
+      "size": 22820,
       "required": true,
       "critical": false
     },
@@ -3007,15 +3007,15 @@
     },
     {
       "path": "Data/Interface/exit_01.OZJ",
-      "sha256": "ff30ea6b7b373ee74142c071fd0ada8c4e9559ec5f86e37a68c7539dda7a1c92",
-      "size": 5954,
+      "sha256": "5e92702ba144b9b8dbe9a37c0c4dddcde3d94d68bc69b0fb65ddaeb2073714e3",
+      "size": 3052,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/exit_02.OZJ",
-      "sha256": "003107b1a37be4e84e889ace07d7211ded6e976eb780a7452bf7ae2ef5b736cf",
-      "size": 6066,
+      "sha256": "a716542ec13fd3773702b2159a1eeabed21c989a781db659d9464d1c8d7fd675",
+      "size": 3382,
       "required": true,
       "critical": false
     },
@@ -3049,8 +3049,8 @@
     },
     {
       "path": "Data/Interface/frame.ozt",
-      "sha256": "d7e67cf67924c85d476c00d5bee88dab93b6658ecd2733c4afef68920800f05f",
-      "size": 104540,
+      "sha256": "7de6afcce52e8b3f5423aa588da413d2f3a6c65c2a884258d4ecac58ec322b5c",
+      "size": 417990,
       "required": true,
       "critical": false
     },
@@ -3091,15 +3091,15 @@
     },
     {
       "path": "Data/Interface/gate_button1.ozj",
-      "sha256": "cf5c07d5b957c2877ae2ec7a90f16387658c4fae1807329e986e609875e09305",
-      "size": 9884,
+      "sha256": "3495ba8cc125a9172ad0b5b78eddfb9228187c9506d01290990d655f8c233d56",
+      "size": 2778,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/gate_button2.ozj",
-      "sha256": "46e61416d79a5bb906cd2d1d51152c00ee4c2d442a47c953d8e8b9223b99e155",
-      "size": 9558,
+      "sha256": "aa8825348d6ed733a862ddc6ffd94ef7dc9fc941e08508bfe0f48b79689b571e",
+      "size": 2398,
       "required": true,
       "critical": false
     },
@@ -3126,8 +3126,8 @@
     },
     {
       "path": "Data/Interface/Guild.OZJ",
-      "sha256": "d9a05b4e1071e00aba67905f0c0c4f7c2a212dd27dff680fa4000f7e41e2bc40",
-      "size": 6321,
+      "sha256": "0fb66fcbadefd9970ae5fc55c548ff616ce8c104f47487d13c9b31b15358eb60",
+      "size": 3200,
       "required": true,
       "critical": false
     },
@@ -3161,8 +3161,8 @@
     },
     {
       "path": "Data/Interface/hourglass.ozt",
-      "sha256": "4a9463572757f22e4d1070d8b1a0d2f705a3188373be016f97ca08120ba11f1f",
-      "size": 14216,
+      "sha256": "3e2f866251f32c29efea57409389befddbc40575dcf62f97718ced97c3eef948",
+      "size": 56694,
       "required": true,
       "critical": false
     },
@@ -3469,15 +3469,15 @@
     },
     {
       "path": "Data/Interface/in_bar.ozt",
-      "sha256": "e35d3f5f1b237b3d33c2508b555755715e14d3c91a69252bb4fb3d1ada48d1c6",
-      "size": 8196,
+      "sha256": "97f59fc8e5fd9bba121564ce842e3f208cb62bda55f8b78b0e17ad8c4ba404f6",
+      "size": 32614,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/in_bar2.ozj",
-      "sha256": "1570eda6578655b1790c1b0e09b3d9027939fef3bc7bed9fea5de7e01f80e04f",
-      "size": 11038,
+      "sha256": "81380604e477f9376d1f162b7e7274b287fda78893fbb996fea58d1f4c520aa1",
+      "size": 1693,
       "required": true,
       "critical": false
     },
@@ -3546,127 +3546,127 @@
     },
     {
       "path": "Data/Interface/in_main.ozt",
-      "sha256": "180b6c6ce3197c7eccba46e6b52bf7a518253e8dc4cc3e6d219f2418f0e72d6a",
-      "size": 47872,
+      "sha256": "688e587433434c984eaaee4bfac2efe3a914d9c57e9ab8927c61a5511711ec75",
+      "size": 191318,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/in_main2.ozt",
-      "sha256": "bdfa975a7179f0985e60b1e43a60c9e1b09d10039f407c298b9fea4420c1ca53",
-      "size": 10728,
+      "sha256": "d52a4639f79d8ea4ff7b71451dff31e398e4189d3b0a00770b0f35e844ebec80",
+      "size": 42742,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/InventoryBox2.OZJ",
-      "sha256": "34e4270c7ab05964de8e26dd04b2d74741db75a721ebb0b12b991464cc4709cf",
-      "size": 5870,
+      "sha256": "7e2927016e36b01b3954dde03b0229f505a1e47708b485dd3a8b194cb0d39825",
+      "size": 1852,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Item_Back01.OZJ",
-      "sha256": "6f27e73a54ff28767204db0e25e2a4551ad8f71564545ceaf82cbe01e4690523",
-      "size": 47198,
+      "sha256": "2c30d4bee063e76a09b7fba2f680ee51db2ff5b0ba0faf7d6a84949c73e048d6",
+      "size": 87360,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Item_Back02.OZJ",
-      "sha256": "42d0257096f7b7c9673bb96bf62cf6273dcb13e0744d2676b71f3c81dbcdbd7b",
-      "size": 34070,
+      "sha256": "53384baaf741f8c010fa0a52984bc9eed18a187e529004155d6bd80122a84ea7",
+      "size": 61827,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Item_Boots.OZJ",
-      "sha256": "a4d5105800cec2f3bd1203077061a25ebabd763bbb50602b7be1fb3e86622d95",
-      "size": 6293,
+      "sha256": "1c290b3fef91e9f9aa615c479dc4395c7c72105e3136ee14fd085b8d1b294afd",
+      "size": 3209,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Item_box.OZJ",
-      "sha256": "e089b321c4a96f4f95e623c3128fa8bf1ce8581eeaa537c10d96c308350ba91f",
-      "size": 5500,
+      "sha256": "538f189c495116bd5baa5b5cd76109921e7c20dfed2979b19a44ba5f37bc2b93",
+      "size": 2217,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Item_Cap.OZJ",
-      "sha256": "744667a1b2feb53ad7f47694a6dd06fea731c0ebaea2d6d5d0f03e105c9f5308",
-      "size": 6312,
+      "sha256": "11120e708475e8b8d0b9573f0da62637fbc73321fd7df1e0b089d67a18d39d1d",
+      "size": 3200,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Item_Fairy.OZJ",
-      "sha256": "8bdcb88a3662777e8d6b20735ed1e8ec47b45764d2c0a25eb0be18cf95bff6c9",
-      "size": 6395,
+      "sha256": "e6ce56842f4abb242b828ebe5cc4965d86c85b7fd5ff40041986f1464fe9e2c0",
+      "size": 3610,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Item_Gloves.OZJ",
-      "sha256": "554851c08aea029d04ba60695cc3b72d4de67fb1dcaaed883e8b8fac52e7e14a",
-      "size": 6441,
+      "sha256": "f0098a1163678c352affc577e6d126ea0e48ac208684a5dab5e0db34cabc65b4",
+      "size": 3610,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Item_Lower.OZJ",
-      "sha256": "935c9dd4a354f0152985ff04f711e2a333b6b6c6ae0b61a00e7685f4af6fc582",
-      "size": 6479,
+      "sha256": "48f3f0d7af494bd72bd00727ce61b04c8f4be12509b9e96597b98adaebcc8693",
+      "size": 3770,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Item_Money.OZJ",
-      "sha256": "87ad8c8799c8de4d54ae8094c0f367007d89eaff05ac21ae519d634409ef259a",
-      "size": 6759,
+      "sha256": "02c2cc2cfa63784231dd6d610b7d3da2af690f749f5514e11596a2871d67020d",
+      "size": 3738,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Item_NeckLace.OZJ",
-      "sha256": "33bf83d34e8a410e0a89584c355e91e4a40bbb8da11dc1cb0172bbeaffc00f5c",
-      "size": 5251,
+      "sha256": "193696736d9150ea2710e5c707227125f131a86a3d1489202a19448f363c9814",
+      "size": 1549,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Item_Ring.OZJ",
-      "sha256": "c90e8d44c923b49524025bc1e3d8bbb7db5833007fd46f1b248eeb20ecc3959a",
-      "size": 5230,
+      "sha256": "6e8e212a552b14b9f8b763930d888e6a397b9e2f63661fd0c17aef4465a13367",
+      "size": 1492,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Item_Upper.OZJ",
-      "sha256": "4fd7bd13e7212839a8f5dd12d9d208c718a62112c1dc4a00a16a5489f9278fd3",
-      "size": 7413,
+      "sha256": "7deebc42bcd2807841027e697a325a8f8fd27652d249a73ac7dcea7b1f09c4c6",
+      "size": 5202,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Item_Weapon01.OZJ",
-      "sha256": "1b7809dd57fbf2abdb203b856f467b7b903b96e04ce45c278b6ab44c82e8b18e",
-      "size": 7381,
+      "sha256": "de0e2b1553ab08a634b7aa3949eee17ac82682317ab5488410d4ac430fbd6c28",
+      "size": 5164,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Item_Weapon02.OZJ",
-      "sha256": "aa2c640cd094769c7eaf8a60c5d48be929bab4f40e450156b0a643ab064fcbe5",
-      "size": 7252,
+      "sha256": "5b43011d0349b4347b9e2d194b15d0a617b849bf3f60f723e5fe0f30f2af280b",
+      "size": 4955,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Item_Wing.OZJ",
-      "sha256": "b62ab344f2cc8091d512c8a8c80c3d90898c66fc577d54ae96bbaabc27f7d8f0",
-      "size": 6977,
+      "sha256": "7771eb6d8297116b05c73ff1bd9824fda33048f2ff877ea7a0615c4e63d26299",
+      "size": 4149,
       "required": true,
       "critical": false
     },
@@ -3763,29 +3763,29 @@
     },
     {
       "path": "Data/Interface/level_01.OZJ",
-      "sha256": "ae9cf7c5f5022685999f726c40c8f5bd2103896eb6879b05e87696114419dfe3",
-      "size": 6244,
+      "sha256": "b762b2dd509282068a17fe0214a2832a3da626c95df8f678f8b24c61770a099e",
+      "size": 3722,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/level_02.OZJ",
-      "sha256": "2d4cbe0ac1f322dc8416c78382def61e74c57cb11356c7c25c910e287f17ca41",
-      "size": 6222,
+      "sha256": "7d1dfabe4d59bd78a897cbf89972d5fb9a6a726c6382ea7d1405ded78faef35b",
+      "size": 3323,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Level_box.OZJ",
-      "sha256": "a4d34e596ba29e8e376c1f289f2c8fe8d8180479d6803e11ea7cbad982a6c7f8",
-      "size": 7112,
+      "sha256": "ba8cf7837665adec0860e8ab301c9c9f95c0f674cb667df9a5a206f9d000698b",
+      "size": 4876,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/level01.OZJ",
-      "sha256": "c083a122df3a074f1890bbfd1a6197f8eb28838e37865c1cf59a692369b64d80",
-      "size": 5047,
+      "sha256": "23d809df6de1295c27bf82f5c31b04d8975b7107f4e9e2ac0f4688d17fc19753",
+      "size": 661,
       "required": true,
       "critical": false
     },
@@ -3798,22 +3798,22 @@
     },
     {
       "path": "Data/Interface/lo_back_01.ozj",
-      "sha256": "7425be9737996981ebdbc5a50d1ef3c30f82e4e2eb28df740bd98fe7d26a126e",
-      "size": 159705,
+      "sha256": "c36a76e45fef6198dcf9687f26a277653fbc37aece12269706f01de2d0f661d9",
+      "size": 279209,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/lo_back_02.ozj",
-      "sha256": "48aa47429203b299520f72eac4ab0ac15c7d6f2299c8764c69fa276f5aa14e3b",
-      "size": 162368,
+      "sha256": "e961619a6f90ec5413bb148c775016e5d0f5fb64e15b8f6b7047da22bdddc6e0",
+      "size": 275314,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/lo_lo.ozj",
-      "sha256": "a45ff736ead654cbab7661425f61bab8b09d91df4a6ee8c7194875660013c92e",
-      "size": 16905,
+      "sha256": "aef305fd939008e767d3a5789538423c5cd0bd37691804970e753de0d5b356a9",
+      "size": 736,
       "required": true,
       "critical": false
     },
@@ -3833,29 +3833,29 @@
     },
     {
       "path": "Data/Interface/lock_01.OZJ",
-      "sha256": "d9f7d8e096bdedb8a2de8bcba1e52bbb7bf3b28e49eaec589f434f7ce81d76ec",
-      "size": 6174,
+      "sha256": "a6f08521c938aae4e2fdd599e08e818461c83bf692e483564ede79f7f2eaf892",
+      "size": 2979,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/lock_02.OZJ",
-      "sha256": "3d4eaf5f6cc4e3b9b9950d8e22407e3fc2faf072807bdb1bc51ce84c687412af",
-      "size": 6314,
+      "sha256": "3e1c08617eb5975858cecf4d606fcccc779ce21c207162cc11b6846da0e30054",
+      "size": 3301,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/lock_03.OZJ",
-      "sha256": "96975d08bedfadb4e8973874aa8d9cb7f57f10d89baa881b5e6b9aa42d02e819",
-      "size": 6230,
+      "sha256": "c64f748efe5951c70a17bac5b17be8c914f3cdc4a8e5732f8e8d6d59b4f38272",
+      "size": 3055,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/lock_04.OZJ",
-      "sha256": "35cd05b83e1f4c8f427f49c999b4c153384fd12093f8770c1a5a7a120e8f1ef3",
-      "size": 6351,
+      "sha256": "43fa8e6841953ae5027eb69da9cbd83a6a694f0c7f5eb31e1f8f91ee45cfce12",
+      "size": 3342,
       "required": true,
       "critical": false
     },
@@ -3910,92 +3910,92 @@
     },
     {
       "path": "Data/Interface/lsbg01.ozj",
-      "sha256": "dccf468b546062bbd91ce6a6e074beecdab999b61a8eedfa43c21b5a750e25bb",
-      "size": 143245,
+      "sha256": "5228680537262ce984d8f7da92b63341333fdb9ad04d93c1aabe94138169a83b",
+      "size": 297389,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/lsbg02.ozj",
-      "sha256": "def1a6aa262f328bf379242feb3727379fe50b84dc00dc5ed896b4ce2504dae2",
-      "size": 192418,
+      "sha256": "cd95aa8ad52f6745f3c1804655397c0392326d403bd51cc6d4471d9ec32180e2",
+      "size": 308064,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/lsbg03.ozj",
-      "sha256": "daa0e69014e34491b3d8e4a6c25103ba8e22ee9bea1921913f1f9893b6f973ff",
-      "size": 86015,
+      "sha256": "1cfe7cc53526a7f5b0c34a01142380b85456cdfe7854965f55596a4867b5e67a",
+      "size": 102586,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/lsbg04.ozj",
-      "sha256": "8de50c527adb273df233c76cc9d19db3de9a344cf9acccb804ef26f6dd5d57df",
-      "size": 77117,
+      "sha256": "49da6d96516929e592a5cce37301b5f06a88227ce365c5f41a7c0f9dceae743b",
+      "size": 117297,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/m_b_no1.ozt",
-      "sha256": "87a0c2ff2d27839795a3158f5d7e1133c25d95a5ed5e7b0432d25185830eebb4",
-      "size": 6528,
+      "sha256": "c14cea8d93900ae43c460bea63c7b56f1a3f8395ab18aa43159653bc18afa00e",
+      "size": 25942,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/m_b_no2.ozt",
-      "sha256": "2c874237a17d6e6789e69fbacef964b0e9a7484d58a5cc12da371c918b062f1d",
-      "size": 6528,
+      "sha256": "33199dae3742d2d14fd03e6bb34a027b84059d13bb77edd58495b630f0c490c9",
+      "size": 25942,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/m_b_no3.ozt",
-      "sha256": "c82edc94551e718e2114665086d798983b52c5c99228f512b4ad8da19c6c93a1",
-      "size": 6528,
+      "sha256": "71aefc2d2fa639255c8975de8e36a7259434dbf455ae035b8a37c792c15845b7",
+      "size": 25942,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/m_b_ok1.ozt",
-      "sha256": "0c6b6c97ac79ad59cb7d3a8a9e2ad6b1a0a13fd195216d5c132d5be8e1444b3c",
-      "size": 6528,
+      "sha256": "b60797b88d81104f0f11d2a8705308f6018d19686fecd7b3c3fb5926afb9c8b6",
+      "size": 25942,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/m_b_ok2.ozt",
-      "sha256": "a9db9cf1597a7fffc69c9ac8e62379b0563d28dc937a854d1d8452810d028ea8",
-      "size": 6528,
+      "sha256": "a72f30fa2455f168e1678a1c3bd0dd335f8b6e9b0d9f517cf1ac252a5721dc10",
+      "size": 25942,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/m_b_ok3.ozt",
-      "sha256": "6c58e2f4facd557be456a43f8ab8689223cfb0f7666f4ebe5f9e4a6171bf1f1d",
-      "size": 6528,
+      "sha256": "af11e57478fdabddf59a2a87babd7e1e9f499d2aa1cf820c3b06db326366b20e",
+      "size": 25942,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/m_b_yes1.ozt",
-      "sha256": "821ed7b09d0c5826a7dccab4103c0e5f338dc4b477030ba0a22790c6b67262d4",
-      "size": 6528,
+      "sha256": "33c6e8bd090008985c8f3cc37b1ce217901df879ac89d9f3bd240f8d48a06fe6",
+      "size": 25942,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/m_b_yes2.ozt",
-      "sha256": "57d55081496af4e03e4521f887f736815374579eab14e9121e801162917e4f79",
-      "size": 6528,
+      "sha256": "44e7afbe0ee460781cc71722b92b96201551c7b390b5bbc2a7f51859cc553bd1",
+      "size": 25942,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/m_b_yes3.ozt",
-      "sha256": "0507238e0887b0e4dbd5219ccd204322ad351b680e581f6d07df010063c455c1",
-      "size": 6528,
+      "sha256": "ec23e7bc56e81ca42f23ce45ab181d48fe32777fb9d67dcd6b66a660f4321695",
+      "size": 25942,
       "required": true,
       "critical": false
     },
@@ -4008,8 +4008,8 @@
     },
     {
       "path": "Data/Interface/m_main.ozt",
-      "sha256": "c5ec3b1a9380a1c6a5f0d414d558edc7aa21130881d5e9c95fde0190349078fb",
-      "size": 66928,
+      "sha256": "9e0cf0a8e0b208164d51ff7c3a0aefab856645d1562bec893d2ff02857025233",
+      "size": 267542,
       "required": true,
       "critical": false
     },
@@ -4211,162 +4211,162 @@
     },
     {
       "path": "Data/Interface/Menu_Blue.OZJ",
-      "sha256": "9b98e093eea3ba815985988b92a3f99639a4320307b4fa5fed6990d09e2b2ee8",
-      "size": 10269,
+      "sha256": "fa1c26005647195b4d6417f5cccf23e80f13662a401eb3637d4a200d3e0eb965",
+      "size": 7786,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/menu_cashshop.ozj",
-      "sha256": "9b8b2d1f5cfcde1380288e07f549b57e989ebb5be5532df90993fe3dd756444c",
-      "size": 14145,
+      "sha256": "738aff900242f2c35c33e5e7426236d1eb4b4b3505e33232bef49298186c81ef",
+      "size": 2689,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Menu_Character.OZJ",
-      "sha256": "d245f7df4bb221bca852011ca006564514335c8fee3cca15c7d5521552bc3ee9",
-      "size": 5644,
+      "sha256": "8f9e9a78deab478d1e58d3f24b50c7e429940c7292a5cd13e2d4dbcb9da396a5",
+      "size": 2508,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Menu_Green.OZJ",
-      "sha256": "b1594deed3c6047cfd40aa1065e773d71d1ff2821f6bbb1a1ca4b5d6601750ac",
-      "size": 9940,
+      "sha256": "527355eb81824da6305a5f41538d528bf64122905cb0d84c0109576e8f97a67e",
+      "size": 9095,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Menu_Inventory.OZJ",
-      "sha256": "12260fc87a89e710542db06cc2dea789039f995878f30467ff08cabe762f2eb8",
-      "size": 5811,
+      "sha256": "98df4a77a7a65611aa22791fd08fc0a9087531d655e4834b2da2158d94ee199f",
+      "size": 2611,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Menu_Party.OZJ",
-      "sha256": "b1449bedbdf32656d3596af1f55f221c409c24ab7b0c7a9b57a2d8348540f422",
-      "size": 5798,
+      "sha256": "f533a49554a5fa361dae475fc688e5fb694aaf8aa7ebaa39afe1ede854675313",
+      "size": 2572,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Menu_Red.OZJ",
-      "sha256": "74f3bcec39567e41b4c3576768ed1c6cfaad97cf39ce564bd6b5ead4d83ea4ea",
-      "size": 9892,
+      "sha256": "a75036a9a147e5e1400516252c01ad5159c60cdef41f82994da6e0056ba27f42",
+      "size": 7530,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/menu01_new.OZJ",
-      "sha256": "256ca512df01a5f208f56676c75d10a57e43c8c47749ec5d0a58fdc6272cdc3c",
-      "size": 30618,
+      "sha256": "1a0eae370816ffb5499b04e6873031b80845fa7a649ce6e5f71cc1cafa3970a8",
+      "size": 31463,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/menu01_new2_sd.ozj",
-      "sha256": "b5a439ed250978c75cb564b91ae4b9a59c296e78023233311de1c1ef5d610a08",
-      "size": 14413,
+      "sha256": "2e2399fc9b35dd19c51d476b306724a4f5e19abe41c08c310b0b4b01be04c669",
+      "size": 2216,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/menu01_new2.OZJ",
-      "sha256": "bf6d18de6a4f44d6cbfcc76c4626fb7c5fe9c1f3a4506f43e6264935b21c0959",
-      "size": 10614,
+      "sha256": "c23d56d81f66fb6ca1c8f03670a7fb2a6ad940572d1d2d8c65bf73c3bd22578b",
+      "size": 4555,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Menu01.OZJ",
-      "sha256": "373bd12916e3f92af51f3c54dfdba256edab76e5a8284478ddf87dc2f24f6999",
-      "size": 15833,
+      "sha256": "84dd5ed2cb9e4a771c2d89f6ddef36da75534bdaeb3539894b31a32347be9481",
+      "size": 23904,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Menu02.OZJ",
-      "sha256": "6d7b661ed741582c6c991885faadedb3f6b75a8f7aad088c82cd3ba7bc451015",
-      "size": 14907,
+      "sha256": "81ae0ab46572919382889e06a1e0b0a811a47874c474825f9bdd21f5d2b6d738",
+      "size": 18268,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Menu03_new_AG.OZJ",
-      "sha256": "90d8090823b6f7ffa3621ef5ee8c416e9ed6ca455ff1c895cb9ea25381cbac7b",
-      "size": 2875,
+      "sha256": "cfd34cf6b5cf775d21d5f2b3ad2687b4d1969bd3de47b852efbbcc89102e0352",
+      "size": 2218,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Menu03_new.OZJ",
-      "sha256": "a433c4eee2902842ce72e6c9dca3f18c051eb3413ef2589658c4a84693a5c556",
-      "size": 33699,
+      "sha256": "76a19797d188e0bcce2938037182790a32e0d97e5f127666beb75d3b25973470",
+      "size": 37206,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Menu03.OZJ",
-      "sha256": "0a25e2a1f12a61d97d7ee14edd690fc01515bc43e89ae49c0bf9d43951dc4dd7",
-      "size": 16035,
+      "sha256": "d100b5f0312fc8562f48eb5d5702f8ef2f10f360b6388f79d5f2e9e38e7eb5f5",
+      "size": 24664,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Menu04.OZT",
-      "sha256": "b819a76efad4cc5cb92f85042a3e37cd3b35921104533d9b7bde193ee375bf96",
-      "size": 19488,
+      "sha256": "943e15544bab2cb9f6f2a6c9a78df42dde446bea9ae4169c8ee8d07185c16cfb",
+      "size": 77782,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/message_back.ozt",
-      "sha256": "f8b1084c133cc6bbfcbed90b76d89ca27ce495ab9e54352260d9952c69b9d87d",
-      "size": 159152,
+      "sha256": "22776f83f972a3cda538b3562c0184d54672ad91060c6a2415bc21f80839938d",
+      "size": 159126,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Message_box.OZJ",
-      "sha256": "c0b90e021496576398dfc255e4b048890c8c72de45b505030fda542364ad43e1",
-      "size": 18815,
+      "sha256": "0b5cc06ad3d66bf0a3404255c01e5773d187975bb3a6b3792accc4759d494018",
+      "size": 32598,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Message_box1.OZJ",
-      "sha256": "1c1292bfe7f6a986d68dbbda1267738531c47bd015b4f0e2e134f38961e54523",
-      "size": 7793,
+      "sha256": "c370d00ccf0e4864804d0273294b3b397b77efbdb0f5d0387356c375a53b9d84",
+      "size": 12487,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Message_box2.OZJ",
-      "sha256": "fcb44bb0f7f7ccb72d20964b9d452f5a800f90540aba05622c351f9719652810",
-      "size": 4912,
+      "sha256": "c817b52b80af11e57ddef5cc27030cd561bcefffc77df780f54fdbf91648d650",
+      "size": 6763,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/message_close_b_all.ozt",
-      "sha256": "a3d3a5ac042598941181904222f0600f982b0122f1b92e552922c5b997982091",
-      "size": 19488,
+      "sha256": "a760ea105085de1da1205c9f02e8137815720de8c37aac1a71f4863dd2ee8348",
+      "size": 19462,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/message_ok_b_all.ozt",
-      "sha256": "e03d9adfcb6a4ee77b26c1311d85650f6c822979e1e7ecf7b42a7cbe00587871",
-      "size": 19488,
+      "sha256": "2ed6fbeec5cdce16dda4bdf76204d48d8447edefd1236a8dc1825d39cd265d85",
+      "size": 19462,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Miniframe.OZT",
-      "sha256": "34ebb3b8e28a16c87a434fbf7e6bb53bf75e59d87f06598441b349da058e1aaf",
-      "size": 98864,
+      "sha256": "01b63833b04ad151ba9e223c37c936c1f614feb2f07530456459f66e013eb5b0",
+      "size": 395286,
       "required": true,
       "critical": false
     },
@@ -4386,29 +4386,29 @@
     },
     {
       "path": "Data/Interface/mix_button1.OZJ",
-      "sha256": "ed91c283bb2669f82dc3eee59388afe8397a1bd3af0d8877ce887553f7210adf",
-      "size": 5040,
+      "sha256": "964fd2930b90f601c8e6881a6aff5f69bf3f1d126fb6e34bdd0563a40510b665",
+      "size": 5495,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/mix_button2.OZJ",
-      "sha256": "b44e5010c2a82e7f1797227c98253e10fced1a2a5d174844a20997acc688a9f0",
-      "size": 5513,
+      "sha256": "315fad758c75e5cb55a0a2ceb7ee2950c88dec0dd10eac29c8c326ae048d882e",
+      "size": 6283,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Money_01.OZJ",
-      "sha256": "bd0631f66bf3d916a08293de877c3279db435aca911a0dfbafae2d87d29cab07",
-      "size": 5884,
+      "sha256": "47f3a4e4a28693eae610e92b2ed8197c516854446d03d5d826eb2cbd8b167cc2",
+      "size": 2950,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Money_02.OZJ",
-      "sha256": "b1e909bd0151aee5ec2629b6f73bc4c4dede7ed796421d3f0cad8aca050f1e55",
-      "size": 5958,
+      "sha256": "840fe22b63ffdd4996e64ac8d9f00bf5ee5dc274f20302a6ff44e96366f104c3",
+      "size": 3139,
       "required": true,
       "critical": false
     },
@@ -4687,15 +4687,15 @@
     },
     {
       "path": "Data/Interface/ok.OZJ",
-      "sha256": "2d4e12785316451601a4ea5f3e08ae6d998475fd451367f4db8572dc1a57acdc",
-      "size": 6714,
+      "sha256": "a1fc8bfa1a9f78aeafa213289aad838e3bef56df1017d54e31dc3698852961e8",
+      "size": 3454,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/ok2.OZJ",
-      "sha256": "0634602d22f078d6c58c6b42e055aa1e2e06a8a709a4d08b509cd5bffc19c1ba",
-      "size": 7352,
+      "sha256": "7254364aba8e8d7134f244e0091d4aa07aa0e07370264a705be93f53ca4b0348",
+      "size": 4443,
       "required": true,
       "critical": false
     },
@@ -4785,43 +4785,43 @@
     },
     {
       "path": "Data/Interface/pet1.OZJ",
-      "sha256": "9bdb3a66628413867829549b1cd12fb444ff317531692de604a63b0d6aa88452",
-      "size": 2984,
+      "sha256": "b5053263817d3129ea572aba2df4f71ddeb3fbe939204d5ff15b4e241a40f518",
+      "size": 2406,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/pet2.OZJ",
-      "sha256": "363cafcdc7f5d579c1f42758764bd1da80d328d4a337ef99f5865167c5bcf9c5",
-      "size": 2994,
+      "sha256": "409d89774a07e17cea457df8a398c2f5c3131f04b6ffa801e6fb53966053f89c",
+      "size": 2350,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Progress_Back.OZJ",
-      "sha256": "69f51d26047aed4515d78c705864d7508d2046861081a8a295a6be33f4a4bbb6",
-      "size": 4374,
+      "sha256": "a25d8ad694377fa92364f09a3555704d3e22c364b4868946781b01d23ae1cf8e",
+      "size": 6494,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Progress.OZJ",
-      "sha256": "097436389ce352ba63799f7cf94ca779e35ff1e9778395d658b28a6d2c2e477b",
-      "size": 3642,
+      "sha256": "8f39795d373d03c2bcfa66d017b967b61e5fcac273a1f245ba4aa453ea5fcdb9",
+      "size": 5434,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/quest1.OZJ",
-      "sha256": "1cbaa52f6f5278078284a52f537c67e0c9e9a53f8e772ca81961c3888b4959d6",
-      "size": 12628,
+      "sha256": "9439e58af301ba7e953c18d5ec82eaa2b96f9a557e28ba1924b8a5056cb6e9bb",
+      "size": 2832,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/quest2.OZJ",
-      "sha256": "7471b7b0713ca52288a82bf90f3786df129160e28cdcb4025fa5287315bdfe37",
-      "size": 12630,
+      "sha256": "b297e9b7407d6da67cabe37773f8ec552d6f71216171bd9325dbcd5f3c7400da",
+      "size": 2799,
       "required": true,
       "critical": false
     },
@@ -4834,15 +4834,15 @@
     },
     {
       "path": "Data/Interface/repair_01.OZJ",
-      "sha256": "2e4405eb605b801638b6e3417414a786ac325dc57d4e4c9118893a037f87e18a",
-      "size": 5959,
+      "sha256": "d46815c5ed3611268a56096d551087e7fca81573c30a152105916d963885bcf3",
+      "size": 3267,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/repair_02.OZJ",
-      "sha256": "10c08cf322f4faa743548acee2c7320a01f4abdcd4f0e7f22307cc288cac709f",
-      "size": 6000,
+      "sha256": "b99db28dcbc1243f647330199128fcf2fb3ddd16963c2173548a95d75ebe4ec8",
+      "size": 3223,
       "required": true,
       "critical": false
     },
@@ -4883,15 +4883,15 @@
     },
     {
       "path": "Data/Interface/sell_01.OZJ",
-      "sha256": "eafeaa08713cd0282b668563be7f13980d399aaa093f5f05395336b6ec93f85b",
-      "size": 5853,
+      "sha256": "06bb0a4e3c91105d73ea14b8fb3a3ba4b68596ffad1563c5d48474fa7dbadfa1",
+      "size": 2815,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/sell_02.OZJ",
-      "sha256": "f1b6e35206e43ffdfa61d6a853490740bead59eb241ae316ff4222d4b057a867",
-      "size": 5845,
+      "sha256": "73aeacc7bbd169d2336d16cfc998394c8bf0193a6370df1d518edd5a77dd859a",
+      "size": 2801,
       "required": true,
       "critical": false
     },
@@ -4960,8 +4960,8 @@
     },
     {
       "path": "Data/Interface/setitem.OZJ",
-      "sha256": "161541aa0a90057ab26e8c21cd53851003b36088c47ae2405aeb35f11a9ce7d7",
-      "size": 11956,
+      "sha256": "3c691aa6cc326b463b7037bfe5f7e90f79b529f9c8aaea3cbf23f4ab75e7be40",
+      "size": 8516,
       "required": true,
       "critical": false
     },
@@ -5086,15 +5086,15 @@
     },
     {
       "path": "Data/Interface/Skill.OZJ",
-      "sha256": "069d068efa602c190bc34122c9cd7188d53dd788323ec3bed4bad6177619419d",
-      "size": 97865,
+      "sha256": "69603d53b1ef7ef22f71fc8708233ba31519bd90c44235a73b983ea16b944f9b",
+      "size": 205429,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/skill2.OZJ",
-      "sha256": "3819637934ae9951285b4724b73471ac74f355980fcc578625b45f384d4fba3a",
-      "size": 121453,
+      "sha256": "ec5bb762b3b72da2f1ba45156df8ad4b0ef68137eebe34506ce2543de9d44e3d",
+      "size": 164679,
       "required": true,
       "critical": false
     },
@@ -5107,8 +5107,8 @@
     },
     {
       "path": "Data/Interface/statusicon.ozj",
-      "sha256": "d515c8f4147162b6d562baccaa623d6392cf468b4422df7a511f8c1bc627eea6",
-      "size": 123041,
+      "sha256": "460b5affbeb4442e2c3cc2381d42221e111f2fe78085ea6c7d9e66172ebfceac",
+      "size": 164409,
       "required": true,
       "critical": false
     },
@@ -5177,22 +5177,22 @@
     },
     {
       "path": "Data/Interface/suho_button1.ozj",
-      "sha256": "e71d2f1f0302c8cc342f4e8954f3fddcf73728283e540b9326185336ec16d34d",
-      "size": 10219,
+      "sha256": "ad6269139b7cbbca940afe1ec61787353f5eff387556b82606d16be9ab215962",
+      "size": 3306,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/suho_button2.ozj",
-      "sha256": "89a3c409c54179da71e372adbe24cadf56a6647e5621bec555db0d1ce10a5364",
-      "size": 9657,
+      "sha256": "4bee16c40276e7f4945be2a23a7e108143fdb3eb27b2d2cae3c502392ef3c297",
+      "size": 2554,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/t_main.ozt",
-      "sha256": "c9646a7c3237613fc0941313cd03155de654e16f9a8b8b82d358586a22419204",
-      "size": 22368,
+      "sha256": "6f9302664d2e2fb220e03e9c7a95014ff367a65e99c06183529914083807ec4e",
+      "size": 89302,
       "required": true,
       "critical": false
     },
@@ -5247,15 +5247,15 @@
     },
     {
       "path": "Data/Interface/text_button.OZJ",
-      "sha256": "f897f7dca301446a79131e7a452218b827d3c21df3d713c1223f37324fbf016b",
-      "size": 10284,
+      "sha256": "9cbf0f1f46da4f5a95fe68d03621b99827db1ae20ed4626793428b2a9e9f7573",
+      "size": 3447,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/Trading_line.OZJ",
-      "sha256": "2b96394e26a8e34f5d5b288e892856f2ce0c8bce725b932fa0b01d8cd44e4e29",
-      "size": 8808,
+      "sha256": "14dcf68f964906b096df27cb049da4a2c788de0d5a61598b549d603c8603571f",
+      "size": 7943,
       "required": true,
       "critical": false
     },
@@ -5282,8 +5282,8 @@
     },
     {
       "path": "Data/Interface/win_button.OZT",
-      "sha256": "65f75a307e2bbc6061e420ad509d24faff9e43f0605cb39a01be543c3a23b54e",
-      "size": 3184,
+      "sha256": "879d6f1f0f49b6239156619927872684d631b343bc937f6bc99b8abbbf102df2",
+      "size": 12566,
       "required": true,
       "critical": false
     },
@@ -5296,8 +5296,8 @@
     },
     {
       "path": "Data/Interface/win_letter.OZJ",
-      "sha256": "e7e43d96f28d4905916aa469878b44ce835725e7d7f5ac6a0c7027451abcb179",
-      "size": 8895,
+      "sha256": "79cd228c25d2c9b37351213c32373ec4bd6fa63771c3ec07c2fe7a32535a8c7f",
+      "size": 1645,
       "required": true,
       "critical": false
     },
@@ -5310,8 +5310,8 @@
     },
     {
       "path": "Data/Interface/win_man.OZJ",
-      "sha256": "7fae14cb535a6d784f62879c945cdb98e53b745416bd768b7ed9bf889c0ad20a",
-      "size": 11182,
+      "sha256": "0e5443748d62108e5b5de6783b7bf221792aa252eb9596260f5351ada8d6e358",
+      "size": 4599,
       "required": true,
       "critical": false
     },
@@ -5324,8 +5324,8 @@
     },
     {
       "path": "Data/Interface/win_push.OZJ",
-      "sha256": "e627a2ccab5764bd84ac5b9b05c4f047f59c872a40efd3c02396db5aea4462fb",
-      "size": 10843,
+      "sha256": "5c9b2b68dbe9d7a1e3907e0930d77b5268a7d4ef56dd6f856540d9f620db8693",
+      "size": 3769,
       "required": true,
       "critical": false
     },
@@ -5345,36 +5345,36 @@
     },
     {
       "path": "Data/Interface/win_scrollbar.OZJ",
-      "sha256": "0aea0f6558e9bc89c697d992232088075da4fa085439001eee8a212b94518e59",
-      "size": 9466,
+      "sha256": "93ffd2bbd42701d4efd4bc5528bcbaa5afd80c9982e0f907856cb37a7d332dd3",
+      "size": 2149,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/win_size.OZJ",
-      "sha256": "47eeeeac213eef79662bf1cf44e05e67f09967d10434b0dbed22f696cfd8b838",
-      "size": 9460,
+      "sha256": "b8566cbfe13d4fa7d3002e904dad822781cca4e3cdceb910057c8463d6241a75",
+      "size": 2244,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/win_titlebar.OZJ",
-      "sha256": "acbad9e7ed5b07891beecfba40842190c3191dea7dfa93331fb661509b6e6dfe",
-      "size": 8378,
+      "sha256": "26ee0738bc4e5468b8f1b73dd35656446f7ee1760062d2a9133c5a0e84d67907",
+      "size": 726,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/wing_left.OZT",
-      "sha256": "301b92c96e31a4cecec5b695cced080868f756c4bf6926d34e8a08c4eee2743d",
-      "size": 33548,
+      "sha256": "d94ca71f78bbe58a3ce778e53a04a25f23154a780c48a15986fb27df052567dd",
+      "size": 134022,
       "required": true,
       "critical": false
     },
     {
       "path": "Data/Interface/wing_right.OZT",
-      "sha256": "d21be38c0e775d4ccc00bce872431fa13bcc36de6b0e00b1dfc616eaef75d9b8",
-      "size": 33548,
+      "sha256": "7a17b2a058b7c00bd55c48b9c7fcc09c0c984cd45bb64e6a69aac4b7b0e2521e",
+      "size": 134022,
       "required": true,
       "critical": false
     },
