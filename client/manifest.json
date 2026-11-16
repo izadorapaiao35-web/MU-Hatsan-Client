@@ -1,5 +1,5 @@
 {
-  "version": "1.0.49",
+  "version": "1.0.50",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "27f6e5ebe1fb99c5bc4845d1ba616a515c09ec588554dfc00b01d35da207b48f",
-      "size": 400896,
+      "sha256": "323c960995ae048edfb10591fb67cf7712e6276437a28f7863283cd8be0666e2",
+      "size": 403456,
       "required": true,
       "critical": true
     },
@@ -63218,6 +63218,20 @@
       "critical": false,
       "sha256": "b9b71b100feb43fb403aad9973f41652ef26dec1c3d6b91f5deeff625a3e6f61",
       "size": 1204
+    },
+    {
+      "path": "Data/Custom/Reinos/reino-proprio.hat",
+      "sha256": "8b8f751847f27be463e4f85360ef0958478d693fbdf97620329693c57e79abd1",
+      "size": 184328,
+      "required": true,
+      "critical": false
+    },
+    {
+      "path": "Data/Custom/Reinos/reino-estrangeiro.hat",
+      "sha256": "c72e2e617d02f545092add50f7b073a078fd96ce152625f0459ccf7b864e2f83",
+      "size": 184328,
+      "required": true,
+      "critical": false
     }
   ],
   "delete": []
