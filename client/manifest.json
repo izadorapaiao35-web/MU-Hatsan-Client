@@ -1,5 +1,5 @@
 {
-  "version": "1.0.50",
+  "version": "1.0.51",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "path": "Customs.dll",
-      "sha256": "323c960995ae048edfb10591fb67cf7712e6276437a28f7863283cd8be0666e2",
-      "size": 403456,
+      "sha256": "2e2effcd940333a64447c996139da6f372c185e6b51214321de3d2dda0f712d0",
+      "size": 404480,
       "required": true,
       "critical": true
     },
@@ -25875,7 +25875,7 @@
       "critical": false
     },
     {
-      "path": "Data/object34/object01_¿øº».bmd",
+      "path": "Data/object34/object01_\u00BF\u00F8\u00BA\u00BB.bmd",
       "sha256": "4526abbfc781d7a53d2494de9e096b9b88e41291f9cd9809993a0a9dc1a284d2",
       "size": 4389,
       "required": true,
@@ -55905,7 +55905,7 @@
       "critical": false
     },
     {
-      "path": "Data/Sound/sÀü»ç¹æ¾î.wav",
+      "path": "Data/Sound/s\u00C0\u00FC\u00BB\u00E7\u00B9\u00E6\u00BE\u00EE.wav",
       "sha256": "b2fc6aae80f27aae88562f1faea221b18d108a10a339df1cfbe9f21fa73e8bdc",
       "size": 192786,
       "required": true,
@@ -61886,7 +61886,7 @@
       "path": "Data/World53/EncTerrain53.obj",
       "required": true,
       "critical": false,
-      "sha256": "d61ad91947834f79c67361f790f9b76540ebb76caa570323f841ef6000b5bf69",
+      "sha256": "1ad53b645eb7b9a5beb8daa4b9ccf0bb40b74e21553cc7d57d43c9f92b7e7a15",
       "size": 99034
     },
     {
@@ -63232,6 +63232,76 @@
       "size": 184328,
       "required": true,
       "critical": false
+    },
+    {
+      "path": "Data/Custom/Reinos/praca-neutra.hat",
+      "required": true,
+      "critical": false,
+      "sha256": "e90d6ff14afe17c50f7ede0b3c61c060cf92ad09fecf5d2149b86af656877f64",
+      "size": 1048584
+    },
+    {
+      "path": "Data/Custom/Reinos/registro-reinos.hat",
+      "required": true,
+      "critical": false,
+      "sha256": "f420934a0f8ed09f4993c1d5eefb76350d8ad586900a3cbae0b098062fb2410f",
+      "size": 2097160
+    },
+    {
+      "path": "Data/Custom/Reinos/reino-natal-edom.hat",
+      "required": true,
+      "critical": false,
+      "sha256": "2c25f3be59ea2541cb1e707f431619ac3927b21c0df2494c740e0973cf9d9744",
+      "size": 2097160
+    },
+    {
+      "path": "Data/Custom/Reinos/reino-natal-elam.hat",
+      "required": true,
+      "critical": false,
+      "sha256": "5a2ee8863b1febb57b5eee565b136b6c3ce117bc2a09812cbcbcc75187f43f21",
+      "size": 2097160
+    },
+    {
+      "path": "Data/Custom/Reinos/reino-natal-moabe.hat",
+      "required": true,
+      "critical": false,
+      "sha256": "837e914368e05df41e1be7fc0c3ce7abc9142e6e551f95ed3822671cd9cefd6b",
+      "size": 2097160
+    },
+    {
+      "path": "Data/Custom/Reinos/reino-natal-saba.hat",
+      "required": true,
+      "critical": false,
+      "sha256": "41f1dd98498ba9cace44173842b7b42215e16378772907223893646a8bc14764",
+      "size": 2097160
+    },
+    {
+      "path": "Data/Custom/Reinos/territorio-invasor.hat",
+      "required": true,
+      "critical": false,
+      "sha256": "bae6c639e7dc6dd76487c998070272603aa453e82aa3bb91a05e9725207b82ef",
+      "size": 1048584
+    },
+    {
+      "path": "Data/Custom/Reinos/viagem-titus.hat",
+      "required": true,
+      "critical": false,
+      "sha256": "9e27a5198c72d598c51663b6afb33d37817bc598cac4d822f082418738f297d4",
+      "size": 2097160
+    },
+    {
+      "path": "Data/Object53/Realm54.bmd",
+      "required": true,
+      "critical": false,
+      "sha256": "1d73894c4d6195156eee79706c52c487d01f58806d1daa30587713e4105145ce",
+      "size": 450
+    },
+    {
+      "path": "Data/Object53/ReinosSelo.OZT",
+      "required": true,
+      "critical": false,
+      "sha256": "e78bbe58f11c747e4ff14844b86b2346b182531e0d4834b08f019729a4384d0a",
+      "size": 262166
     }
   ],
   "delete": []
