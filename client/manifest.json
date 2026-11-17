@@ -1,5 +1,5 @@
 {
-  "version": "1.0.55",
+  "version": "1.0.56",
   "baseUrl": "https://raw.githubusercontent.com/izadorapaiao35-web/MU-Hatsan-Client/main/client/files",
   "files": [
     {
@@ -63004,15 +63004,15 @@
     },
     {
       "path": "main.lab",
-      "sha256": "e993a86f728d858fc3f4cf7a3b85525efaaacb49de35aa94530502a2d355ba31",
+      "sha256": "b4bd948d31631ec5c624a8866bccc2c4c990eab350e9721adbb337601e6ae9ec",
       "size": 57,
       "required": true,
       "critical": true
     },
     {
       "path": "MainLab.ini",
-      "sha256": "27c2f4848b8a38334734f2fa4ba2c5fe74ced2d0d9b97a1bae348f622ad923b6",
-      "size": 3078,
+      "sha256": "078fc3055db2568148659c2d2420b0c609451aa5c5d9875f05ecfd21f3c82b58",
+      "size": 3077,
       "required": true,
       "critical": false
     },
@@ -63053,8 +63053,8 @@
     },
     {
       "path": "MUHATSAN_LAUNCHER.ini",
-      "sha256": "96cb109f3c9145751eaf7a0beb49ae6b56fbca4ff629be079c5ab9dd81f91c1b",
-      "size": 727,
+      "sha256": "176352fb7c3ac27dbabab8131165547c19883ad36ba79ef75e4389238886516d",
+      "size": 726,
       "required": true,
       "critical": true
     },
